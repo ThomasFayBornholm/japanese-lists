@@ -1,0 +1,22 @@
+{
+"taberu": ["tabemasu", "tabemashita", "tabemasen", "tabeta", "tabeta"],
+"kaku": ["kakimasu","kakimashita","kakanai","kaite"],
+"suru": ["shimasu","shimashita","shinai","shite"],
+"kuru": ["kimasu","kimashita","konai","kite"],
+"hanasu": ["hashirimasu","hashitte","hashiranai","hashitta"],
+"iku": ["ikimasu","itte","ikanai","itta"],
+"nomu": ["nomimasu","nonde","nomanai"],
+"kau": ["kaimasu","katte","kawanai","katta"],
+"matsu": ["machimasu","matte","matanai","matta"],
+"kiku": ["kikmasu","kiite","kikanai","kiita"],
+"yomu": ["yomimasu","yonde","yomanai","yonda"],
+"oyogu": ["oyogimasu","oyole","oyoganai","oyoida"],
+"hashiru": ["hashirimasu","hashitte","hashiranai","hashitta"],
+"miru": ["mimasu","mite","minai","mita"],
+"neru": ["nemasu","nete","nenai","neta"],
+"okiru": ["okimasu","okite","okinai","okita"],
+"oshieru": ["oshiemasu","oshiete","oshienai","oshieta"],
+"deru": ["demasu","dete","denai","deta"],
+"kiru": ["kimasu","kite","kinai","kita"],
+"oboeru": ["oboemasu","oboete","oboenai","oboeta"]
+}
