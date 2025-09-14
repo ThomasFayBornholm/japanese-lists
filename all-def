@@ -419,6 +419,7 @@
   "yasumu": ["やすむ", "to rest / be absent","verb"],
   "ageru": ["あげる", "to give","verb",["agemasu","agenai","agemasen"],["あげます","あげない","あげません"]],
   "morau": ["もらう", "to receive","verb",["moraimasu"],["もらいます"]],
+  "genbaku": ["げんばく", "atomic bomb","noun"],
   "eiga": ["います","film"],
   "nakunaru": ["なくなる","to be lost / to disappear","verb",["nakunarimasu","nakunaranai","nakunarimasen","nakunatte","nakunarimashita"],["なくなります","なくならない","なくなりません","なくなって","なくなりました"]],
   "mimasu": ["みます","to watch/see","verb"],
