@@ -1,691 +1,4061 @@
- {
- "awaseru": ["あわせる", "to match / combine","verb",["awasemasu","awasenai","awamasen","awasete"],["あわせます","あわせない","あわせません","あわせて"]],
- "bunsho": ["ぶんしょ", "document","noun"],
- "hachigatsu": ["はちがつ", "August","noun"],
- "hashiru": ["はしる", "to run","verb",["hashirimasu","hashiranai","hashirimasen","hashitte"],["はしります","はしらない","はしりません","はしって"]],
- "katsu":  ["かつ", "to win","verb",["kachimasu","katanai","kachimasen","katte"],["かちます","かたない","かちません","かって"]],
- "kawaru": ["かわる", "to change","verb",["kawarimasu","kawaranai","kawarimasen","kawatte"],["かわります","かわらない","かわりません","かわって"]],
- "keru": ["ける", "to kick","verb",["kerimasu","keranai","kerimasen","kette"],["けります","けらない","けりません","けって"]],
- "makeru": ["まける", "to lose","verb",["makemasu","makenai","makemasen","makete"],["まけます","まけない","まけません","まけて"]],
- "nageru": ["なげる", "to throw","verb",["nagemasu","nagenai","nagemasen","nagete"],["なげます","なげない","なげません","なげて"]],
- "reesu suru": ["レースする", "to race","verb",["reesu shimasu","reesu shimasen"],["レースします","レースしません"]],
- "saabu suru": ["サーブする", "to serve (a ball)","verb",["saabu shimasu","saabu shimasen"],["サーブします","サーブしません"]],
- "tobu": ["とぶ", "to fly","verb",["tobimasu","tobanai","tobimasen","tonde"],["とびます","とばない","とびません","とんで"]],
- "utsu": ["うつ", "to hit / strike","verb",["uchimasu","utanai","uchimasen","utte"],["うちます","うたない","うちません","うって"]],
- "yaru": ["やる", "to do / give (to pets, plants, younger siblings)","verb",["yarimasu","yaranai","yarimasen","yatte"],["やります","やらない","やりません","やって"]],
-"/manubu": ["まなぶ","to learn","verb",["manabimasu","manabimasen","manande","manabimashita"],["まなびます","まなびません","まなんで","まなびました"]],
-"Berugii no": ["ベルギーの", "Belgian","adjective"],
-"Berugii": ["ベルギー", "Belgium"],
-"Cheko no": ["チェコの", "Czech", "adjective"],
-"Cheko": ["チェコ", "Czech Republic"],
-"Denmaaku no": ["デンマークの", "Danish","adjective"],
-"Denmaaku": ["デンマーク", "Denmark"],
-"Doitsu no": ["ドイツの", "German","adjective"],
-"Doitsu": ["ドイツ", "Germany"],
-"Doyoubi": ["どようび","Saturday"],
-"Finrando no": ["フィンランドの", "Finnish", "adjective"],
-"Finrando": ["フィンランド", "Finland"],
-"Furansu no": ["フランスの", "French","adjective"],
-"Furansu": ["フランス", "France"],
-"Getsuyoubi": ["げつようび","Monday"],
-"Girisha no": ["ギリシャの", "Greek", "adjective"],
-"Girisha": ["ギリシャ", "Greece"],
-"Gogatsu": ["ごがつ","May"],
-"Hachigatsu": ["はちがつ","August"],
-"Hangarii no": ["ハンガリーの", "Hungarian", "adjective"],
-"Hangarii": ["ハンガリー", "Hungary"],
-"Ichigatsu": ["いちがつ","January"],
-"Igirisu no": ["イギリスの", "British","adjective"],
-"Igirisu": ["イギリス", "United Kingdom / England"],
-"Itaria no": ["イタリアの", "Italian","adjective"],
-"Itaria": ["イタリア", "Italy"],
-"Juugatsu": ["じゅうがつ","October"],
-"Juuichigatsu": ["じゅういちがつ","November"],
-"Juuinigatsu": ["じゅうにがつ","December"],
-"Kayoubi": ["かようび","Tuesday"],
-"Kinyoubi": ["きんようび","Friday"],
-"Kugatsu": ["くがつ","September"],
-"Mokuyoubi": ["もくようび","Thursday"],
-"Nichiyoubi": ["にちようび","Sunday"],
-"Nigatsu": ["にがつ","February"],
-"Nihon": ["にほん","Japan"],
-"Noruwee no": ["ノルウェーの", "Norwegian", "adjective"],
-"Noruwee": ["ノルウェー", "Norway"],
-"Oosutoria no": ["オーストリアの", "Austrian","adjective"],
-"Oosutoria": ["オーストリア", "Austria"],
-"Oranda no": ["オランダの", "Dutch","adjective"],
-"Oranda": ["オランダ", "Netherlands"],
-"Poorando no": ["ポーランドの", "Polish", "adjective"],
-"Poorando": ["ポーランド", "Poland"],
-"Porutogaru no": ["ポルトガルの", "Portuguese","adjective"],
-"Porutogaru": ["ポルトガル", "Portugal"],
-"Rokugatsu": ["ろくがつ","June"],
-"Russia no": ["ロシアの", "Russian", "adjective"],
-"Russia": ["ロシア", "Russia"],
-"Sangatsu": ["さんがつ","March"],
-"Shichigatsu": ["しちがつ","July"],
-"Shigatsu": ["しがつ","April"],
-"Suisu no": ["スイスの", "Swiss","adjective"],
-"Suisu": ["スイス", "Switzerland"],
-"Suiyoubi": ["すいようび","Wednesday"],
-"Supein no": ["スペインの", "Spanish","adjective"],
-"Supein": ["スペイン", "Spain"],
-"Surobakia no": ["スロバキアの", "Slovak", "adjective"],
-"Surobakia": ["スロバキア", "Slovakia"],
-"Suweeden no": ["スウェーデンの", "Swedish", "adjective"],
-"Suweeden": ["スウェーデン", "Sweden"],
-"Yooroppa": ["ヨーロッパ","Europe","noun"],
-"abunai": ["あぶない","dangerous","adjective"],
-"ageru": ["あげる", "to give","verb",["agemasu","agenai","agemasen"],["あげます","あげない","あげません"]],
-"aisuru": ["あいする", "to love","verb"],
-"aka": ["あかい","red","adjective"],
-"akai": ["あかい","red"],
-"akeru": ["あける", "to open","verb"],
-"aki": ["あき","autumn (season)","noun"],
-"ame": ["あめ", "rain","noun"],
-"ame": ["あめ","rain","noun"],
-"anata": ["あなた", "you","pronoun"],
-"anata": ["あなた", "you"],
-"ao": ["あおい","blue","adjective"],
-"aoi": ["あおい","blue"],
-"arai": ["あらい","rough","adjective"],
-"arashi": ["あらし", "storm","noun"],
-"arau": ["あらう", "to wash","verb",["araimasu","arawanai","araimasen","aratte"],["あらいます","あらわない","あらいません","あらって"]],
-"arawareru": ["あらわれる", "to appear","verb"],
-"arrow": ["や", "bow","noun"],
-"aru": ["ある", "to exist (inanimate)","verb"],
-"aru": ["ある", "to exist (inanimate)"],
-"aruku": ["あるく", "to walk","verb",["arukimasu","arukanai","arukimasen","aruite"],["あります","あるかない","ありません","あるいて"]],
-"asagohan": ["あさごはん","breakfast"],
-"asobu": ["あそぶ", "to play","verb",["asobimasu","asobanai","asobimasen","asonde"],["あそびます","あそばない","あそびません","あそんで"]],
-"atarashii": ["あたらしい","new","adjective"],
-"atarashii": ["あたらしい","new"],
-"atatakai": ["あたたかい","warn","adjective"],
-"ato": ["あと","after/later","noun"],
-"atsui": ["あつい","hot (weather/object)","adjective"],
-"atsui": ["あつい","hot/thick","adjective"],
-"atsumeru": ["あつめる", "to gather/collect","verb",["atsumemasu","atsumenai","atsumemasen","atsumete"],["あつめます","あつめない","あつめません","あつめて"]],
-"au": ["あう", "to meet","verb",["aimasu","awanai","aimasen","atte"],["あいます","あわない","あいません","あって"]],
-"bakudan": ["ばくだん", "bomb","noun"],
-"banana": ["ばなな", "banana","noun"],
-"basu": ["バス", "bus","noun"],
-"basu": ["バス","bus","noun"],
-"basukettobooru": ["バスケットボール", "basketball","noun"],
-"beddo rūmu": ["ベッドルーム","bedroom","noun"],
-"beddo": ["ベッド","bed"],
-"benkyou suru": ["べんきょうする", "to study","verb",["benkyou shimasu","benkyou shimasen"],["べんきょうします","べんきょうしません"]],
-"bouei suru": ["ぼうえいする","to defend","verb",["bouei shimasu","bouei shimasen"],["ぼうえいします","ぼうえいしません"]],
-"boueiteki": ["ぼうえいてき","defensive","adjective"],
-"bougyo": ["ぼうぎょ", "defense","noun"],
-"boushi": ["ぼうし","hat / cap","noun"],
-"budō": ["ぶどう", "grapes","noun"],
-"bujo": ["ぶじょ", "warrior/samurai","noun"],
-"butai": ["ぶたい", "battelfield","noun"],
-"butaniku": ["ぶたにく","pork","noun"],
-"bōru": ["ボール","ball","noun"],
-"chiisai": ["ちいさい","small"],
-"chiisai": ["ちいさい","small/little","adjective"],
-"chikara": ["ちから", "power/strength","noun"],
-"chokorēto": ["チョコレート","chocolate"],
-"chuudan suru": ["ちゅうだんする","to suspend/interrupt","verb",["chuudan shimasu","chuudan shimasen"],["ちゅうだんします","ちゅうだんしません"]],
-"chuuritsu": ["ちゅうりつ", "neutrality","noun"],
-"chuusen": ["ちゅうせん", "ambush","noun"],
-"chō": ["ちょう","butterfly","noun"],
-"daidokoro": ["だいどころ","kitchen","noun"],
-"de": ["で","location particle"],
-"dekakeru": ["でかける", "to go out","verb",["dekakemasu","dekakemasen"],["でかけます","でかけません"]],
-"denki": ["でんき","electricity / light","noun"],
-"denwa": ["でんわ", "telephone"],
-"denwa": ["でんわ","telephone","noun"],
-"deru": ["でる", "to exit / leave"],
-"desu": ["です","to be","verb",["desu","deshita","dewa arimasen","dewa arimasen deshita"],["です","でした","ではありません","ではありませんでした"  ]],
-"doa": ["ドア","door","noun"],
-"doriburu suru": ["ドリブルする", "to dribble (a ball)","verb",["doriburu shimasu","doriburu shimasen"],["ドリブルします","ドリブルしません"]],
-"dōbutsu": ["どうぶつ", "animal","noun"],
-"e": ["え","picture","noun"],
-"ebi": ["えび", "shrimp","noun"],
-"ebi": ["えび","shrimp","noun"],
-"eiga": ["います","film"],
-"eigo": ["えいご", "English (language)","noun"],
-"eikyouryoku ga aru": ["えいきょうりょくがある","influential","adjective"],
-"eki": ["えき","station","noun"],
-"enpitsu": ["えんぴつ", "pencil","noun"],
-"enpitsu": ["えんぴつ", "pencil"],
-"ensei suru": ["えんせいする","to besiege","verb",["ensei shimasu","ensei shimasen"],["えんせいします","えんせいしません"]],
-"entotsu": ["えんとつ", "fort/chimney","noun"],
-"fuantei": ["ふあんてい","unstable","adjective"],
-"fuku": ["ふく", "to wipe / clothes","verb"],
-"fuku": ["ふく","clothes","noun"],
-"fukyou": ["ふきょう","unlucky/adverse","adjective"],
-"furui": ["ふるい","old (thing)","adjective"],
-"furui": ["ふるい","old"],
-"fusoku suru": ["ふそくする","to lack/be short of","verb",["fusoku shimasu","fusoku shimasen"],["ふそくします","ふそくしません"]],
-"futtobōru": ["フットボール","football / soccer","noun"],
-"fuyu": ["ふゆ","winter (season)","noun"],
-"ga": ["が","subject marker","noun"],
-"ga": ["が","subject marker"],
-"gakkou": ["がっこう", "school","noun"],
-"gakkou": ["がっこう", "school"],
-"gakkou": ["がっこう","school"],
-"gakusei": ["がくせい", "student","noun"],
-"gakusei": ["がくせい", "student"],
-"ganbaru": ["がんばる", "to do one's best","verb",["ganbarimasu","ganbaranai","ganbarimasen","ganbatte"],["がんばります","がんばらない","がんばりません","がんばって"]],
-"geemu": ["ゲーム","game","noun"],
-"gekiteki": ["げきてき","dramatic","adjective"],
-"genbaku": ["げんばく", "atomic bomb","noun"],
-"genkan": ["げんかん","entranceway","noun"],
-"genshi": ["げんし", "atom","noun"],
-"go": ["ご","five"],
-"gohan": ["ごはん","cooked rice","noun"],
-"gorufu": ["ゴルフ", "golf","noun"],
-"gun": ["ぐん","army/military","noun"],
-"gunki": ["ぐんき", "military spirit/morale","noun"],
-"gunkikan": ["ぐんきかん", "military officer","noun"],
-"gunshi": ["ぐんし", "general","noun"],
-"guntai": ["ぐんたい", "army","noun"],
-"gyūniku": ["ぎゅうにく","beef","noun"],
-"gyūnyū": ["ぎゅうにゅう","milk","noun"],
-"hachi": ["はち","bee","noun"],
-"hachi": ["はち","eight"],
-"hageshii": ["はげしい","intense/violent","adjective"],
-"hairu": ["はいる", "to enter","verb"],
-"hajimaru": ["はじまる", "to begin / start","verb",["hajimarimasu","hajimaranai","hajimarimasen","hajimatte","hajimarimashita"],["はじまります","はじまらない","はじまりません","はじまって","はじまりました"]],
-"hajimeru": ["はじめる", "to begin","verb"],
-"hakkou suru": ["はっこうする","to launch (an attack)","verb",["hakkou shimasu","hakkou shimasen"],["はっこうします","はっこうしません"]],
-"hakusai": ["はくさい","Chinese cabbage","noun"],
-"hana": ["はな", "flower","noun"],
-"hana": ["はな","flower","noun"],
-"hanasu": ["はなす","to speak","verb",["hanashimasu"],["はなします"]],
-"hangeki suru": ["はんげきする","to counterattack","verb",["hangeki shimasu","hangeki shimasen"],["はんげきします","はんげきしません"]],
-"hare": ["はれ","sunny weather","noun"],
-"haru": ["はる", "to stick / put up","verb",["harimasu","haranai","harimasen","hatte"],["はります","はらない","はりません","はって"]],
-"haru": ["はる","spring (season)","noun"],
-"hashi": ["はし", "chopsticks","noun"],
-"hashiru": ["はしる", "to run","verb"],
-"hashiru": ["はしる","to run","verb"],
-"hataraku": ["はたらく", "to work","verb",["hatarakimasu","hatarakimasen","hataraite"],["はたらきます","はたらきません","はたらいて"]],
-"hataraku": ["はたらく", "to work","verb"],
-"hayai": ["はやい","fast","adjective"],
-"heiki": ["へいき", "soldier","noun"],
-"heishi": ["へいし", "soldier","noun"],
-"heitaidougu": ["へいたいどうぐ", "military equipment","noun"],
-"heiwa": ["へいわ","peace","noun"],
-"henshin": ["へんしん", "transformation","noun"],
-"heta": ["へた", "unskillful","adjective"],
-"heya": ["へや","room","noun"],
-"hiku": ["ひく", "to pull / play (string instrument)","verb"],
-"hikui": ["ひくい", "low / short","adjective"],
-"hinanteki": ["ひなんてき","critical","adjective"],
-"hiragana": ["ひらがな", "hiragana","noun"],
-"hitobito": ["ひとびと", "people","noun"],
-"hitotsu": ["ひとつ", "one (thing)","noun"],
-"hon": ["ほん", "book","noun"],
-"hon": ["ほん", "book"],
-"hon": ["ほん","book","noun"],
-"hoshi": ["ほし", "star","noun"],
-"hoshou suru": ["ほしょうする","to guarantee","verb",["hoshou shimasu","hoshou shimasen"],["ほしょうします","ほしょうしません"]],
-"hotaru": ["ほたる","firefly","noun"],
-"houhou": ["ほうほう", "method/tactics","noun"],
-"houki": ["ほうき", "broom","noun"],
-"houritsu": ["ほうりつ", "military law","noun"],
-"hyakuman": ["ひゃくまん", "one million","noun"],
-"hōrensō": ["ほうれんそう", "spinach","noun"],
-"ichi": ["いち","one"],
-"ichigo": ["いちご", "strawberry","noun"],
-"ie": ["いえ", "house / home","noun"],
-"ie": ["いえ", "house / home"],
-"ie": ["いえ","house / home","noun"],
-"ijō": ["いじょう", "more than"],
-"ika": ["いか","squid", "noun"],
-"ike no saku": ["いけのさく","pond bank","noun"],
-"ike": ["いけ", "pond","noun"],
-"ikimono": ["いきもの", "living thing/creature","noun"],
-"iku": ["いく", "to go","verb",["ikimasu","ikanai","ikimasen","itte","ikumashita"],["いきます","いかない","いきません","いって","いきました"]],
-"ima": ["いま","living room","noun"],
-"imasu": ["います","exists/is"],
-"inu": ["いぬ","dog","noun"],
-"iru": ["いる", "to exist (animate)","verb",["imasu","imasen"],["います","いません"]],
-"iru": ["いる", "to exist (animate)"],
-"ishi": ["いし", "stone/rock","noun"],
-"iso": ["いそ", "seashore","noun"],
-"jagaimo": ["じゃがいも","potato","noun"],
-"janpu suru": ["ジャンプする", "to jump","verb",["janpu shimasu","janpu shimasen"],["ジャンプします","ジャンプしません"]],
-"jidoosha": ["じどうしゃ","automobile","noun"],
-"jisho": ["じしょ","dictionary","noun"],
-"jitensha": ["じてんしゃ", "bicycle"],
-"jitensha": ["じてんしゃ","bicycle","noun"],
-"jouryaku suru": ["じょうりゃくする","to invade","verb",["jouryaku shimasu","jouryaku shimasen"],["じょうりゃくします","じょうりゃくしません"]],
-"jouzu": ["じょうず","skillful/good at","adjective"],
-"junbi suru": ["じゅんびする","to prepare/get ready","verb",["junbi shimasu","junbi shimasen"],["じゅんびします","じゅんびしません"]],
-"junbi": ["じゅんび", "preparation","noun"],
-"juu": ["じゅう", "gun/rifle","noun"],
-"juu": ["じゅう","ten"],
-"juudai": ["じゅうだい","serious/important","adjective"],
-"jūdō": ["じゅうどう","judo","noun"],
-"jūsu": ["じゅーす", "juice","noun"],
-"kaban":  ["かばん","bag","noun"],
-"kabe": ["かべ","wall","noun"],
-"kaeru": ["かえる", "to return / go back","verb",["kaerimasu","kaerimasen","kaette"],["かえります","かえりません","かえって"]],
-"kaeru": ["かえる","to return/go back","verb",["kaerimasu","kaerimasen","kaette"],["かえります","かえりません","かえって"]],
-"kafe": ["カフェ", "cafe"],
-"kagi": ["かぎ","key","noun"],
-"kaigi": ["かいぎ", "conference/meeting","noun"],
-"kaigun": ["かいぐん", "navy","noun"],
-"kaiguntai": ["かいぐんたい", "sailor","noun"],
-"kaimono": ["かいもの","shopping","noun"],
-"kakeru": ["かける", "to hang / make a call","verb"],
-"kaku": ["書く","to write","verb",["kakimasu","kakanai","kakimasen","kaite"],["かきます","かかない","かきません","かいて"]],
-"kamera": ["カメラ","camera","noun"],
-"kamikaze": ["かみかぜ", "divine wind","noun"],
-"kanashii": ["かなしい","sad/sorrowful","adjective"],
-"kangaeru": ["かんがえる", "to think","verb"],
-"kanshi": ["かんし", "guard/sentry","noun"],
-"kara": ["から","from (particle)","particle"],
-"karate": ["からて", "karate","noun"],
-"karate": ["からて","karate","noun"],
-"karui": ["かるい","light (weight)","adjective"],
-"karuma": ["くるま","car","noun"],
-"kasa": ["かさ","umbrella","noun"],
-"kasumi": ["かすみ", "mist/fog","noun"],
-"katakana": ["カタカナ", "katakana","noun"],
-"kau": ["かう", "to buy","verb",["kaimasu","kawanai","kaimasen","katte"],["かいます","かわない","かいません","かって"]],
-"kawa no nagare": ["かわのながれ", "river flow/current","noun"],
-"kawa no saku": ["かわのさく","river bank","noun"],
-"kawa": ["かわ", "river","noun"],
-"kawaru": ["かわる", "to change","verb"],
-"kaze": ["かぜ", "wind","noun"],
-"kaze": ["かぜ","wind","noun"],
-"keiken suru": ["けいけんする", "to experience","verb",["keiken shimasu","keiken shimasen"],["けいけんします","けいけんしません"]],
-"keiken": ["けいけん", "experience","noun"],
-"ken": ["けん", "sword","noun"],
-"kerei": ["カレー","curry/curry rice","noun"],
-"keshigomui": ["けしゴム","eraser","noun"],
-"kettei": ["けってい", "decision","noun"],
-"ki": ["き", "tree","noun"],
-"kibishii": ["きびしい","severe/strict","adjective"],
-"kibō": ["きぼう", "hope","noun"],
-"kiken": ["きけん","risky/dangerous","adjective"],
-"kiku": ["きく","to hear/to ask","verb",["kikimasu","kikanai","kikimasen","kiite"],["ききます","きかない","ききません","きいて"]],
-"kimeru": ["きめる", "to decide","verb",["kimemasu","kimenai","kimemasen","kimete"],["きめます","きめない","きめません","きめて"]],
-"kini": ["きに", "machine gun","noun"],
-"kioku": ["きおく", "memory"],
-"kirei": ["きれい", "beautiful / clean"],
-"kitchen": ["キッチン","kitchen","noun"],
-"kitsun": ["きつね","fox","noun"],
-"kodomo-tachi" : ["こどもたち", "children","noun"],
-"kokoro": ["こころ", "heart/mind","noun"],
-"kokugun": ["こくぐん", "army","noun"],
-"kokumin": ["こくみん", "citizen","noun"],
-"kokusai kankei": ["こくさいかんけい", "international relations","noun"],
-"kokusai": ["こくさい", "international","adjective"],
-"kome": ["こめ","uncooked rice","noun"],
-"kore": ["これ","this","pronoun"],
-"kouen": ["こうえん", "park"],
-"koufun suru": ["こうふんする","to be excited","verb",["koufun shimasu","koufun shimasen"],["こうふんします","こうふんしません"]],
-"kougeki suru": ["こうげきする","to attack","verb",["kougeki shimasu","kougeki shimasen"],["こうげきします","こうげきしません"]],
-"kougeki": ["こうげき", "attack","noun"],
-"kougekiteki": ["こうげきてき","aggressive","adjective"],
-"kouhii": ["コーヒー","coffee","noun"],
-"kouho suru": ["こうほする","to nominate","verb",["kouho shimasu","kouho shimasen"],["こうほします","こうほしません"]],
-"koukateki": ["こうかてき","effective","adjective"],
-"kowai": ["こわい","scary/frightening/fearful","adjective"],
-"kudamono": ["くだもの","fruit","noun"],
-"kudasaru": ["くださる","to give (honorific)","verb"],
-"kumo": ["くも", "cloud","noun"],
-"kumo": ["くも","cloud","noun"],
-"kumori": ["くもり","cloudy weather","noun"],
-"kuni": ["くに", "country","noun"],
-"kureru": ["くれる","to give (to me)","verb",["kuremasu","kuremasen"],["くれます","くれません"]],
-"kuroi": ["くろい","black","adjective"],
-"kuru": ["くる", "to go","verb",["kimasu","kimasen","kita","kimashita"],["きます","きません","きた","きました"]],
-"kuruma": ["くるま", "car","noun"],
-"kuruma": ["くるま", "car"],
-"kuruma": ["くるま","car","noun"],
-"kurō": ["くろう", "hardship / trouble","noun"],
-"kusaban": ["くさばな", "grass/plant","noun"],
-"kutsu bako": ["くつばこ","shoe cupboard","noun"],
-"kuugun": ["くうぐん","air force","noun"],
-"kyabetsu": ["きゃべつ","cabbage","noun"],
-"kyacchi suru": ["キャッチする", "to catch (a ball)","verb",["kyacchi shimasu","kyacchi shimasen"],["キャッチします","キャッチしません"]],
-"kyuu": ["きゅう","nine"],
-"kyōdai": ["きょうだい", "siblings","noun"],
-"kyōkasho": ["きょうかしょ","textbook","noun"],
-"kyūri": ["きゅうり","cucumber","noun"],
-"kōen": ["こうえん","park"],
-"kōfuku suru": ["こうふくする","to be happy","verb",["koufuku shimasu","koufuku shimasen"],["こうふくします","こうふくしません"]],
-"kōfuku": ["こうふく", "happiness","noun"],
-"kōhī": ["こーひー","coffee","noun"],
-"machi": ["まち","town/city","noun"],
-"machinami": ["まちなみ", "townscape","noun"],
-"maguro": ["まぐろ","tuna","noun"],
-"mainichi": ["まいにち","every day"],
-"makeru": ["まける","to lose","verb",["makemasu","makenai","makemasen","makete"],["まけます","まけない","まけません","まけて"]],
-"mamoru": ["まもる","to protect","verb",["mamorimasu","mamoranai","mamorimasen","mamotte"],["まもります","まもらない","まもりません","まもって"]], 
-"manabu": ["まなぶ", "to learn","verb",["manabimasu","manabimasen","manande"],["まなびます","まなびません","まなんで"]],
-"maoru": ["まおる", "to protect","verb",["maorimasu","maoranai","maorimasen","maotte"],["まおります","まおらない","まいません","まおって"]],
-"mashinegan": ["マシンガン", "machine gun","noun"],
-"matsu": ["まつ", "to wait","verb"],
-"mazui": ["まずい","bad tasting","adjective"],
-"mazui": ["まずい","unpleasant (food)","adjective"],
-"megane": ["めがね","glasses","noun"],
-"men": ["めん","noodles","noun"],
-"midori": ["みどり","green","adjective"],
-"mijikai": ["みじかい","short","adjective"],
-"mijikai": ["みじかい","short"],
-"mikan": ["みかん","mandarin orange","noun"],
-"mimasu": ["みます","to watch/see","verb"],
-"miru": ["みる", "to see / watch","verb",["mimasu","minai","mimasen","mite"],["みます","みない","みません","みて"]],
-"misemasu": ["みせます", "to show","verb",["misemasu","misenai","misemasen","misete"],["みせます","みせない","みせません","みせて"]],
-"miseru": ["みせる","to show","verb",["misemasu","misemasen","misete"],["みせます","みせません","みせて"]],
-"miso": ["みそ","miso","noun"],
-"mizu": ["みず", "water","noun"],
-"mizu": ["みず", "water"],
-"mizu": ["みず","water","noun"],
-"mizuumi no umi": ["みずうみのうみ", "inland sea","noun"],
-"mizūmi": ["みずうみ", "lake","noun"],
-"momo": ["もも","peach","noun"],
-"morau": ["もらう", "to receive","verb",["moraimasu"],["もらいます"]],
-"mori": ["もり", "forest","noun"],
-"motomeru": ["もとめる", "to seek","verb"],
-"motte": ["もって", "to have/hold/carry","verb",["motteimasu","motteimasen"],["もっています","もっていません"]],
-"moyasu": ["もやす", "to burn","verb"],
-"mushi": ["むし","insect","noun"],
-"muzukashii": ["むずかしい","difficult","adjective"],
-"mō": ["もう", "already / anymore","adverb"],
-"nagai": ["ながい","long","adjective"],
-"nagai": ["ながい","long"],
-"nagasu": ["ながす", "to let flow / drain","verb"],
-"nageru": ["なげる","to throw","verb",["nagemasu","nagenai","nagemasen","nagete"],["なげます","なげない","なげません","なげて"]],
-"nakama": ["なかま", "companion / colleague / friend","noun"],
-"naku": ["なく", "to cry","verb"],
-"nakunaru": ["なくなる","to be lost / to disappear","verb",["nakunarimasu","nakunaranai","nakunarimasen","nakunatte","nakunarimashita"],["なくなります","なくならない","なくなりません","なくなって","なくなりました"]],
-"namae": ["なまえ", "name","noun"],
-"namae": ["なまえ", "name"],
-"nami": ["なみ", "wave","noun"],
-"nana": ["なな","seven"],
-"narau": ["ならう", "to learn","verb",["naraimasu","naranai","naraimasen"],["ならいます","ならない","ならいません" ]],
-"naru": ["なる","to become","verb",["narimasu","naranai","narimasen","natte","narimashita"],["なります","ならない","なりません","なって","なりました"]],
-"nashi": ["なし","pear","noun"],
-"nasu": ["なす","eggplant","noun"],
-"natsu": ["なつ","summer (season)","noun"],
-"nattō": ["なっとう", "fermented soybeans","noun"],
-"neko": ["ねこ","cat","noun"],
-"nen": ["ねん","year","noun"],
-"neru": ["寝る","to sleep","verb",["nemasu","nemasen","nete"],["ねます","ねません","ねて"]],
-"ni": ["に","location particle - in/at","particle"],
-"ni": ["に","two"],
-"nigate": ["にがて", "weak at / not good at","adjective"],
-"nigeru": ["にげる", "to escape / run away","verb"],
-"nigeru": ["にげる","to escape/run away","verb",["nigemasu","nigenai","nigemasen","nigete"],["にげます","にげない","にげません","にげて"]],
-"nigeru": ["にげる","to escape/run away","verb",["nigemasu","nigenai","nigemasen","nigete"],["にげます","にげない","にげません","にげて"]],
-"nihongo": ["にほんご","japanese"],
-"niku": ["にく","meat","noun"],
-"ninjin": ["にんじん","carrot","noun"],
-"no": ["の","my","pronoun"],
-"no": ["の","possessive 'of'","noun"],
-"nomimono": ["のみもの","drink / beverage","noun"],
-"nomu": ["のむ", "to drink","verb",["nomimasu","nomanai","nomimasen","nonde"],["のみます","のまない","のみません","のんで"]],
-"nori": ["のり", "seaweed","noun"],
-"noru": ["のる", "to ride / get on","verb",["norimasu","noranai","norimasen","notte"],["のります","のらない","のりません","のって"]],
-"notepaddo": ["ノートパッド","notepad","noun"],
-"o": ["を", "object marker","noun"],
-"ocha": ["おちゃ", "tea"],
-"ocha": ["おちゃ","tea","noun"],
-"ochiru": ["おちる","to fall","verb",["ochimasu","ochinai","ochimasen","ochite"],["おちます","おちない","おちません","おちて"]],
-"odoru": ["おどる","to dance","verb",["odorimasu","odorimasen"],["おどります","おどりません"]],
-"ofuro": ["おふろ","bath","noun"],
-"oishii": ["おいしい","delicious","adjective"],
-"oishii": ["おいしい","delicious/tasty","adjective"],
-"oka": ["おか", "hill","noun"],
-"okaasan": ["おかあさん","mother","noun"],
-"okane": ["おかね","money","noun"],
-"okashi": ["おかし","sweets","noun"],
-"okayu": ["おかゆ","rice porridge","noun"],
-"okiru": ["おきる", "to wake up","verb",["okimasu","okimasen","okite"],["おきます","おきません","おきて"]],
-"okoru": ["おこる", "to happen / get angry","verb"],
-"okosu": ["おこす", "to wake someone / cause","verb"],
-"okuru": ["おくる", "to send / give","verb", ["okurimasu","okuranai","okurimasen","okutte"],["おくります","おくらない","おくりません","おくって"]],
-"omoi": ["おもい","heavy/serious/emotionally","adjective"],
-"omoshiroi": ["おもしろい", "interesting / funny","adjective"],
-"omoshiroi": ["おもしろい","interesting/funny","adjective"],
-"omou": ["おもう", "to think / feel","verb"],
-"onigiri": ["おにぎり","rice ball","noun"],
-"ookii": ["おおきい","big/large","adjective"],
-"origami": ["おりがみ", "origami","noun"],
-"oriru": ["おりる", "to get off / descend","verb",["orimasu","orimasen","orite"],["おります","おりません","おりて"]],
-"osake": ["おさけ","sake","noun"],
-"osoi":  ["はやい","slow","adjective"],
-"osoroshii": ["おそろしい","terrible/frightening","adjective"],
-"otosu": ["おとす", "to drop / lose","verb",["otoshimasu","otosanai","otosimasen","otoshite","otosaremashita"],["おとします","おとさない","おとしません","おとして","おとされました"]],
-"owaru": ["おわる", "to finish","verb",["owarimasu","owaranai","owarimasen","owatte","owarimashita"],["おわります","おわらない","おわりません","おわって" ,"おわりました"]], 
-"owatta": ["おわった", "finished","adjective"],
-"oyogu": ["およぐ", "to swim","verb"],
-"oyugu": ["およぐ", "to swim","verb",["oyogimasu","oyoganai","oyogimasen","oyoide"],["およぎます","およがない","およぎません","およいで"]],
-"pan": ["ぱん","bread","noun"],
-"pasu suru": ["パスする", "to pass","verb",["pasu shimasu","pasu shimasen"],["パスします","パスしません"]],
-"pen": ["ぺん", "pen","noun"],
-"pen": ["ぺん", "pen"],
-"purezento": ["プレゼント","present","noun"],
-"pyunom": ["ゆのみ", "tea cup","noun"],
-"raifuru": ["ライフル", "rifle","noun"],
-"ranninguu": ["ランニング", "running","noun"],
-"rekishi": ["れきし", "history","noun"],
-"remon": ["れもん", "lemon","noun"],
-"rikishi": ["りきし", "sumo wrestler","noun"],
-"ringo": ["りんご","apple","noun"],
-"roku": ["ろく","six"],
-"ryokucha": ["りょくちゃ", "green tea"],
-"ryū": ["りゅう", "dragon","noun"],
-"rāmen": ["らーめん","ranen","noun"],
-"sagasu": ["さがす", "to search / look for","verb"],
-"sake": ["さけ","salmon","noun"],
-"sakkaa": ["サッカー", "football","noun"],
-"sakura": ["さくら","name","noun"],
-"samueru": ["さめる", "to cool / get cold","verb"],
-"samui": ["さむい","cold  (weather)","adjective"],
-"samui": ["さむい","cold (weather)","adjective"],
-"samurai": ["さむらい", "samurai","noun"],
-"san": ["さん","three"],
-"sanpo suru": ["さんぽする", "to take a walk","verb",["sanpo shimasu","sanpo shimasen"],["さんぽします","さんぽしません"]],
-"sanpo": ["さんぽ","to walk"],
-"sara": ["さら", "plate","noun"],
-"satō": ["さとう","sugar","noun"],
-"seifu": ["せいふ", "government","noun"],
-"senchou": ["せんちょう", "ship captain","noun"],
-"senjō": ["せんじょう", "battlefield","noun"],
-"senryaku suru": ["せんりゃくする","to strategize","verb",["senryaku shimasu","senryaku shimasen"],["せんりゃくします","せんりゃくしません"]],
-"senryakuteki": ["せんりゃくてき","strategic","adjective"],
-"senryuu suru": ["せんりゅうする","to maneuver","verb",["senryuu shimasu","senryuu shimasen"],["せんりゅうします","せんりゅうしません"]],
-"sensei": ["せんせい", "teacher","noun"],
-"sensei": ["せんせい", "teacher"],
-"sensei": ["せんせい", "warrior/warrior monk","noun"],
-"sensha": ["せんしゃ", "tank","noun"],
-"senshi": ["せんし", "warrior","noun"],
-"sensou houshiki": ["せんそうほうしき", "warfare","noun"],
-"sensou suru": ["せんそうする","to wage war","verb",["sensou shimasu","sensou shimasen"],["せんそうします","せんそうしません"]],
-"sensou": ["せんそう", "war","noun"],
-"sensouteki": ["せんそうてき","military","adjective"],
-"sensōchū": ["せんそうちゅう", "during a war","noun"],
-"sentou suru": ["せんとうする","to battle/fight","verb",["sentou shimasu","sentou shimasen"],["せんとうします","せんとうしません"]],
-"sentou": ["せんとう", "battle/fight","noun"],
-"shaberu": ["しゃべる", "to chat / talk","verb"],
-"shashin": ["しゃしん", "photo"],
-"shatsu": ["シャツ","shirt","noun"],
-"shi": ["し","four"],
-"shigoto": ["しごと","work"],
-"shihai suru": ["しはいする","to dominate","verb",["shihai shimasu","shihai shimasen"],["しはいします","しはいしません"]],
-"shiiken": ["しけん","exam / test","noun"],
-"shimeru": ["しめる", "to close / tie","verb"],
-"shingun": ["しんぐん", "advance/attack","noun"],
-"shinken na": ["しんけんな","serious","adjective"],
-"shinryokuteki": ["しんりょくてき","invasive","adjective"],
-"shinu": ["しぬ", "to die","verb",["shinimasu","shinanai","shinimasen","shinde","shinimashita"],["しにます","しにない","しにません","しんで","しにました"]],
-"shio": ["しお","shio","noun"],
-"shiroi": ["しろい","white","adjective"],
-"shiru": ["しる", "to know","verb",["shirimasu","shiranai","shirimasen","shitte"],["しります","しらない","しりません","しって"]],
-"shiryō": ["しりょう", "historical materials/documents","noun"],
-"shokudou": ["しょくどう","dining room","noun"],
-"shokuji": ["しょくじ","meal","noun"],
-"shokunin": ["しょくにん", "sushi chef/artisan","noun"],
-"shoppingu": ["ショッピング","shopping","noun"],
-"shougon": ["しょうごん", "general/commander in chief/ shogun","noun"],
-"shujin": ["しゅじん", "husband","noun"],
-"shujinkou": ["しゅじんこう", "protagonist/main character","noun"],
-"shukudai": ["しゅくだい","homework","noun"],
-"shuudan suru": ["しゅうだんする","to swarm","verb",["shuudan shimasu","shuudan shimasen"],["しゅうだんします","しゅうだんしません"]],
-"shuudqn": ["しゅうだん", "group/team","noun"],
-"shuuto suru": ["シュートする", "to shoot (a ball)","verb",["shuuto shimasu","shuuto shimasen"],["シュートします","シュートしません"]],
-"shōyu": ["しょうゆ", "soy sauce","noun"],
-"shōyu": ["しょうゆ","soy sauce","noun"],
-"shūin suru": ["しゅういんする", "to surrender","verb",["shuuin shimasu","shuuin shimasen"],["しゅういんします","しゅういんしません"]],
-"shūin"  : ["しゅういん", "surrender","noun"],
-"soba": ["そば","soba","noun"],
-"sofa": ["ソファ","sofa","noun"],
-"sono": ["その","that (near you)","pronoun"],
-"sora": ["そら","sky","noun"],
-"soto": ["そと","outside"],
-"sugosu": ["すごす", "to spend (time)","verb",["sugoshimasu","sugosanai","sugoshimasen","sugoshite"],["すごします","すごさない","すごしません","すごして"]],
-"suiei": ["すいえい", "swimming","noun"],
-"suika": ["すいか", "watermelon","noun"],
-"suki": ["すき","like/fondness","noun"],
-"sukēto": ["スケート","skate / skating","noun"],
-"sukī": ["スキー","ski / skiing","noun"],
-"sumeshi": ["すめし", "vinegared rice","noun"],
-"sumu": ["すむ","to live/reside","verb",["sunde","sumimasu","sumanai","sumimasen"],["すんで","すみます","すまない","すみません"]],
-"sumō": ["すもう","sumo","noun"],
-"suna": ["すな", "sand","noun"],
-"sunde imasu": ["すんでいます","to live/reside (progessive polite form)"],
-"supaiku suru": ["スパイクする", "to spike (a ball)","verb",["supaiku shimasu","supaiku shimasen"],["スパイクします","スパイクしません"]],
-"supootsu": ["スポーツ", "sports"],
-"supōtsu": ["スポーツ","sports","noun"],
-"suru": ["する","to do","verb",["shimasu","shite","shinai","shita","shimashita"],["します","して","しない","した","しました"]],
-"sushi": ["すし", "sushi","noun"],
-"sushiya": ["すしや", "sushi restaurant","noun"],
-"sutorecchi suru": ["ストレッチする", "to stretch","verb",["sutorecchi shimasu","sutorecchi shimasen"],["ストレッチします","ストレッチしません"]],
-"suwaru": ["すわる", "to sit","verb"],
-"suzushii": ["すずしい","cool (preasantly)/refreshing","adjective"],
-"sōji suru": ["そうじする","to clean","verb",["souji shimasu","souji shimasen","souji shimashita"],["そうじします","そうじしません","そうじしました"]],
-"tabemono": ["たべもの","food","noun"],
-"taberu": ["たべる","to eat","verb",["tabemasu","tabemashita","tabemasen"],["たべます","たべました","たべません"]],
-"taeru": ["たえる","to endure","verb",["taemasu","taenai","taemasen","taete"],["たえます","たえない","たえません","たえて"]],
-"tai": ["たい","sea bream","noun"],
-"taiheiyou": ["たいへいよう", "Pacific Ocean","noun"],
-"taihou": ["たいほう", "cannon","noun"],
-"taiken": ["たいけん", "experience","noun"],
-"taisetsu": ["たいせつ", "important","adjective"],
-"taisou": ["たいそう", "gymnastics / physical exercise","noun"],
-"taiyō": ["たいよう", "sun","noun"],
-"taiyō": ["たいよう","sun","noun"],
-"takai": ["たかい","expensive/tall","adjective"],
-"takai": ["はやい","tall/high/expensive","adjective"],
-"tako": ["たこ","octopus","noun"],
-"takusan": ["たくさん", "a lot / many","adverb"],
-"tama": ["たま", "bullet/ball","noun"],
-"tamago": ["たまご", "egg (for tamago sushi)","noun"],
-"tamago": ["たまご","egg","noun"],
-"tamanegi": ["たまねぎ","onion","noun"],
-"tame": ["ため", "for the sake of","noun"],
-"tani": ["たに", "valley","noun"],
-"tanoshii": ["たのしい","fun/enjoyable","adjective"],
-"tanoshii": ["たのしい","fun/enjoyable/pleasant","adjective"],
-"tanuk": ["たぬき","raccoon dog","noun"],
-"tasukeru": ["たすける", "to help","verb"],
-"tatakai": ["たたかい", "battle/fight","noun"],
-"tatakau": ["たたかう","to fight","verb",["tatakaimasu","tatakawanai","tatakaimasen","tatakatte","tatakaimashita"],["たたかいます","たたかわない","たたかいません","たたかって","たたかいました"]],
-"tate": ["たて", "shield","noun"],
-"tateru": ["たてる","to build","verb"],
-"tatsu": ["たつ", "to stand","verb",["tachimasu","tatanai","tachimasen","tatte"],["たちます","たたない","たちません","たって"]],
-"tatsu": ["たつ","to stand","verb"],
-"tazuneru": ["たずねる", "to visit / ask","verb"],
-"teboubou": ["てぼうぼう", "rifle","noun"],
-"tebukuro": ["てぶくろ","gloves","noun"],
-"teburu": ["テーブル","table","noun"],
-"tegami": ["てがみ","letter","noun"],
-"teikoku": ["ていこく", "empire","noun"],
-"teikokugun": ["ていこくぐん", "imperial army","noun"],
-"teikou": ["ていこう","resistant","adjective"],
-"teikyou": ["ていきょう", "supply","noun"],
-"teki": ["てき", "enemy","noun"],
-"tenisu": ["テニス", "tennis","noun"],
-"tenisu": ["テニス","tennis","noun"],
-"tenji suru": ["てんじする","to deploy","verb",["tenji shimasu","tenji shimasen"],["てんじします","てんじしません"]],
-"tenjou": ["てんじょう", "ceiling","noun"],
-"tenki": ["てんき","weather","noun"],
-"teryuudan": ["テリューダン", "grenade","noun"],
-"tesuto": ["テスト","test / exam","noun"],
-"to": ["と","and (particle)","particle"],
-"toire": ["トイレ","toilet","noun"],
-"tokei": ["とけい","clock / watch","noun"],
-"tokei": ["とけい","clock"],
-"tokui": ["とくい", "good at / strong at","adjective"],
-"tomaru": ["とまる", "to stay / stop","verb",["tomarimasu","tomaranai","tomarimasen","tomatte"],["とまります","とまらない","とまりません","とまって"]],
-"tomeru": ["とめる", "to stop / park","verb"],
-"tomodachi": ["ともだち","friend","noun"],
-"toreeiningu suru": ["トレーニングする", "to train / work out","verb",["toreeningu shimasu","toreeningu shimasen"],["トレーニングします","トレーニングしません"]],
-"tori": ["とり", "bird","noun"],
-"toriniku": ["とりにく","chicken","noun"],
-"toru": ["とる", "to take (a photo) / pick up","verb",["torimasu","toranai","torimasen","totte"],["とります","とらない","とりません","とって"]],
-"tsuchi": ["つち", "soil/earth","noun"],
-"tsukamu": ["つかむ", "to grab / seize","verb"],
-"tsukau": ["つかう", "to use","verb",["tsukaimasu","tsukawanai","tsukaimasen","tsukatte"],["つかいます","つかわない","つかいません","つかって"]],
-"tsuki": ["つき", "moon","noun"],
-"tsuki": ["つき","moon","noun"],
-"tsukuru": ["つくる", "to make / create","verb",["tsukurimasu","tsukuranai","tsukurimasen","tsukutte"],["つくります","つくらない","つくりません","つくって"]],
-"tsumaranai": ["つまらない", "boring", "adjective"],
-"tsumaranai": ["つまらない","boring","adjective"],
-"tsumetai": ["つめたい","cold (to the touch)","adjective"],
-"tsuru": ["つる","to fish","verb"],
-"tsuyoi": ["つよい","strong","adjective"],
-"tsuzuku": ["つづく", "to continue","verb"],
-"tēburu": ["テーブル","table"],
-"tōfu": ["とうふ","tofu","noun"],
-"tōka": ["とうか", "the 10th day of the month","noun"],
-"tōmorokoshi": ["とうもろこし","corn","noun"],
-"uchi": ["うち","house / home","noun"],
-"udon": ["うどん","udon","noun"],
-"ue": ["うえ","on/above","noun"],
-"ukeru": ["うける", "to receive / take (an exam)","verb",["ukemasu","ukenai","ukemasen","ukete","ukemashita"],["うけます","うけない","うけません","うけて","うけました"]],
-"ukeru": ["うける","to receive","verb",["ukemasu","ukemasen","ukete"],["うけます","うけません","うけて"]],
-"uma": ["うま","horse","noun"],
-"umi no nagare": ["うみのながれ", "ocean current","noun"],
-"umi": ["うみ", "sea/ocean","noun"],
-"ureshii": ["うれしい","happy/glad/pleased","adjective"],
-"uru": ["うる", "to sell","verb",["urimasu","uranai","urimasen","utte"],["うります","うらない","うりません","うって"]],
-"ushi": ["うし","cow","noun"],
-"utau": ["うたう","to sing","verb",["utaimasu","utaimasen"],["うたいます","うたいません"]],
-"utsu": ["うつ","to shoot","verb",["uchimasu","utanai","uchimasen","utte"],["うちます","うたない","うちません","うって"]],
-"wa": ["は","topic particle"],
-"wakaru": ["わかる", "to understand","verb"],
-"wakaru": ["わかる", "to understand"],
-"warau": ["わらう", "to laugh","verb"],
-"wasabi": ["わさび", "wasabi","noun"],
-"watashi": ["わたし", "I / me","pronoun"],
-"wo": ["を","object marker","noun"],
-"ya": ["や", "arrow","noun"],
-"yakusoku": ["やくそく", "promise","noun"],
-"yakyuu": ["やきゅう", "baseball","noun"],
-"yama": ["やま", "mountain","noun"],
-"yama": ["やま","mountain","noun"],
-"yami": ["やみ", "darkness","noun"],
-"yane": ["やね","roof","noun"],
-"yasai": ["やさい","vegetables","noun"],
-"yasui": ["やすい","cheap","adjective"],
-"yasui": ["やすい","cheap/inexpensive/easy","adjective"],
-"yasumu": ["やすむ", "to rest / be absent","verb"],
-"yomu": ["よむ","to read","verb",["yomimasu","yonde","yomanai","yonda"],["よみます","よんで","よまない","よんだ"]],
-"yowai": ["よわい","weak","adjective"],
-"yoyaku suru": ["よやくする", "to reserve / book","verb",["yoyaku shimasu","yoyaku shimasen"],["よやくします","よやくしません"]],
-"yuki": ["ゆき", "snow","noun"],
-"yuki": ["ゆき","snow","noun"],
-"yumi": ["ゆみ", "bow","noun"],
-"yuusha": ["ゆうしゃ", "hero","noun"],
-"yuushou suru": ["ゆうしょうする","to win a championship","verb",["yuushou shimasu","yuushou shimasen"],["ゆうしょうします","ゆうしょうしません"]],
-"yōkō": ["ようこう", "battleship","noun"],
-"yūki": ["ゆうき", "courage","noun"],
-"zasshi": ["ざっし", "magazine","noun"],
-"zasshi": ["ざっし", "magazine"],
-"zasshi": ["ざっし","magazine","noun"],
-"zettaiteki": ["ぜったいてき","absolute","adjective"],
-"zubon": ["ズボン","trousers / pants","noun"],
-"ōku": ["おおく", "many / much","adverb"]
- }
+{
+    "Berugii": [
+        "ベルギー",
+        "Belgium"
+    ],
+    "Berugii no": [
+        "ベルギーの",
+        "Belgian",
+        "adjective"
+    ],
+    "Cheko": [
+        "チェコ",
+        "Czech Republic"
+    ],
+    "Cheko no": [
+        "チェコの",
+        "Czech",
+        "adjective"
+    ],
+    "Denmaaku": [
+        "デンマーク",
+        "Denmark"
+    ],
+    "Denmaaku no": [
+        "デンマークの",
+        "Danish",
+        "adjective"
+    ],
+    "Doitsu": [
+        "ドイツ",
+        "Germany"
+    ],
+    "Doitsu no": [
+        "ドイツの",
+        "German",
+        "adjective"
+    ],
+    "Doyoubi": [
+        "どようび",
+        "Saturday"
+    ],
+    "Finrando": [
+        "フィンランド",
+        "Finland"
+    ],
+    "Finrando no": [
+        "フィンランドの",
+        "Finnish",
+        "adjective"
+    ],
+    "Furansu": [
+        "フランス",
+        "France"
+    ],
+    "Furansu no": [
+        "フランスの",
+        "French",
+        "adjective"
+    ],
+    "Getsuyoubi": [
+        "げつようび",
+        "Monday"
+    ],
+    "Girisha": [
+        "ギリシャ",
+        "Greece"
+    ],
+    "Girisha no": [
+        "ギリシャの",
+        "Greek",
+        "adjective"
+    ],
+    "Gogatsu": [
+        "ごがつ",
+        "May"
+    ],
+    "Hachigatsu": [
+        "はちがつ",
+        "August"
+    ],
+    "Hangarii": [
+        "ハンガリー",
+        "Hungary"
+    ],
+    "Hangarii no": [
+        "ハンガリーの",
+        "Hungarian",
+        "adjective"
+    ],
+    "Ichigatsu": [
+        "いちがつ",
+        "January"
+    ],
+    "Igirisu": [
+        "イギリス",
+        "United Kingdom / England"
+    ],
+    "Igirisu no": [
+        "イギリスの",
+        "British",
+        "adjective"
+    ],
+    "Itaria": [
+        "イタリア",
+        "Italy"
+    ],
+    "Itaria no": [
+        "イタリアの",
+        "Italian",
+        "adjective"
+    ],
+    "Juugatsu": [
+        "じゅうがつ",
+        "October"
+    ],
+    "Juuichigatsu": [
+        "じゅういちがつ",
+        "November"
+    ],
+    "Juuinigatsu": [
+        "じゅうにがつ",
+        "December"
+    ],
+    "Kayoubi": [
+        "かようび",
+        "Tuesday"
+    ],
+    "Kinyoubi": [
+        "きんようび",
+        "Friday"
+    ],
+    "Kugatsu": [
+        "くがつ",
+        "September"
+    ],
+    "Mokuyoubi": [
+        "もくようび",
+        "Thursday"
+    ],
+    "Nichiyoubi": [
+        "にちようび",
+        "Sunday"
+    ],
+    "Nigatsu": [
+        "にがつ",
+        "February"
+    ],
+    "Nihon": [
+        "にほん",
+        "Japan"
+    ],
+    "Noruwee": [
+        "ノルウェー",
+        "Norway"
+    ],
+    "Noruwee no": [
+        "ノルウェーの",
+        "Norwegian",
+        "adjective"
+    ],
+    "Oosutoria": [
+        "オーストリア",
+        "Austria"
+    ],
+    "Oosutoria no": [
+        "オーストリアの",
+        "Austrian",
+        "adjective"
+    ],
+    "Oranda": [
+        "オランダ",
+        "Netherlands"
+    ],
+    "Oranda no": [
+        "オランダの",
+        "Dutch",
+        "adjective"
+    ],
+    "Poorando": [
+        "ポーランド",
+        "Poland"
+    ],
+    "Poorando no": [
+        "ポーランドの",
+        "Polish",
+        "adjective"
+    ],
+    "Porutogaru": [
+        "ポルトガル",
+        "Portugal"
+    ],
+    "Porutogaru no": [
+        "ポルトガルの",
+        "Portuguese",
+        "adjective"
+    ],
+    "Rokugatsu": [
+        "ろくがつ",
+        "June"
+    ],
+    "Russia": [
+        "ロシア",
+        "Russia"
+    ],
+    "Russia no": [
+        "ロシアの",
+        "Russian",
+        "adjective"
+    ],
+    "Sangatsu": [
+        "さんがつ",
+        "March"
+    ],
+    "Shichigatsu": [
+        "しちがつ",
+        "July"
+    ],
+    "Shigatsu": [
+        "しがつ",
+        "April"
+    ],
+    "Suisu": [
+        "スイス",
+        "Switzerland"
+    ],
+    "Suisu no": [
+        "スイスの",
+        "Swiss",
+        "adjective"
+    ],
+    "Suiyoubi": [
+        "すいようび",
+        "Wednesday"
+    ],
+    "Supein": [
+        "スペイン",
+        "Spain"
+    ],
+    "Supein no": [
+        "スペインの",
+        "Spanish",
+        "adjective"
+    ],
+    "Surobakia": [
+        "スロバキア",
+        "Slovakia"
+    ],
+    "Surobakia no": [
+        "スロバキアの",
+        "Slovak",
+        "adjective"
+    ],
+    "Suweeden": [
+        "スウェーデン",
+        "Sweden"
+    ],
+    "Suweeden no": [
+        "スウェーデンの",
+        "Swedish",
+        "adjective"
+    ],
+    "Yooroppa": [
+        "ヨーロッパ",
+        "Europe",
+        "noun"
+    ],
+    "abunai": [
+        "あぶない",
+        "dangerous",
+        "adjective"
+    ],
+    "ageru": [
+        "あげる",
+        "to give",
+        "verb",
+        [
+            "agemasu",
+            "agenai",
+            "agemasen"
+        ],
+        [
+            "あげます",
+            "あげない",
+            "あげません"
+        ]
+    ],
+    "aisuru": [
+        "あいする",
+        "to love",
+        "verb"
+    ],
+    "aka": [
+        "あかい",
+        "red",
+        "adjective"
+    ],
+    "akai": [
+        "あかい",
+        "red"
+    ],
+    "akeru": [
+        "あける",
+        "to open",
+        "verb"
+    ],
+    "aki": [
+        "あき",
+        "autumn (season)",
+        "noun"
+    ],
+    "ame": [
+        "あめ",
+        "rain",
+        "noun"
+    ],
+    "anata": [
+        "あなた",
+        "you"
+    ],
+    "ao": [
+        "あおい",
+        "blue",
+        "adjective"
+    ],
+    "aoi": [
+        "あおい",
+        "blue"
+    ],
+    "arai": [
+        "あらい",
+        "rough",
+        "adjective"
+    ],
+    "arashi": [
+        "あらし",
+        "storm",
+        "noun"
+    ],
+    "arau": [
+        "あらう",
+        "to wash",
+        "verb",
+        [
+            "araimasu",
+            "arawanai",
+            "araimasen",
+            "aratte"
+        ],
+        [
+            "あらいます",
+            "あらわない",
+            "あらいません",
+            "あらって"
+        ]
+    ],
+    "arawareru": [
+        "あらわれる",
+        "to appear",
+        "verb"
+    ],
+    "arrow": [
+        "や",
+        "bow",
+        "noun"
+    ],
+    "aru": [
+        "ある",
+        "to exist (inanimate)"
+    ],
+    "aruku": [
+        "あるく",
+        "to walk",
+        "verb",
+        [
+            "arukimasu",
+            "arukanai",
+            "arukimasen",
+            "aruite"
+        ],
+        [
+            "あります",
+            "あるかない",
+            "ありません",
+            "あるいて"
+        ]
+    ],
+    "asagohan": [
+        "あさごはん",
+        "breakfast"
+    ],
+    "asobu": [
+        "あそぶ",
+        "to play",
+        "verb",
+        [
+            "asobimasu",
+            "asobanai",
+            "asobimasen",
+            "asonde"
+        ],
+        [
+            "あそびます",
+            "あそばない",
+            "あそびません",
+            "あそんで"
+        ]
+    ],
+    "atarashii": [
+        "あたらしい",
+        "new"
+    ],
+    "atatakai": [
+        "あたたかい",
+        "warn",
+        "adjective"
+    ],
+    "ato": [
+        "あと",
+        "after/later",
+        "noun"
+    ],
+    "atsui": [
+        "あつい",
+        "hot/thick",
+        "adjective"
+    ],
+    "atsumeru": [
+        "あつめる",
+        "to gather/collect",
+        "verb",
+        [
+            "atsumemasu",
+            "atsumenai",
+            "atsumemasen",
+            "atsumete"
+        ],
+        [
+            "あつめます",
+            "あつめない",
+            "あつめません",
+            "あつめて"
+        ]
+    ],
+    "au": [
+        "あう",
+        "to meet",
+        "verb",
+        [
+            "aimasu",
+            "awanai",
+            "aimasen",
+            "atte"
+        ],
+        [
+            "あいます",
+            "あわない",
+            "あいません",
+            "あって"
+        ]
+    ],
+    "awaseru": [
+        "あわせる",
+        "to match / combine",
+        "verb",
+        [
+            "awasemasu",
+            "awasenai",
+            "awamasen",
+            "awasete"
+        ],
+        [
+            "あわせます",
+            "あわせない",
+            "あわせません",
+            "あわせて"
+        ]
+    ],
+    "bakudan": [
+        "ばくだん",
+        "bomb",
+        "noun"
+    ],
+    "banana": [
+        "ばなな",
+        "banana",
+        "noun"
+    ],
+    "basu": [
+        "バス",
+        "bus",
+        "noun"
+    ],
+    "basukettobooru": [
+        "バスケットボール",
+        "basketball",
+        "noun"
+    ],
+    "beddo": [
+        "ベッド",
+        "bed"
+    ],
+    "beddo rūmu": [
+        "ベッドルーム",
+        "bedroom",
+        "noun"
+    ],
+    "benkyou suru": [
+        "べんきょうする",
+        "to study",
+        "verb",
+        [
+            "benkyou shimasu",
+            "benkyou shimasen"
+        ],
+        [
+            "べんきょうします",
+            "べんきょうしません"
+        ]
+    ],
+    "bouei suru": [
+        "ぼうえいする",
+        "to defend",
+        "verb",
+        [
+            "bouei shimasu",
+            "bouei shimasen"
+        ],
+        [
+            "ぼうえいします",
+            "ぼうえいしません"
+        ]
+    ],
+    "boueiteki": [
+        "ぼうえいてき",
+        "defensive",
+        "adjective"
+    ],
+    "bougyo": [
+        "ぼうぎょ",
+        "defense",
+        "noun"
+    ],
+    "boushi": [
+        "ぼうし",
+        "hat / cap",
+        "noun"
+    ],
+    "budō": [
+        "ぶどう",
+        "grapes",
+        "noun"
+    ],
+    "bujo": [
+        "ぶじょ",
+        "warrior/samurai",
+        "noun"
+    ],
+    "bunsho": [
+        "ぶんしょ",
+        "document",
+        "noun"
+    ],
+    "butai": [
+        "ぶたい",
+        "battelfield",
+        "noun"
+    ],
+    "butaniku": [
+        "ぶたにく",
+        "pork",
+        "noun"
+    ],
+    "bōru": [
+        "ボール",
+        "ball",
+        "noun"
+    ],
+    "chiisai": [
+        "ちいさい",
+        "small/little",
+        "adjective"
+    ],
+    "chikara": [
+        "ちから",
+        "power/strength",
+        "noun"
+    ],
+    "chokorēto": [
+        "チョコレート",
+        "chocolate"
+    ],
+    "chuudan suru": [
+        "ちゅうだんする",
+        "to suspend/interrupt",
+        "verb",
+        [
+            "chuudan shimasu",
+            "chuudan shimasen"
+        ],
+        [
+            "ちゅうだんします",
+            "ちゅうだんしません"
+        ]
+    ],
+    "chuuritsu": [
+        "ちゅうりつ",
+        "neutrality",
+        "noun"
+    ],
+    "chuusen": [
+        "ちゅうせん",
+        "ambush",
+        "noun"
+    ],
+    "chō": [
+        "ちょう",
+        "butterfly",
+        "noun"
+    ],
+    "daidokoro": [
+        "だいどころ",
+        "kitchen",
+        "noun"
+    ],
+    "de": [
+        "で",
+        "location particle"
+    ],
+    "dekakeru": [
+        "でかける",
+        "to go out",
+        "verb",
+        [
+            "dekakemasu",
+            "dekakemasen"
+        ],
+        [
+            "でかけます",
+            "でかけません"
+        ]
+    ],
+    "denki": [
+        "でんき",
+        "electricity / light",
+        "noun"
+    ],
+    "denwa": [
+        "でんわ",
+        "telephone",
+        "noun"
+    ],
+    "deru": [
+        "でる",
+        "to exit / leave"
+    ],
+    "desu": [
+        "です",
+        "to be",
+        "verb",
+        [
+            "desu",
+            "deshita",
+            "dewa arimasen",
+            "dewa arimasen deshita"
+        ],
+        [
+            "です",
+            "でした",
+            "ではありません",
+            "ではありませんでした"
+        ]
+    ],
+    "doa": [
+        "ドア",
+        "door",
+        "noun"
+    ],
+    "doriburu suru": [
+        "ドリブルする",
+        "to dribble (a ball)",
+        "verb",
+        [
+            "doriburu shimasu",
+            "doriburu shimasen"
+        ],
+        [
+            "ドリブルします",
+            "ドリブルしません"
+        ]
+    ],
+    "dōbutsu": [
+        "どうぶつ",
+        "animal",
+        "noun"
+    ],
+    "e": [
+        "え",
+        "picture",
+        "noun"
+    ],
+    "ebi": [
+        "えび",
+        "shrimp",
+        "noun"
+    ],
+    "eiga": [
+        "います",
+        "film"
+    ],
+    "eigo": [
+        "えいご",
+        "English (language)",
+        "noun"
+    ],
+    "eikyouryoku ga aru": [
+        "えいきょうりょくがある",
+        "influential",
+        "adjective"
+    ],
+    "eki": [
+        "えき",
+        "station",
+        "noun"
+    ],
+    "enpitsu": [
+        "えんぴつ",
+        "pencil"
+    ],
+    "ensei suru": [
+        "えんせいする",
+        "to besiege",
+        "verb",
+        [
+            "ensei shimasu",
+            "ensei shimasen"
+        ],
+        [
+            "えんせいします",
+            "えんせいしません"
+        ]
+    ],
+    "entotsu": [
+        "えんとつ",
+        "fort/chimney",
+        "noun"
+    ],
+    "fuantei": [
+        "ふあんてい",
+        "unstable",
+        "adjective"
+    ],
+    "fuku": [
+        "ふく",
+        "clothes",
+        "noun"
+    ],
+    "fukyou": [
+        "ふきょう",
+        "unlucky/adverse",
+        "adjective"
+    ],
+    "furui": [
+        "ふるい",
+        "old"
+    ],
+    "fusoku suru": [
+        "ふそくする",
+        "to lack/be short of",
+        "verb",
+        [
+            "fusoku shimasu",
+            "fusoku shimasen"
+        ],
+        [
+            "ふそくします",
+            "ふそくしません"
+        ]
+    ],
+    "futtobōru": [
+        "フットボール",
+        "football / soccer",
+        "noun"
+    ],
+    "fuyu": [
+        "ふゆ",
+        "winter (season)",
+        "noun"
+    ],
+    "ga": [
+        "が",
+        "subject marker"
+    ],
+    "gakkou": [
+        "がっこう",
+        "school"
+    ],
+    "gakusei": [
+        "がくせい",
+        "student"
+    ],
+    "ganbaru": [
+        "がんばる",
+        "to do one's best",
+        "verb",
+        [
+            "ganbarimasu",
+            "ganbaranai",
+            "ganbarimasen",
+            "ganbatte"
+        ],
+        [
+            "がんばります",
+            "がんばらない",
+            "がんばりません",
+            "がんばって"
+        ]
+    ],
+    "geemu": [
+        "ゲーム",
+        "game",
+        "noun"
+    ],
+    "gekiteki": [
+        "げきてき",
+        "dramatic",
+        "adjective"
+    ],
+    "genbaku": [
+        "げんばく",
+        "atomic bomb",
+        "noun"
+    ],
+    "genkan": [
+        "げんかん",
+        "entranceway",
+        "noun"
+    ],
+    "genshi": [
+        "げんし",
+        "atom",
+        "noun"
+    ],
+    "go": [
+        "ご",
+        "five"
+    ],
+    "gohan": [
+        "ごはん",
+        "cooked rice",
+        "noun"
+    ],
+    "gorufu": [
+        "ゴルフ",
+        "golf",
+        "noun"
+    ],
+    "gun": [
+        "ぐん",
+        "army/military",
+        "noun"
+    ],
+    "gunki": [
+        "ぐんき",
+        "military spirit/morale",
+        "noun"
+    ],
+    "gunkikan": [
+        "ぐんきかん",
+        "military officer",
+        "noun"
+    ],
+    "gunshi": [
+        "ぐんし",
+        "general",
+        "noun"
+    ],
+    "guntai": [
+        "ぐんたい",
+        "army",
+        "noun"
+    ],
+    "gyūniku": [
+        "ぎゅうにく",
+        "beef",
+        "noun"
+    ],
+    "gyūnyū": [
+        "ぎゅうにゅう",
+        "milk",
+        "noun"
+    ],
+    "hachi": [
+        "はち",
+        "eight"
+    ],
+    "hachigatsu": [
+        "はちがつ",
+        "August",
+        "noun"
+    ],
+    "hageshii": [
+        "はげしい",
+        "intense/violent",
+        "adjective"
+    ],
+    "hairu": [
+        "はいる",
+        "to enter",
+        "verb"
+    ],
+    "hajimaru": [
+        "はじまる",
+        "to begin / start",
+        "verb",
+        [
+            "hajimarimasu",
+            "hajimaranai",
+            "hajimarimasen",
+            "hajimatte",
+            "hajimarimashita"
+        ],
+        [
+            "はじまります",
+            "はじまらない",
+            "はじまりません",
+            "はじまって",
+            "はじまりました"
+        ]
+    ],
+    "hajimeru": [
+        "はじめる",
+        "to begin",
+        "verb"
+    ],
+    "hakkou suru": [
+        "はっこうする",
+        "to launch (an attack)",
+        "verb",
+        [
+            "hakkou shimasu",
+            "hakkou shimasen"
+        ],
+        [
+            "はっこうします",
+            "はっこうしません"
+        ]
+    ],
+    "hakusai": [
+        "はくさい",
+        "Chinese cabbage",
+        "noun"
+    ],
+    "hana": [
+        "はな",
+        "flower",
+        "noun"
+    ],
+    "hanasu": [
+        "はなす",
+        "to speak",
+        "verb",
+        [
+            "hanashimasu"
+        ],
+        [
+            "はなします"
+        ]
+    ],
+    "hangeki suru": [
+        "はんげきする",
+        "to counterattack",
+        "verb",
+        [
+            "hangeki shimasu",
+            "hangeki shimasen"
+        ],
+        [
+            "はんげきします",
+            "はんげきしません"
+        ]
+    ],
+    "hare": [
+        "はれ",
+        "sunny weather",
+        "noun"
+    ],
+    "haru": [
+        "はる",
+        "spring (season)",
+        "noun"
+    ],
+    "hashi": [
+        "はし",
+        "chopsticks",
+        "noun"
+    ],
+    "hashiru": [
+        "はしる",
+        "to run",
+        "verb"
+    ],
+    "hataraku": [
+        "はたらく",
+        "to work",
+        "verb"
+    ],
+    "hayai": [
+        "はやい",
+        "fast",
+        "adjective"
+    ],
+    "heiki": [
+        "へいき",
+        "soldier",
+        "noun"
+    ],
+    "heishi": [
+        "へいし",
+        "soldier",
+        "noun"
+    ],
+    "heitaidougu": [
+        "へいたいどうぐ",
+        "military equipment",
+        "noun"
+    ],
+    "heiwa": [
+        "へいわ",
+        "peace",
+        "noun"
+    ],
+    "henshin": [
+        "へんしん",
+        "transformation",
+        "noun"
+    ],
+    "heta": [
+        "へた",
+        "unskillful",
+        "adjective"
+    ],
+    "heya": [
+        "へや",
+        "room",
+        "noun"
+    ],
+    "hiku": [
+        "ひく",
+        "to pull / play (string instrument)",
+        "verb"
+    ],
+    "hikui": [
+        "ひくい",
+        "low / short",
+        "adjective"
+    ],
+    "hinanteki": [
+        "ひなんてき",
+        "critical",
+        "adjective"
+    ],
+    "hiragana": [
+        "ひらがな",
+        "hiragana",
+        "noun"
+    ],
+    "hitobito": [
+        "ひとびと",
+        "people",
+        "noun"
+    ],
+    "hitotsu": [
+        "ひとつ",
+        "one (thing)",
+        "noun"
+    ],
+    "hon": [
+        "ほん",
+        "book",
+        "noun"
+    ],
+    "hoshi": [
+        "ほし",
+        "star",
+        "noun"
+    ],
+    "hoshou suru": [
+        "ほしょうする",
+        "to guarantee",
+        "verb",
+        [
+            "hoshou shimasu",
+            "hoshou shimasen"
+        ],
+        [
+            "ほしょうします",
+            "ほしょうしません"
+        ]
+    ],
+    "hotaru": [
+        "ほたる",
+        "firefly",
+        "noun"
+    ],
+    "houhou": [
+        "ほうほう",
+        "method/tactics",
+        "noun"
+    ],
+    "houki": [
+        "ほうき",
+        "broom",
+        "noun"
+    ],
+    "houritsu": [
+        "ほうりつ",
+        "military law",
+        "noun"
+    ],
+    "hyakuman": [
+        "ひゃくまん",
+        "one million",
+        "noun"
+    ],
+    "hōrensō": [
+        "ほうれんそう",
+        "spinach",
+        "noun"
+    ],
+    "ichi": [
+        "いち",
+        "one"
+    ],
+    "ichigo": [
+        "いちご",
+        "strawberry",
+        "noun"
+    ],
+    "ie": [
+        "いえ",
+        "house / home",
+        "noun"
+    ],
+    "ijō": [
+        "いじょう",
+        "more than"
+    ],
+    "ika": [
+        "いか",
+        "squid",
+        "noun"
+    ],
+    "ike": [
+        "いけ",
+        "pond",
+        "noun"
+    ],
+    "ike no saku": [
+        "いけのさく",
+        "pond bank",
+        "noun"
+    ],
+    "ikimono": [
+        "いきもの",
+        "living thing/creature",
+        "noun"
+    ],
+    "iku": [
+        "いく",
+        "to go",
+        "verb",
+        [
+            "ikimasu",
+            "ikanai",
+            "ikimasen",
+            "itte",
+            "ikumashita"
+        ],
+        [
+            "いきます",
+            "いかない",
+            "いきません",
+            "いって",
+            "いきました"
+        ]
+    ],
+    "ima": [
+        "いま",
+        "living room",
+        "noun"
+    ],
+    "imasu": [
+        "います",
+        "exists/is"
+    ],
+    "inu": [
+        "いぬ",
+        "dog",
+        "noun"
+    ],
+    "iru": [
+        "いる",
+        "to exist (animate)"
+    ],
+    "ishi": [
+        "いし",
+        "stone/rock",
+        "noun"
+    ],
+    "iso": [
+        "いそ",
+        "seashore",
+        "noun"
+    ],
+    "jagaimo": [
+        "じゃがいも",
+        "potato",
+        "noun"
+    ],
+    "janpu suru": [
+        "ジャンプする",
+        "to jump",
+        "verb",
+        [
+            "janpu shimasu",
+            "janpu shimasen"
+        ],
+        [
+            "ジャンプします",
+            "ジャンプしません"
+        ]
+    ],
+    "jidoosha": [
+        "じどうしゃ",
+        "automobile",
+        "noun"
+    ],
+    "jisho": [
+        "じしょ",
+        "dictionary",
+        "noun"
+    ],
+    "jitensha": [
+        "じてんしゃ",
+        "bicycle",
+        "noun"
+    ],
+    "jouryaku suru": [
+        "じょうりゃくする",
+        "to invade",
+        "verb",
+        [
+            "jouryaku shimasu",
+            "jouryaku shimasen"
+        ],
+        [
+            "じょうりゃくします",
+            "じょうりゃくしません"
+        ]
+    ],
+    "jouzu": [
+        "じょうず",
+        "skillful/good at",
+        "adjective"
+    ],
+    "junbi": [
+        "じゅんび",
+        "preparation",
+        "noun"
+    ],
+    "junbi suru": [
+        "じゅんびする",
+        "to prepare/get ready",
+        "verb",
+        [
+            "junbi shimasu",
+            "junbi shimasen"
+        ],
+        [
+            "じゅんびします",
+            "じゅんびしません"
+        ]
+    ],
+    "juu": [
+        "じゅう",
+        "ten"
+    ],
+    "juudai": [
+        "じゅうだい",
+        "serious/important",
+        "adjective"
+    ],
+    "jūdō": [
+        "じゅうどう",
+        "judo",
+        "noun"
+    ],
+    "jūsu": [
+        "じゅーす",
+        "juice",
+        "noun"
+    ],
+    "kaban": [
+        "かばん",
+        "bag",
+        "noun"
+    ],
+    "kabe": [
+        "かべ",
+        "wall",
+        "noun"
+    ],
+    "kaeru": [
+        "かえる",
+        "to return/go back",
+        "verb",
+        [
+            "kaerimasu",
+            "kaerimasen",
+            "kaette"
+        ],
+        [
+            "かえります",
+            "かえりません",
+            "かえって"
+        ]
+    ],
+    "kafe": [
+        "カフェ",
+        "cafe"
+    ],
+    "kagi": [
+        "かぎ",
+        "key",
+        "noun"
+    ],
+    "kaigi": [
+        "かいぎ",
+        "conference/meeting",
+        "noun"
+    ],
+    "kaigun": [
+        "かいぐん",
+        "navy",
+        "noun"
+    ],
+    "kaiguntai": [
+        "かいぐんたい",
+        "sailor",
+        "noun"
+    ],
+    "kaimono": [
+        "かいもの",
+        "shopping",
+        "noun"
+    ],
+    "kakeru": [
+        "かける",
+        "to hang / make a call",
+        "verb"
+    ],
+    "kaku": [
+        "書く",
+        "to write",
+        "verb",
+        [
+            "kakimasu",
+            "kakanai",
+            "kakimasen",
+            "kaite"
+        ],
+        [
+            "かきます",
+            "かかない",
+            "かきません",
+            "かいて"
+        ]
+    ],
+    "kamera": [
+        "カメラ",
+        "camera",
+        "noun"
+    ],
+    "kamikaze": [
+        "かみかぜ",
+        "divine wind",
+        "noun"
+    ],
+    "kanashii": [
+        "かなしい",
+        "sad/sorrowful",
+        "adjective"
+    ],
+    "kangaeru": [
+        "かんがえる",
+        "to think",
+        "verb"
+    ],
+    "kanshi": [
+        "かんし",
+        "guard/sentry",
+        "noun"
+    ],
+    "kara": [
+        "から",
+        "from (particle)",
+        "particle"
+    ],
+    "karate": [
+        "からて",
+        "karate",
+        "noun"
+    ],
+    "karui": [
+        "かるい",
+        "light (weight)",
+        "adjective"
+    ],
+    "karuma": [
+        "くるま",
+        "car",
+        "noun"
+    ],
+    "kasa": [
+        "かさ",
+        "umbrella",
+        "noun"
+    ],
+    "kasumi": [
+        "かすみ",
+        "mist/fog",
+        "noun"
+    ],
+    "katakana": [
+        "カタカナ",
+        "katakana",
+        "noun"
+    ],
+    "katsu": [
+        "かつ",
+        "to win",
+        "verb",
+        [
+            "kachimasu",
+            "katanai",
+            "kachimasen",
+            "katte"
+        ],
+        [
+            "かちます",
+            "かたない",
+            "かちません",
+            "かって"
+        ]
+    ],
+    "kau": [
+        "かう",
+        "to buy",
+        "verb",
+        [
+            "kaimasu",
+            "kawanai",
+            "kaimasen",
+            "katte"
+        ],
+        [
+            "かいます",
+            "かわない",
+            "かいません",
+            "かって"
+        ]
+    ],
+    "kawa": [
+        "かわ",
+        "river",
+        "noun"
+    ],
+    "kawa no nagare": [
+        "かわのながれ",
+        "river flow/current",
+        "noun"
+    ],
+    "kawa no saku": [
+        "かわのさく",
+        "river bank",
+        "noun"
+    ],
+    "kawaru": [
+        "かわる",
+        "to change",
+        "verb"
+    ],
+    "kaze": [
+        "かぜ",
+        "wind",
+        "noun"
+    ],
+    "keiken": [
+        "けいけん",
+        "experience",
+        "noun"
+    ],
+    "keiken suru": [
+        "けいけんする",
+        "to experience",
+        "verb",
+        [
+            "keiken shimasu",
+            "keiken shimasen"
+        ],
+        [
+            "けいけんします",
+            "けいけんしません"
+        ]
+    ],
+    "ken": [
+        "けん",
+        "sword",
+        "noun"
+    ],
+    "kerei": [
+        "カレー",
+        "curry/curry rice",
+        "noun"
+    ],
+    "keru": [
+        "ける",
+        "to kick",
+        "verb",
+        [
+            "kerimasu",
+            "keranai",
+            "kerimasen",
+            "kette"
+        ],
+        [
+            "けります",
+            "けらない",
+            "けりません",
+            "けって"
+        ]
+    ],
+    "keshigomui": [
+        "けしゴム",
+        "eraser",
+        "noun"
+    ],
+    "kettei": [
+        "けってい",
+        "decision",
+        "noun"
+    ],
+    "ki": [
+        "き",
+        "tree",
+        "noun"
+    ],
+    "kibishii": [
+        "きびしい",
+        "severe/strict",
+        "adjective"
+    ],
+    "kibō": [
+        "きぼう",
+        "hope",
+        "noun"
+    ],
+    "kiken": [
+        "きけん",
+        "risky/dangerous",
+        "adjective"
+    ],
+    "kiku": [
+        "きく",
+        "to hear/to ask",
+        "verb",
+        [
+            "kikimasu",
+            "kikanai",
+            "kikimasen",
+            "kiite"
+        ],
+        [
+            "ききます",
+            "きかない",
+            "ききません",
+            "きいて"
+        ]
+    ],
+    "kimeru": [
+        "きめる",
+        "to decide",
+        "verb",
+        [
+            "kimemasu",
+            "kimenai",
+            "kimemasen",
+            "kimete"
+        ],
+        [
+            "きめます",
+            "きめない",
+            "きめません",
+            "きめて"
+        ]
+    ],
+    "kini": [
+        "きに",
+        "machine gun",
+        "noun"
+    ],
+    "kioku": [
+        "きおく",
+        "memory"
+    ],
+    "kirei": [
+        "きれい",
+        "beautiful / clean"
+    ],
+    "kitchen": [
+        "キッチン",
+        "kitchen",
+        "noun"
+    ],
+    "kitsun": [
+        "きつね",
+        "fox",
+        "noun"
+    ],
+    "kodomo-tachi": [
+        "こどもたち",
+        "children",
+        "noun"
+    ],
+    "kokoro": [
+        "こころ",
+        "heart/mind",
+        "noun"
+    ],
+    "kokugun": [
+        "こくぐん",
+        "army",
+        "noun"
+    ],
+    "kokumin": [
+        "こくみん",
+        "citizen",
+        "noun"
+    ],
+    "kokusai": [
+        "こくさい",
+        "international",
+        "adjective"
+    ],
+    "kokusai kankei": [
+        "こくさいかんけい",
+        "international relations",
+        "noun"
+    ],
+    "kome": [
+        "こめ",
+        "uncooked rice",
+        "noun"
+    ],
+    "kore": [
+        "これ",
+        "this",
+        "pronoun"
+    ],
+    "kouen": [
+        "こうえん",
+        "park"
+    ],
+    "koufun suru": [
+        "こうふんする",
+        "to be excited",
+        "verb",
+        [
+            "koufun shimasu",
+            "koufun shimasen"
+        ],
+        [
+            "こうふんします",
+            "こうふんしません"
+        ]
+    ],
+    "kougeki": [
+        "こうげき",
+        "attack",
+        "noun"
+    ],
+    "kougeki suru": [
+        "こうげきする",
+        "to attack",
+        "verb",
+        [
+            "kougeki shimasu",
+            "kougeki shimasen"
+        ],
+        [
+            "こうげきします",
+            "こうげきしません"
+        ]
+    ],
+    "kougekiteki": [
+        "こうげきてき",
+        "aggressive",
+        "adjective"
+    ],
+    "kouhii": [
+        "コーヒー",
+        "coffee",
+        "noun"
+    ],
+    "kouho suru": [
+        "こうほする",
+        "to nominate",
+        "verb",
+        [
+            "kouho shimasu",
+            "kouho shimasen"
+        ],
+        [
+            "こうほします",
+            "こうほしません"
+        ]
+    ],
+    "koukateki": [
+        "こうかてき",
+        "effective",
+        "adjective"
+    ],
+    "kowai": [
+        "こわい",
+        "scary/frightening/fearful",
+        "adjective"
+    ],
+    "kudamono": [
+        "くだもの",
+        "fruit",
+        "noun"
+    ],
+    "kudasaru": [
+        "くださる",
+        "to give (honorific)",
+        "verb"
+    ],
+    "kumo": [
+        "くも",
+        "cloud",
+        "noun"
+    ],
+    "kumori": [
+        "くもり",
+        "cloudy weather",
+        "noun"
+    ],
+    "kuni": [
+        "くに",
+        "country",
+        "noun"
+    ],
+    "kureru": [
+        "くれる",
+        "to give (to me)",
+        "verb",
+        [
+            "kuremasu",
+            "kuremasen"
+        ],
+        [
+            "くれます",
+            "くれません"
+        ]
+    ],
+    "kuroi": [
+        "くろい",
+        "black",
+        "adjective"
+    ],
+    "kuru": [
+        "くる",
+        "to go",
+        "verb",
+        [
+            "kimasu",
+            "kimasen",
+            "kita",
+            "kimashita"
+        ],
+        [
+            "きます",
+            "きません",
+            "きた",
+            "きました"
+        ]
+    ],
+    "kuruma": [
+        "くるま",
+        "car",
+        "noun"
+    ],
+    "kurō": [
+        "くろう",
+        "hardship / trouble",
+        "noun"
+    ],
+    "kusaban": [
+        "くさばな",
+        "grass/plant",
+        "noun"
+    ],
+    "kutsu bako": [
+        "くつばこ",
+        "shoe cupboard",
+        "noun"
+    ],
+    "kuugun": [
+        "くうぐん",
+        "air force",
+        "noun"
+    ],
+    "kyabetsu": [
+        "きゃべつ",
+        "cabbage",
+        "noun"
+    ],
+    "kyacchi suru": [
+        "キャッチする",
+        "to catch (a ball)",
+        "verb",
+        [
+            "kyacchi shimasu",
+            "kyacchi shimasen"
+        ],
+        [
+            "キャッチします",
+            "キャッチしません"
+        ]
+    ],
+    "kyuu": [
+        "きゅう",
+        "nine"
+    ],
+    "kyōdai": [
+        "きょうだい",
+        "siblings",
+        "noun"
+    ],
+    "kyōkasho": [
+        "きょうかしょ",
+        "textbook",
+        "noun"
+    ],
+    "kyūri": [
+        "きゅうり",
+        "cucumber",
+        "noun"
+    ],
+    "kōen": [
+        "こうえん",
+        "park"
+    ],
+    "kōfuku": [
+        "こうふく",
+        "happiness",
+        "noun"
+    ],
+    "kōfuku suru": [
+        "こうふくする",
+        "to be happy",
+        "verb",
+        [
+            "koufuku shimasu",
+            "koufuku shimasen"
+        ],
+        [
+            "こうふくします",
+            "こうふくしません"
+        ]
+    ],
+    "kōhī": [
+        "こーひー",
+        "coffee",
+        "noun"
+    ],
+    "machi": [
+        "まち",
+        "town/city",
+        "noun"
+    ],
+    "machinami": [
+        "まちなみ",
+        "townscape",
+        "noun"
+    ],
+    "maguro": [
+        "まぐろ",
+        "tuna",
+        "noun"
+    ],
+    "mainichi": [
+        "まいにち",
+        "every day"
+    ],
+    "makeru": [
+        "まける",
+        "to lose",
+        "verb",
+        [
+            "makemasu",
+            "makenai",
+            "makemasen",
+            "makete"
+        ],
+        [
+            "まけます",
+            "まけない",
+            "まけません",
+            "まけて"
+        ]
+    ],
+    "mamoru": [
+        "まもる",
+        "to protect",
+        "verb",
+        [
+            "mamorimasu",
+            "mamoranai",
+            "mamorimasen",
+            "mamotte"
+        ],
+        [
+            "まもります",
+            "まもらない",
+            "まもりません",
+            "まもって"
+        ]
+    ],
+    "manabu": [
+        "まなぶ",
+        "to learn",
+        "verb",
+        [
+            "manabimasu",
+            "manabimasen",
+            "manande"
+        ],
+        [
+            "まなびます",
+            "まなびません",
+            "まなんで"
+        ]
+    ],
+    "manubu": [
+        "まなぶ",
+        "to learn",
+        "verb",
+        [
+            "manabimasu",
+            "manabimasen",
+            "manande",
+            "manabimashita"
+        ],
+        [
+            "まなびます",
+            "まなびません",
+            "まなんで",
+            "まなびました"
+        ]
+    ],
+    "maoru": [
+        "まおる",
+        "to protect",
+        "verb",
+        [
+            "maorimasu",
+            "maoranai",
+            "maorimasen",
+            "maotte"
+        ],
+        [
+            "まおります",
+            "まおらない",
+            "まいません",
+            "まおって"
+        ]
+    ],
+    "mashinegan": [
+        "マシンガン",
+        "machine gun",
+        "noun"
+    ],
+    "matsu": [
+        "まつ",
+        "to wait",
+        "verb"
+    ],
+    "mazui": [
+        "まずい",
+        "unpleasant (food)",
+        "adjective"
+    ],
+    "megane": [
+        "めがね",
+        "glasses",
+        "noun"
+    ],
+    "men": [
+        "めん",
+        "noodles",
+        "noun"
+    ],
+    "midori": [
+        "みどり",
+        "green",
+        "adjective"
+    ],
+    "mijikai": [
+        "みじかい",
+        "short"
+    ],
+    "mikan": [
+        "みかん",
+        "mandarin orange",
+        "noun"
+    ],
+    "mimasu": [
+        "みます",
+        "to watch/see",
+        "verb"
+    ],
+    "miru": [
+        "みる",
+        "to see / watch",
+        "verb",
+        [
+            "mimasu",
+            "minai",
+            "mimasen",
+            "mite"
+        ],
+        [
+            "みます",
+            "みない",
+            "みません",
+            "みて"
+        ]
+    ],
+    "misemasu": [
+        "みせます",
+        "to show",
+        "verb",
+        [
+            "misemasu",
+            "misenai",
+            "misemasen",
+            "misete"
+        ],
+        [
+            "みせます",
+            "みせない",
+            "みせません",
+            "みせて"
+        ]
+    ],
+    "miseru": [
+        "みせる",
+        "to show",
+        "verb",
+        [
+            "misemasu",
+            "misemasen",
+            "misete"
+        ],
+        [
+            "みせます",
+            "みせません",
+            "みせて"
+        ]
+    ],
+    "miso": [
+        "みそ",
+        "miso",
+        "noun"
+    ],
+    "mizu": [
+        "みず",
+        "water",
+        "noun"
+    ],
+    "mizuumi no umi": [
+        "みずうみのうみ",
+        "inland sea",
+        "noun"
+    ],
+    "mizūmi": [
+        "みずうみ",
+        "lake",
+        "noun"
+    ],
+    "momo": [
+        "もも",
+        "peach",
+        "noun"
+    ],
+    "morau": [
+        "もらう",
+        "to receive",
+        "verb",
+        [
+            "moraimasu"
+        ],
+        [
+            "もらいます"
+        ]
+    ],
+    "mori": [
+        "もり",
+        "forest",
+        "noun"
+    ],
+    "motomeru": [
+        "もとめる",
+        "to seek",
+        "verb"
+    ],
+    "motte": [
+        "もって",
+        "to have/hold/carry",
+        "verb",
+        [
+            "motteimasu",
+            "motteimasen"
+        ],
+        [
+            "もっています",
+            "もっていません"
+        ]
+    ],
+    "moyasu": [
+        "もやす",
+        "to burn",
+        "verb"
+    ],
+    "mushi": [
+        "むし",
+        "insect",
+        "noun"
+    ],
+    "muzukashii": [
+        "むずかしい",
+        "difficult",
+        "adjective"
+    ],
+    "mō": [
+        "もう",
+        "already / anymore",
+        "adverb"
+    ],
+    "nagai": [
+        "ながい",
+        "long"
+    ],
+    "nagasu": [
+        "ながす",
+        "to let flow / drain",
+        "verb"
+    ],
+    "nageru": [
+        "なげる",
+        "to throw",
+        "verb",
+        [
+            "nagemasu",
+            "nagenai",
+            "nagemasen",
+            "nagete"
+        ],
+        [
+            "なげます",
+            "なげない",
+            "なげません",
+            "なげて"
+        ]
+    ],
+    "nakama": [
+        "なかま",
+        "companion / colleague / friend",
+        "noun"
+    ],
+    "naku": [
+        "なく",
+        "to cry",
+        "verb"
+    ],
+    "nakunaru": [
+        "なくなる",
+        "to be lost / to disappear",
+        "verb",
+        [
+            "nakunarimasu",
+            "nakunaranai",
+            "nakunarimasen",
+            "nakunatte",
+            "nakunarimashita"
+        ],
+        [
+            "なくなります",
+            "なくならない",
+            "なくなりません",
+            "なくなって",
+            "なくなりました"
+        ]
+    ],
+    "namae": [
+        "なまえ",
+        "name"
+    ],
+    "nami": [
+        "なみ",
+        "wave",
+        "noun"
+    ],
+    "nana": [
+        "なな",
+        "seven"
+    ],
+    "narau": [
+        "ならう",
+        "to learn",
+        "verb",
+        [
+            "naraimasu",
+            "naranai",
+            "naraimasen"
+        ],
+        [
+            "ならいます",
+            "ならない",
+            "ならいません"
+        ]
+    ],
+    "naru": [
+        "なる",
+        "to become",
+        "verb",
+        [
+            "narimasu",
+            "naranai",
+            "narimasen",
+            "natte",
+            "narimashita"
+        ],
+        [
+            "なります",
+            "ならない",
+            "なりません",
+            "なって",
+            "なりました"
+        ]
+    ],
+    "nashi": [
+        "なし",
+        "pear",
+        "noun"
+    ],
+    "nasu": [
+        "なす",
+        "eggplant",
+        "noun"
+    ],
+    "natsu": [
+        "なつ",
+        "summer (season)",
+        "noun"
+    ],
+    "nattō": [
+        "なっとう",
+        "fermented soybeans",
+        "noun"
+    ],
+    "neko": [
+        "ねこ",
+        "cat",
+        "noun"
+    ],
+    "nen": [
+        "ねん",
+        "year",
+        "noun"
+    ],
+    "neru": [
+        "寝る",
+        "to sleep",
+        "verb",
+        [
+            "nemasu",
+            "nemasen",
+            "nete"
+        ],
+        [
+            "ねます",
+            "ねません",
+            "ねて"
+        ]
+    ],
+    "ni": [
+        "に",
+        "two"
+    ],
+    "nigate": [
+        "にがて",
+        "weak at / not good at",
+        "adjective"
+    ],
+    "nigeru": [
+        "にげる",
+        "to escape/run away",
+        "verb",
+        [
+            "nigemasu",
+            "nigenai",
+            "nigemasen",
+            "nigete"
+        ],
+        [
+            "にげます",
+            "にげない",
+            "にげません",
+            "にげて"
+        ]
+    ],
+    "nihongo": [
+        "にほんご",
+        "japanese"
+    ],
+    "niku": [
+        "にく",
+        "meat",
+        "noun"
+    ],
+    "ninjin": [
+        "にんじん",
+        "carrot",
+        "noun"
+    ],
+    "no": [
+        "の",
+        "possessive 'of'",
+        "noun"
+    ],
+    "nomimono": [
+        "のみもの",
+        "drink / beverage",
+        "noun"
+    ],
+    "nomu": [
+        "のむ",
+        "to drink",
+        "verb",
+        [
+            "nomimasu",
+            "nomanai",
+            "nomimasen",
+            "nonde"
+        ],
+        [
+            "のみます",
+            "のまない",
+            "のみません",
+            "のんで"
+        ]
+    ],
+    "nori": [
+        "のり",
+        "seaweed",
+        "noun"
+    ],
+    "noru": [
+        "のる",
+        "to ride / get on",
+        "verb",
+        [
+            "norimasu",
+            "noranai",
+            "norimasen",
+            "notte"
+        ],
+        [
+            "のります",
+            "のらない",
+            "のりません",
+            "のって"
+        ]
+    ],
+    "notepaddo": [
+        "ノートパッド",
+        "notepad",
+        "noun"
+    ],
+    "o": [
+        "を",
+        "object marker",
+        "noun"
+    ],
+    "ocha": [
+        "おちゃ",
+        "tea",
+        "noun"
+    ],
+    "ochiru": [
+        "おちる",
+        "to fall",
+        "verb",
+        [
+            "ochimasu",
+            "ochinai",
+            "ochimasen",
+            "ochite"
+        ],
+        [
+            "おちます",
+            "おちない",
+            "おちません",
+            "おちて"
+        ]
+    ],
+    "odoru": [
+        "おどる",
+        "to dance",
+        "verb",
+        [
+            "odorimasu",
+            "odorimasen"
+        ],
+        [
+            "おどります",
+            "おどりません"
+        ]
+    ],
+    "ofuro": [
+        "おふろ",
+        "bath",
+        "noun"
+    ],
+    "oishii": [
+        "おいしい",
+        "delicious/tasty",
+        "adjective"
+    ],
+    "oka": [
+        "おか",
+        "hill",
+        "noun"
+    ],
+    "okaasan": [
+        "おかあさん",
+        "mother",
+        "noun"
+    ],
+    "okane": [
+        "おかね",
+        "money",
+        "noun"
+    ],
+    "okashi": [
+        "おかし",
+        "sweets",
+        "noun"
+    ],
+    "okayu": [
+        "おかゆ",
+        "rice porridge",
+        "noun"
+    ],
+    "okiru": [
+        "おきる",
+        "to wake up",
+        "verb",
+        [
+            "okimasu",
+            "okimasen",
+            "okite"
+        ],
+        [
+            "おきます",
+            "おきません",
+            "おきて"
+        ]
+    ],
+    "okoru": [
+        "おこる",
+        "to happen / get angry",
+        "verb"
+    ],
+    "okosu": [
+        "おこす",
+        "to wake someone / cause",
+        "verb"
+    ],
+    "okuru": [
+        "おくる",
+        "to send / give",
+        "verb",
+        [
+            "okurimasu",
+            "okuranai",
+            "okurimasen",
+            "okutte"
+        ],
+        [
+            "おくります",
+            "おくらない",
+            "おくりません",
+            "おくって"
+        ]
+    ],
+    "omoi": [
+        "おもい",
+        "heavy/serious/emotionally",
+        "adjective"
+    ],
+    "omoshiroi": [
+        "おもしろい",
+        "interesting/funny",
+        "adjective"
+    ],
+    "omou": [
+        "おもう",
+        "to think / feel",
+        "verb"
+    ],
+    "onigiri": [
+        "おにぎり",
+        "rice ball",
+        "noun"
+    ],
+    "ookii": [
+        "おおきい",
+        "big/large",
+        "adjective"
+    ],
+    "origami": [
+        "おりがみ",
+        "origami",
+        "noun"
+    ],
+    "oriru": [
+        "おりる",
+        "to get off / descend",
+        "verb",
+        [
+            "orimasu",
+            "orimasen",
+            "orite"
+        ],
+        [
+            "おります",
+            "おりません",
+            "おりて"
+        ]
+    ],
+    "osake": [
+        "おさけ",
+        "sake",
+        "noun"
+    ],
+    "osoi": [
+        "はやい",
+        "slow",
+        "adjective"
+    ],
+    "osoroshii": [
+        "おそろしい",
+        "terrible/frightening",
+        "adjective"
+    ],
+    "otosu": [
+        "おとす",
+        "to drop / lose",
+        "verb",
+        [
+            "otoshimasu",
+            "otosanai",
+            "otosimasen",
+            "otoshite",
+            "otosaremashita"
+        ],
+        [
+            "おとします",
+            "おとさない",
+            "おとしません",
+            "おとして",
+            "おとされました"
+        ]
+    ],
+    "owaru": [
+        "おわる",
+        "to finish",
+        "verb",
+        [
+            "owarimasu",
+            "owaranai",
+            "owarimasen",
+            "owatte",
+            "owarimashita"
+        ],
+        [
+            "おわります",
+            "おわらない",
+            "おわりません",
+            "おわって",
+            "おわりました"
+        ]
+    ],
+    "owatta": [
+        "おわった",
+        "finished",
+        "adjective"
+    ],
+    "oyogu": [
+        "およぐ",
+        "to swim",
+        "verb"
+    ],
+    "oyugu": [
+        "およぐ",
+        "to swim",
+        "verb",
+        [
+            "oyogimasu",
+            "oyoganai",
+            "oyogimasen",
+            "oyoide"
+        ],
+        [
+            "およぎます",
+            "およがない",
+            "およぎません",
+            "およいで"
+        ]
+    ],
+    "pan": [
+        "ぱん",
+        "bread",
+        "noun"
+    ],
+    "pasu suru": [
+        "パスする",
+        "to pass",
+        "verb",
+        [
+            "pasu shimasu",
+            "pasu shimasen"
+        ],
+        [
+            "パスします",
+            "パスしません"
+        ]
+    ],
+    "pen": [
+        "ぺん",
+        "pen"
+    ],
+    "purezento": [
+        "プレゼント",
+        "present",
+        "noun"
+    ],
+    "pyunom": [
+        "ゆのみ",
+        "tea cup",
+        "noun"
+    ],
+    "raifuru": [
+        "ライフル",
+        "rifle",
+        "noun"
+    ],
+    "ranninguu": [
+        "ランニング",
+        "running",
+        "noun"
+    ],
+    "reesu suru": [
+        "レースする",
+        "to race",
+        "verb",
+        [
+            "reesu shimasu",
+            "reesu shimasen"
+        ],
+        [
+            "レースします",
+            "レースしません"
+        ]
+    ],
+    "rekishi": [
+        "れきし",
+        "history",
+        "noun"
+    ],
+    "remon": [
+        "れもん",
+        "lemon",
+        "noun"
+    ],
+    "rikishi": [
+        "りきし",
+        "sumo wrestler",
+        "noun"
+    ],
+    "ringo": [
+        "りんご",
+        "apple",
+        "noun"
+    ],
+    "roku": [
+        "ろく",
+        "six"
+    ],
+    "ryokucha": [
+        "りょくちゃ",
+        "green tea"
+    ],
+    "ryū": [
+        "りゅう",
+        "dragon",
+        "noun"
+    ],
+    "rāmen": [
+        "らーめん",
+        "ranen",
+        "noun"
+    ],
+    "saabu suru": [
+        "サーブする",
+        "to serve (a ball)",
+        "verb",
+        [
+            "saabu shimasu",
+            "saabu shimasen"
+        ],
+        [
+            "サーブします",
+            "サーブしません"
+        ]
+    ],
+    "sagasu": [
+        "さがす",
+        "to search / look for",
+        "verb"
+    ],
+    "sake": [
+        "さけ",
+        "salmon",
+        "noun"
+    ],
+    "sakkaa": [
+        "サッカー",
+        "football",
+        "noun"
+    ],
+    "sakura": [
+        "さくら",
+        "name",
+        "noun"
+    ],
+    "samueru": [
+        "さめる",
+        "to cool / get cold",
+        "verb"
+    ],
+    "samui": [
+        "さむい",
+        "cold (weather)",
+        "adjective"
+    ],
+    "samurai": [
+        "さむらい",
+        "samurai",
+        "noun"
+    ],
+    "san": [
+        "さん",
+        "three"
+    ],
+    "sanpo": [
+        "さんぽ",
+        "to walk"
+    ],
+    "sanpo suru": [
+        "さんぽする",
+        "to take a walk",
+        "verb",
+        [
+            "sanpo shimasu",
+            "sanpo shimasen"
+        ],
+        [
+            "さんぽします",
+            "さんぽしません"
+        ]
+    ],
+    "sara": [
+        "さら",
+        "plate",
+        "noun"
+    ],
+    "satō": [
+        "さとう",
+        "sugar",
+        "noun"
+    ],
+    "seifu": [
+        "せいふ",
+        "government",
+        "noun"
+    ],
+    "senchou": [
+        "せんちょう",
+        "ship captain",
+        "noun"
+    ],
+    "senjō": [
+        "せんじょう",
+        "battlefield",
+        "noun"
+    ],
+    "senryaku suru": [
+        "せんりゃくする",
+        "to strategize",
+        "verb",
+        [
+            "senryaku shimasu",
+            "senryaku shimasen"
+        ],
+        [
+            "せんりゃくします",
+            "せんりゃくしません"
+        ]
+    ],
+    "senryakuteki": [
+        "せんりゃくてき",
+        "strategic",
+        "adjective"
+    ],
+    "senryuu suru": [
+        "せんりゅうする",
+        "to maneuver",
+        "verb",
+        [
+            "senryuu shimasu",
+            "senryuu shimasen"
+        ],
+        [
+            "せんりゅうします",
+            "せんりゅうしません"
+        ]
+    ],
+    "sensei": [
+        "せんせい",
+        "warrior/warrior monk",
+        "noun"
+    ],
+    "sensha": [
+        "せんしゃ",
+        "tank",
+        "noun"
+    ],
+    "senshi": [
+        "せんし",
+        "warrior",
+        "noun"
+    ],
+    "sensou": [
+        "せんそう",
+        "war",
+        "noun"
+    ],
+    "sensou houshiki": [
+        "せんそうほうしき",
+        "warfare",
+        "noun"
+    ],
+    "sensou suru": [
+        "せんそうする",
+        "to wage war",
+        "verb",
+        [
+            "sensou shimasu",
+            "sensou shimasen"
+        ],
+        [
+            "せんそうします",
+            "せんそうしません"
+        ]
+    ],
+    "sensouteki": [
+        "せんそうてき",
+        "military",
+        "adjective"
+    ],
+    "sensōchū": [
+        "せんそうちゅう",
+        "during a war",
+        "noun"
+    ],
+    "sentou": [
+        "せんとう",
+        "battle/fight",
+        "noun"
+    ],
+    "sentou suru": [
+        "せんとうする",
+        "to battle/fight",
+        "verb",
+        [
+            "sentou shimasu",
+            "sentou shimasen"
+        ],
+        [
+            "せんとうします",
+            "せんとうしません"
+        ]
+    ],
+    "shaberu": [
+        "しゃべる",
+        "to chat / talk",
+        "verb"
+    ],
+    "shashin": [
+        "しゃしん",
+        "photo"
+    ],
+    "shatsu": [
+        "シャツ",
+        "shirt",
+        "noun"
+    ],
+    "shi": [
+        "し",
+        "four"
+    ],
+    "shigoto": [
+        "しごと",
+        "work"
+    ],
+    "shihai suru": [
+        "しはいする",
+        "to dominate",
+        "verb",
+        [
+            "shihai shimasu",
+            "shihai shimasen"
+        ],
+        [
+            "しはいします",
+            "しはいしません"
+        ]
+    ],
+    "shiiken": [
+        "しけん",
+        "exam / test",
+        "noun"
+    ],
+    "shimeru": [
+        "しめる",
+        "to close / tie",
+        "verb"
+    ],
+    "shingun": [
+        "しんぐん",
+        "advance/attack",
+        "noun"
+    ],
+    "shinken na": [
+        "しんけんな",
+        "serious",
+        "adjective"
+    ],
+    "shinryokuteki": [
+        "しんりょくてき",
+        "invasive",
+        "adjective"
+    ],
+    "shinu": [
+        "しぬ",
+        "to die",
+        "verb",
+        [
+            "shinimasu",
+            "shinanai",
+            "shinimasen",
+            "shinde",
+            "shinimashita"
+        ],
+        [
+            "しにます",
+            "しにない",
+            "しにません",
+            "しんで",
+            "しにました"
+        ]
+    ],
+    "shio": [
+        "しお",
+        "shio",
+        "noun"
+    ],
+    "shiroi": [
+        "しろい",
+        "white",
+        "adjective"
+    ],
+    "shiru": [
+        "しる",
+        "to know",
+        "verb",
+        [
+            "shirimasu",
+            "shiranai",
+            "shirimasen",
+            "shitte"
+        ],
+        [
+            "しります",
+            "しらない",
+            "しりません",
+            "しって"
+        ]
+    ],
+    "shiryō": [
+        "しりょう",
+        "historical materials/documents",
+        "noun"
+    ],
+    "shokudou": [
+        "しょくどう",
+        "dining room",
+        "noun"
+    ],
+    "shokuji": [
+        "しょくじ",
+        "meal",
+        "noun"
+    ],
+    "shokunin": [
+        "しょくにん",
+        "sushi chef/artisan",
+        "noun"
+    ],
+    "shoppingu": [
+        "ショッピング",
+        "shopping",
+        "noun"
+    ],
+    "shougon": [
+        "しょうごん",
+        "general/commander in chief/ shogun",
+        "noun"
+    ],
+    "shujin": [
+        "しゅじん",
+        "husband",
+        "noun"
+    ],
+    "shujinkou": [
+        "しゅじんこう",
+        "protagonist/main character",
+        "noun"
+    ],
+    "shukudai": [
+        "しゅくだい",
+        "homework",
+        "noun"
+    ],
+    "shuudan suru": [
+        "しゅうだんする",
+        "to swarm",
+        "verb",
+        [
+            "shuudan shimasu",
+            "shuudan shimasen"
+        ],
+        [
+            "しゅうだんします",
+            "しゅうだんしません"
+        ]
+    ],
+    "shuudqn": [
+        "しゅうだん",
+        "group/team",
+        "noun"
+    ],
+    "shuuto suru": [
+        "シュートする",
+        "to shoot (a ball)",
+        "verb",
+        [
+            "shuuto shimasu",
+            "shuuto shimasen"
+        ],
+        [
+            "シュートします",
+            "シュートしません"
+        ]
+    ],
+    "shōyu": [
+        "しょうゆ",
+        "soy sauce",
+        "noun"
+    ],
+    "shūin": [
+        "しゅういん",
+        "surrender",
+        "noun"
+    ],
+    "shūin suru": [
+        "しゅういんする",
+        "to surrender",
+        "verb",
+        [
+            "shuuin shimasu",
+            "shuuin shimasen"
+        ],
+        [
+            "しゅういんします",
+            "しゅういんしません"
+        ]
+    ],
+    "soba": [
+        "そば",
+        "soba",
+        "noun"
+    ],
+    "sofa": [
+        "ソファ",
+        "sofa",
+        "noun"
+    ],
+    "sono": [
+        "その",
+        "that (near you)",
+        "pronoun"
+    ],
+    "sora": [
+        "そら",
+        "sky",
+        "noun"
+    ],
+    "soto": [
+        "そと",
+        "outside"
+    ],
+    "sugosu": [
+        "すごす",
+        "to spend (time)",
+        "verb",
+        [
+            "sugoshimasu",
+            "sugosanai",
+            "sugoshimasen",
+            "sugoshite"
+        ],
+        [
+            "すごします",
+            "すごさない",
+            "すごしません",
+            "すごして"
+        ]
+    ],
+    "suiei": [
+        "すいえい",
+        "swimming",
+        "noun"
+    ],
+    "suika": [
+        "すいか",
+        "watermelon",
+        "noun"
+    ],
+    "suki": [
+        "すき",
+        "like/fondness",
+        "noun"
+    ],
+    "sukēto": [
+        "スケート",
+        "skate / skating",
+        "noun"
+    ],
+    "sukī": [
+        "スキー",
+        "ski / skiing",
+        "noun"
+    ],
+    "sumeshi": [
+        "すめし",
+        "vinegared rice",
+        "noun"
+    ],
+    "sumu": [
+        "すむ",
+        "to live/reside",
+        "verb",
+        [
+            "sunde",
+            "sumimasu",
+            "sumanai",
+            "sumimasen"
+        ],
+        [
+            "すんで",
+            "すみます",
+            "すまない",
+            "すみません"
+        ]
+    ],
+    "sumō": [
+        "すもう",
+        "sumo",
+        "noun"
+    ],
+    "suna": [
+        "すな",
+        "sand",
+        "noun"
+    ],
+    "sunde imasu": [
+        "すんでいます",
+        "to live/reside (progessive polite form)"
+    ],
+    "supaiku suru": [
+        "スパイクする",
+        "to spike (a ball)",
+        "verb",
+        [
+            "supaiku shimasu",
+            "supaiku shimasen"
+        ],
+        [
+            "スパイクします",
+            "スパイクしません"
+        ]
+    ],
+    "supootsu": [
+        "スポーツ",
+        "sports"
+    ],
+    "supōtsu": [
+        "スポーツ",
+        "sports",
+        "noun"
+    ],
+    "suru": [
+        "する",
+        "to do",
+        "verb",
+        [
+            "shimasu",
+            "shite",
+            "shinai",
+            "shita",
+            "shimashita"
+        ],
+        [
+            "します",
+            "して",
+            "しない",
+            "した",
+            "しました"
+        ]
+    ],
+    "sushi": [
+        "すし",
+        "sushi",
+        "noun"
+    ],
+    "sushiya": [
+        "すしや",
+        "sushi restaurant",
+        "noun"
+    ],
+    "sutorecchi suru": [
+        "ストレッチする",
+        "to stretch",
+        "verb",
+        [
+            "sutorecchi shimasu",
+            "sutorecchi shimasen"
+        ],
+        [
+            "ストレッチします",
+            "ストレッチしません"
+        ]
+    ],
+    "suwaru": [
+        "すわる",
+        "to sit",
+        "verb"
+    ],
+    "suzushii": [
+        "すずしい",
+        "cool (preasantly)/refreshing",
+        "adjective"
+    ],
+    "sōji suru": [
+        "そうじする",
+        "to clean",
+        "verb",
+        [
+            "souji shimasu",
+            "souji shimasen",
+            "souji shimashita"
+        ],
+        [
+            "そうじします",
+            "そうじしません",
+            "そうじしました"
+        ]
+    ],
+    "tabemono": [
+        "たべもの",
+        "food",
+        "noun"
+    ],
+    "taberu": [
+        "たべる",
+        "to eat",
+        "verb",
+        [
+            "tabemasu",
+            "tabemashita",
+            "tabemasen"
+        ],
+        [
+            "たべます",
+            "たべました",
+            "たべません"
+        ]
+    ],
+    "taeru": [
+        "たえる",
+        "to endure",
+        "verb",
+        [
+            "taemasu",
+            "taenai",
+            "taemasen",
+            "taete"
+        ],
+        [
+            "たえます",
+            "たえない",
+            "たえません",
+            "たえて"
+        ]
+    ],
+    "tai": [
+        "たい",
+        "sea bream",
+        "noun"
+    ],
+    "taiheiyou": [
+        "たいへいよう",
+        "Pacific Ocean",
+        "noun"
+    ],
+    "taihou": [
+        "たいほう",
+        "cannon",
+        "noun"
+    ],
+    "taiken": [
+        "たいけん",
+        "experience",
+        "noun"
+    ],
+    "taisetsu": [
+        "たいせつ",
+        "important",
+        "adjective"
+    ],
+    "taisou": [
+        "たいそう",
+        "gymnastics / physical exercise",
+        "noun"
+    ],
+    "taiyō": [
+        "たいよう",
+        "sun",
+        "noun"
+    ],
+    "takai": [
+        "はやい",
+        "tall/high/expensive",
+        "adjective"
+    ],
+    "tako": [
+        "たこ",
+        "octopus",
+        "noun"
+    ],
+    "takusan": [
+        "たくさん",
+        "a lot / many",
+        "adverb"
+    ],
+    "tama": [
+        "たま",
+        "bullet/ball",
+        "noun"
+    ],
+    "tamago": [
+        "たまご",
+        "egg",
+        "noun"
+    ],
+    "tamanegi": [
+        "たまねぎ",
+        "onion",
+        "noun"
+    ],
+    "tame": [
+        "ため",
+        "for the sake of",
+        "noun"
+    ],
+    "tani": [
+        "たに",
+        "valley",
+        "noun"
+    ],
+    "tanoshii": [
+        "たのしい",
+        "fun/enjoyable/pleasant",
+        "adjective"
+    ],
+    "tanuk": [
+        "たぬき",
+        "raccoon dog",
+        "noun"
+    ],
+    "tasukeru": [
+        "たすける",
+        "to help",
+        "verb"
+    ],
+    "tatakai": [
+        "たたかい",
+        "battle/fight",
+        "noun"
+    ],
+    "tatakau": [
+        "たたかう",
+        "to fight",
+        "verb",
+        [
+            "tatakaimasu",
+            "tatakawanai",
+            "tatakaimasen",
+            "tatakatte",
+            "tatakaimashita"
+        ],
+        [
+            "たたかいます",
+            "たたかわない",
+            "たたかいません",
+            "たたかって",
+            "たたかいました"
+        ]
+    ],
+    "tate": [
+        "たて",
+        "shield",
+        "noun"
+    ],
+    "tateru": [
+        "たてる",
+        "to build",
+        "verb"
+    ],
+    "tatsu": [
+        "たつ",
+        "to stand",
+        "verb"
+    ],
+    "tazuneru": [
+        "たずねる",
+        "to visit / ask",
+        "verb"
+    ],
+    "teboubou": [
+        "てぼうぼう",
+        "rifle",
+        "noun"
+    ],
+    "tebukuro": [
+        "てぶくろ",
+        "gloves",
+        "noun"
+    ],
+    "teburu": [
+        "テーブル",
+        "table",
+        "noun"
+    ],
+    "tegami": [
+        "てがみ",
+        "letter",
+        "noun"
+    ],
+    "teikoku": [
+        "ていこく",
+        "empire",
+        "noun"
+    ],
+    "teikokugun": [
+        "ていこくぐん",
+        "imperial army",
+        "noun"
+    ],
+    "teikou": [
+        "ていこう",
+        "resistant",
+        "adjective"
+    ],
+    "teikyou": [
+        "ていきょう",
+        "supply",
+        "noun"
+    ],
+    "teki": [
+        "てき",
+        "enemy",
+        "noun"
+    ],
+    "tenisu": [
+        "テニス",
+        "tennis",
+        "noun"
+    ],
+    "tenji suru": [
+        "てんじする",
+        "to deploy",
+        "verb",
+        [
+            "tenji shimasu",
+            "tenji shimasen"
+        ],
+        [
+            "てんじします",
+            "てんじしません"
+        ]
+    ],
+    "tenjou": [
+        "てんじょう",
+        "ceiling",
+        "noun"
+    ],
+    "tenki": [
+        "てんき",
+        "weather",
+        "noun"
+    ],
+    "teryuudan": [
+        "テリューダン",
+        "grenade",
+        "noun"
+    ],
+    "tesuto": [
+        "テスト",
+        "test / exam",
+        "noun"
+    ],
+    "to": [
+        "と",
+        "and (particle)",
+        "particle"
+    ],
+    "tobu": [
+        "とぶ",
+        "to fly",
+        "verb",
+        [
+            "tobimasu",
+            "tobanai",
+            "tobimasen",
+            "tonde"
+        ],
+        [
+            "とびます",
+            "とばない",
+            "とびません",
+            "とんで"
+        ]
+    ],
+    "toire": [
+        "トイレ",
+        "toilet",
+        "noun"
+    ],
+    "tokei": [
+        "とけい",
+        "clock"
+    ],
+    "tokui": [
+        "とくい",
+        "good at / strong at",
+        "adjective"
+    ],
+    "tomaru": [
+        "とまる",
+        "to stay / stop",
+        "verb",
+        [
+            "tomarimasu",
+            "tomaranai",
+            "tomarimasen",
+            "tomatte"
+        ],
+        [
+            "とまります",
+            "とまらない",
+            "とまりません",
+            "とまって"
+        ]
+    ],
+    "tomeru": [
+        "とめる",
+        "to stop / park",
+        "verb"
+    ],
+    "tomodachi": [
+        "ともだち",
+        "friend",
+        "noun"
+    ],
+    "toreeiningu suru": [
+        "トレーニングする",
+        "to train / work out",
+        "verb",
+        [
+            "toreeningu shimasu",
+            "toreeningu shimasen"
+        ],
+        [
+            "トレーニングします",
+            "トレーニングしません"
+        ]
+    ],
+    "tori": [
+        "とり",
+        "bird",
+        "noun"
+    ],
+    "toriniku": [
+        "とりにく",
+        "chicken",
+        "noun"
+    ],
+    "toru": [
+        "とる",
+        "to take (a photo) / pick up",
+        "verb",
+        [
+            "torimasu",
+            "toranai",
+            "torimasen",
+            "totte"
+        ],
+        [
+            "とります",
+            "とらない",
+            "とりません",
+            "とって"
+        ]
+    ],
+    "tsuchi": [
+        "つち",
+        "soil/earth",
+        "noun"
+    ],
+    "tsukamu": [
+        "つかむ",
+        "to grab / seize",
+        "verb"
+    ],
+    "tsukau": [
+        "つかう",
+        "to use",
+        "verb",
+        [
+            "tsukaimasu",
+            "tsukawanai",
+            "tsukaimasen",
+            "tsukatte"
+        ],
+        [
+            "つかいます",
+            "つかわない",
+            "つかいません",
+            "つかって"
+        ]
+    ],
+    "tsuki": [
+        "つき",
+        "moon",
+        "noun"
+    ],
+    "tsukuru": [
+        "つくる",
+        "to make / create",
+        "verb",
+        [
+            "tsukurimasu",
+            "tsukuranai",
+            "tsukurimasen",
+            "tsukutte"
+        ],
+        [
+            "つくります",
+            "つくらない",
+            "つくりません",
+            "つくって"
+        ]
+    ],
+    "tsumaranai": [
+        "つまらない",
+        "boring",
+        "adjective"
+    ],
+    "tsumetai": [
+        "つめたい",
+        "cold (to the touch)",
+        "adjective"
+    ],
+    "tsuru": [
+        "つる",
+        "to fish",
+        "verb"
+    ],
+    "tsuyoi": [
+        "つよい",
+        "strong",
+        "adjective"
+    ],
+    "tsuzuku": [
+        "つづく",
+        "to continue",
+        "verb"
+    ],
+    "tēburu": [
+        "テーブル",
+        "table"
+    ],
+    "tōfu": [
+        "とうふ",
+        "tofu",
+        "noun"
+    ],
+    "tōka": [
+        "とうか",
+        "the 10th day of the month",
+        "noun"
+    ],
+    "tōmorokoshi": [
+        "とうもろこし",
+        "corn",
+        "noun"
+    ],
+    "uchi": [
+        "うち",
+        "house / home",
+        "noun"
+    ],
+    "udon": [
+        "うどん",
+        "udon",
+        "noun"
+    ],
+    "ue": [
+        "うえ",
+        "on/above",
+        "noun"
+    ],
+    "ukeru": [
+        "うける",
+        "to receive",
+        "verb",
+        [
+            "ukemasu",
+            "ukemasen",
+            "ukete"
+        ],
+        [
+            "うけます",
+            "うけません",
+            "うけて"
+        ]
+    ],
+    "uma": [
+        "うま",
+        "horse",
+        "noun"
+    ],
+    "umi": [
+        "うみ",
+        "sea/ocean",
+        "noun"
+    ],
+    "umi no nagare": [
+        "うみのながれ",
+        "ocean current",
+        "noun"
+    ],
+    "ureshii": [
+        "うれしい",
+        "happy/glad/pleased",
+        "adjective"
+    ],
+    "uru": [
+        "うる",
+        "to sell",
+        "verb",
+        [
+            "urimasu",
+            "uranai",
+            "urimasen",
+            "utte"
+        ],
+        [
+            "うります",
+            "うらない",
+            "うりません",
+            "うって"
+        ]
+    ],
+    "ushi": [
+        "うし",
+        "cow",
+        "noun"
+    ],
+    "utau": [
+        "うたう",
+        "to sing",
+        "verb",
+        [
+            "utaimasu",
+            "utaimasen"
+        ],
+        [
+            "うたいます",
+            "うたいません"
+        ]
+    ],
+    "utsu": [
+        "うつ",
+        "to shoot",
+        "verb",
+        [
+            "uchimasu",
+            "utanai",
+            "uchimasen",
+            "utte"
+        ],
+        [
+            "うちます",
+            "うたない",
+            "うちません",
+            "うって"
+        ]
+    ],
+    "wa": [
+        "は",
+        "topic particle"
+    ],
+    "wakaru": [
+        "わかる",
+        "to understand"
+    ],
+    "warau": [
+        "わらう",
+        "to laugh",
+        "verb"
+    ],
+    "wasabi": [
+        "わさび",
+        "wasabi",
+        "noun"
+    ],
+    "watashi": [
+        "わたし",
+        "I / me",
+        "pronoun"
+    ],
+    "wo": [
+        "を",
+        "object marker",
+        "noun"
+    ],
+    "ya": [
+        "や",
+        "arrow",
+        "noun"
+    ],
+    "yakusoku": [
+        "やくそく",
+        "promise",
+        "noun"
+    ],
+    "yakyuu": [
+        "やきゅう",
+        "baseball",
+        "noun"
+    ],
+    "yama": [
+        "やま",
+        "mountain",
+        "noun"
+    ],
+    "yami": [
+        "やみ",
+        "darkness",
+        "noun"
+    ],
+    "yane": [
+        "やね",
+        "roof",
+        "noun"
+    ],
+    "yaru": [
+        "やる",
+        "to do / give (to pets, plants, younger siblings)",
+        "verb",
+        [
+            "yarimasu",
+            "yaranai",
+            "yarimasen",
+            "yatte"
+        ],
+        [
+            "やります",
+            "やらない",
+            "やりません",
+            "やって"
+        ]
+    ],
+    "yasai": [
+        "やさい",
+        "vegetables",
+        "noun"
+    ],
+    "yasui": [
+        "やすい",
+        "cheap/inexpensive/easy",
+        "adjective"
+    ],
+    "yasumu": [
+        "やすむ",
+        "to rest / be absent",
+        "verb"
+    ],
+    "yomu": [
+        "よむ",
+        "to read",
+        "verb",
+        [
+            "yomimasu",
+            "yonde",
+            "yomanai",
+            "yonda",
+            "yomashita"
+        ],
+        [
+            "よみます",
+            "よんで",
+            "よまない",
+            "よんだ",
+            "よみました"
+        ]
+    ],
+    "yowai": [
+        "よわい",
+        "weak",
+        "adjective"
+    ],
+    "yoyaku suru": [
+        "よやくする",
+        "to reserve / book",
+        "verb",
+        [
+            "yoyaku shimasu",
+            "yoyaku shimasen"
+        ],
+        [
+            "よやくします",
+            "よやくしません"
+        ]
+    ],
+    "yuki": [
+        "ゆき",
+        "snow",
+        "noun"
+    ],
+    "yumi": [
+        "ゆみ",
+        "bow",
+        "noun"
+    ],
+    "yuusha": [
+        "ゆうしゃ",
+        "hero",
+        "noun"
+    ],
+    "yuushou suru": [
+        "ゆうしょうする",
+        "to win a championship",
+        "verb",
+        [
+            "yuushou shimasu",
+            "yuushou shimasen"
+        ],
+        [
+            "ゆうしょうします",
+            "ゆうしょうしません"
+        ]
+    ],
+    "yōkō": [
+        "ようこう",
+        "battleship",
+        "noun"
+    ],
+    "yūki": [
+        "ゆうき",
+        "courage",
+        "noun"
+    ],
+    "zasshi": [
+        "ざっし",
+        "magazine",
+        "noun"
+    ],
+    "zettaiteki": [
+        "ぜったいてき",
+        "absolute",
+        "adjective"
+    ],
+    "zubon": [
+        "ズボン",
+        "trousers / pants",
+        "noun"
+    ],
+    "ōku": [
+        "おおく",
+        "many / much",
+        "adverb"
+    ]
+}
