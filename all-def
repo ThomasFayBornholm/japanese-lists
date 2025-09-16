@@ -3263,14 +3263,16 @@
             "shite",
             "shinai",
             "shita",
-            "shimashita"
+            "shimashita",
+            "saremashita"
         ],
         [
             "します",
             "して",
             "しない",
             "した",
-            "しました"
+            "しました",
+            "されました"
         ]
     ],
     "sushi": [
@@ -3962,6 +3964,11 @@
         "やすむ",
         "to rest / be absent",
         "verb"
+    ],
+    "haiboku": [
+        "はいぼく",
+        "defeat",
+        "noun"
     ],
     "yomu": [
         "よむ",
