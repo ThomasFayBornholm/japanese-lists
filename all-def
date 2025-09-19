@@ -1,4 +1,9 @@
 {
+    "!kabin": [
+        "かびん",
+        "flower vase",
+        "noun"
+    ],
     "Berugii": [
         "ベルギー",
         "Belgium"
@@ -289,6 +294,16 @@
             "あげません"
         ]
     ],
+    "ai": [
+        "",
+        "love",
+        "noun"
+    ],
+    "airon": [
+        "アイロン",
+        "iron (for clothes)",
+        "noun"
+    ],
     "aisuru": [
         "あいする",
         "to love",
@@ -496,6 +511,11 @@
             "あわせて"
         ]
     ],
+    "baiku": [
+        "バイク",
+        "motorcycle",
+        "noun"
+    ],
     "bakudan": [
         "ばくだん",
         "bomb",
@@ -552,6 +572,11 @@
             "べんきょうします",
             "べんきょうしません"
         ]
+    ],
+    "bijin": [
+        "びじん",
+        "beautiful",
+        "adjective"
     ],
     "bouei suru": [
         "ぼうえいする",
@@ -720,9 +745,19 @@
         "electricity/light",
         "noun"
     ],
+    "denkijuu": [
+        "でんきじゅう",
+        "light bulb",
+        "noun"
+    ],
     "densha": [
         "でんしゃ",
         "train",
+        "noun"
+    ],
+    "denshirenji": [
+        "でんしれんじ",
+        "microwave oven",
         "noun"
     ],
     "denwa": [
@@ -784,6 +819,11 @@
         "picture",
         "noun"
     ],
+    "eakon": [
+        "エアコン",
+        "air conditioner",
+        "noun"
+    ],
     "ebi": [
         "えび",
         "shrimp",
@@ -807,6 +847,11 @@
     "eki": [
         "えき",
         "station",
+        "noun"
+    ],
+    "en": [
+        "えん",
+        "yen",
         "noun"
     ],
     "enpitsu": [
@@ -846,6 +891,11 @@
         "unstable",
         "adjective"
     ],
+    "fujisan": [
+        "ふじさん",
+        "Mount Fuji",
+        "noun"
+    ],
     "fuku": [
         "ふく",
         "clothes",
@@ -859,6 +909,11 @@
     "fune": [
         "ふね",
         "ship/boat",
+        "noun"
+    ],
+    "furaipan": [
+        "フライパン",
+        "frying pan",
         "noun"
     ],
     "furui": [
@@ -927,6 +982,11 @@
             "がんばって"
         ]
     ],
+    "gareeji": [
+        "ガレージ",
+        "garage",
+        "noun"
+    ],
     "geemu": [
         "ゲーム",
         "game",
@@ -956,6 +1016,11 @@
         "ご",
         "five"
     ],
+    "gogo": [
+        "ごご",
+        "p.m./afternoon",
+        "noun"
+    ],
     "gohan": [
         "ごはん",
         "cooked rice",
@@ -966,9 +1031,24 @@
         "sesame",
         "noun"
     ],
+    "gomi": [
+        "ごみ",
+        "trash/garbage",
+        "noun"
+    ],
+    "gomibake": [
+        "ごみばけ",
+        "garbage can",
+        "noun"
+    ],
     "gorufu": [
         "ゴルフ",
         "golf",
+        "noun"
+    ],
+    "gozen": [
+        "ごぜん",
+        "a.m./morning",
         "noun"
     ],
     "gun": [
@@ -1004,6 +1084,11 @@
     "gyūnyū": [
         "ぎゅうにゅう",
         "milk",
+        "noun"
+    ],
+    "haburashi": [
+        "はぶらし",
+        "toothbrush",
         "noun"
     ],
     "hachi": [
@@ -1072,9 +1157,19 @@
             "はっこうしません"
         ]
     ],
+    "hako": [
+        "はこ",
+        "box",
+        "noun"
+    ],
     "hakusai": [
         "はくさい",
         "Chinese cabbage",
+        "noun"
+    ],
+    "hamigakiko": [
+        "はみがきこ",
+        "toothpaste",
         "noun"
     ],
     "hana": [
@@ -1171,6 +1266,11 @@
         "peace",
         "noun"
     ],
+    "hekai": [
+        "へかい",
+        "world",
+        "noun"
+    ],
     "henshin": [
         "へんしん",
         "transformation",
@@ -1184,6 +1284,16 @@
     "heya": [
         "へや",
         "room",
+        "noun"
+    ],
+    "hidari": [
+        "ひだり",
+        "left",
+        "noun"
+    ],
+    "hikidashi": [
+        "ひきだし",
+        "drawer",
         "noun"
     ],
     "hikoki": [
@@ -1246,9 +1356,24 @@
         "book",
         "noun"
     ],
+    "hondana": [
+        "ほんだな",
+        "bookshelf",
+        "noun"
+    ],
+    "hondura": [
+        "ホンドラ",
+        "Honduras",
+        "proper noun"
+    ],
     "honya": [
         "ほんや",
         "bookstore",
+        "noun"
+    ],
+    "hoochoo": [
+        "ほうちょう",
+        "kitchen knife",
         "noun"
     ],
     "hoshii": [
@@ -1394,6 +1519,11 @@
         "seashore",
         "noun"
     ],
+    "isu": [
+        "いす",
+        "chair",
+        "noun"
+    ],
     "jagaimo": [
         "じゃがいも",
         "potato",
@@ -1426,6 +1556,11 @@
         "じかん",
         "time",
         "noun"
+    ],
+    "jikanai": [
+        "じかない",
+        "not self",
+        "adjective"
     ],
     "jisho": [
         "じしょ",
@@ -1487,6 +1622,16 @@
         "serious/important",
         "adjective"
     ],
+    "juudenki": [
+        "じゅうでんき",
+        "battery charger",
+        "noun"
+    ],
+    "juutan": [
+        "じゅうたん",
+        "carpet/rug",
+        "noun"
+    ],
     "jūdō": [
         "じゅうどう",
         "judo",
@@ -1495,6 +1640,21 @@
     "jūsu": [
         "じゅーす",
         "juice",
+        "noun"
+    ],
+    "ka": [
+        "か",
+        "question marker",
+        ""
+    ],
+    "kaaten": [
+        "カーテン",
+        "curtain",
+        "noun"
+    ],
+    "kaba": [
+        "かば",
+        "hippopotamus",
         "noun"
     ],
     "kaban": [
@@ -1534,6 +1694,16 @@
     "kagi": [
         "かぎ",
         "key/lock",
+        "noun"
+    ],
+    "kago": [
+        "かご",
+        "basket",
+        "noun"
+    ],
+    "kagu": [
+        "かぐ",
+        "furniture",
         "noun"
     ],
     "kaidan": [
@@ -1623,6 +1793,11 @@
         "crab",
         "noun"
     ],
+    "kankisen": [
+        "かんきせん",
+        "air conditioner",
+        "noun"
+    ],
     "kankoku": [
         "かんこく",
         "Korea",
@@ -1638,10 +1813,25 @@
         "guard/sentry",
         "noun"
     ],
+    "kao": [
+        "かお",
+        "face",
+        "noun"
+    ],
+    "kappu": [
+        "カップ",
+        "cup/mug",
+        "noun"
+    ],
     "kara": [
         "から",
         "from (particle)",
         "particle"
+    ],
+    "karada": [
+        "からだ",
+        "body",
+        "noun"
     ],
     "karasu": [
         "からす",
@@ -1651,6 +1841,11 @@
     "karate": [
         "からて",
         "karate",
+        "noun"
+    ],
+    "karendaa": [
+        "カレンダー",
+        "calendar",
         "noun"
     ],
     "karui": [
@@ -1792,6 +1987,11 @@
             "けって"
         ]
     ],
+    "keshigomo": [
+        "けしごむ",
+        "eraser",
+        "noun"
+    ],
     "keshigomui": [
         "けしゴム",
         "eraser",
@@ -1879,6 +2079,11 @@
         "kitchen",
         "noun"
     ],
+    "kitekeru": [
+        "きてける",
+        "to wear (above the waist)",
+        "verb"
+    ],
     "kitsun": [
         "きつね",
         "fox",
@@ -1899,6 +2104,11 @@
         "children",
         "noun"
     ],
+    "koe": [
+        "こえ",
+        "voice",
+        "noun"
+    ],
     "koen": [
         "こうえん",
         "park",
@@ -1907,6 +2117,11 @@
     "kokoro": [
         "こころ",
         "heart/mind",
+        "noun"
+    ],
+    "kokuban": [
+        "こくばん",
+        "blackboard",
         "noun"
     ],
     "kokugun": [
@@ -1938,6 +2153,21 @@
         "こんにちは",
         "hello / good afternoon",
         "expression"
+    ],
+    "konro": [
+        "こんろ",
+        "stove",
+        "noun"
+    ],
+    "konsento": [
+        "コンセント",
+        "electrical outlet",
+        "noun"
+    ],
+    "koppu": [
+        "コップ",
+        "cup/glass",
+        "noun"
     ],
     "kore": [
         "これ",
@@ -2070,6 +2300,11 @@
         "black",
         "adjective"
     ],
+    "kuroo": [
+        "くろう",
+        "hardship / trouble",
+        "noun"
+    ],
     "kuru": [
         "くる",
         "to go",
@@ -2092,14 +2327,14 @@
         "car",
         "noun"
     ],
-    "kurō": [
-        "くろう",
-        "hardship / trouble",
-        "noun"
-    ],
     "kusaban": [
         "くさばな",
         "grass/plant",
+        "noun"
+    ],
+    "kusuri": [
+        "くすり",
+        "medicine",
         "noun"
     ],
     "kutsu": [
@@ -2242,6 +2477,11 @@
             "まけて"
         ]
     ],
+    "makura": [
+        "まくら",
+        "pillow",
+        "noun"
+    ],
     "mamoru": [
         "まもる",
         "to protect",
@@ -2321,6 +2561,11 @@
     "matsuage": [
         "まつあげ",
         "pineapple",
+        "noun"
+    ],
+    "matsuge": [
+        "まつげ",
+        "eyelash",
         "noun"
     ],
     "matsuri": [
@@ -2436,9 +2681,19 @@
         "lake",
         "noun"
     ],
+    "mo": [
+        "も",
+        "also/too",
+        "adverb"
+    ],
     "momo": [
         "もも",
         "peach",
+        "noun"
+    ],
+    "moofu": [
+        "もうふ",
+        "blanket",
         "noun"
     ],
     "morau": [
@@ -2494,6 +2749,11 @@
         "もう",
         "already / anymore",
         "adverb"
+    ],
+    "nabe": [
+        "なべ",
+        "pot/pan",
+        "noun"
     ],
     "nagai": [
         "ながい",
@@ -2563,6 +2823,11 @@
     "nana": [
         "なな",
         "seven"
+    ],
+    "nani": [
+        "なに",
+        "what",
+        "pronoun"
     ],
     "narau": [
         "ならう",
@@ -2678,6 +2943,11 @@
         "rainbow",
         "noun"
     ],
+    "nikai": [
+        "にかい",
+        "second floor",
+        "noun"
+    ],
     "niku": [
         "にく",
         "meat",
@@ -2755,6 +3025,11 @@
     "notepaddo": [
         "ノートパッド",
         "notepad",
+        "noun"
+    ],
+    "nuno": [
+        "ぬの",
+        "cloth",
         "noun"
     ],
     "nusumu": [
@@ -2854,6 +3129,11 @@
         "rice porridge",
         "noun"
     ],
+    "okazu": [
+        "おかず",
+        "side dish",
+        "noun"
+    ],
     "okiru": [
         "おきる",
         "to wake up",
@@ -2921,6 +3201,11 @@
         "rice ball",
         "noun"
     ],
+    "oobun": [
+        "オーブン",
+        "oven",
+        "noun"
+    ],
     "ookii": [
         "おおきい",
         "big/large",
@@ -2960,6 +3245,11 @@
         "おそろしい",
         "terrible/frightening",
         "adjective"
+    ],
+    "otoko": [
+        "おとこ",
+        "man",
+        "noun"
     ],
     "otosan": [
         "おとうさん",
@@ -3036,6 +3326,11 @@
         "bread",
         "noun"
     ],
+    "pasokon": [
+        "パソコン",
+        "personal computer",
+        "noun"
+    ],
     "pasu suru": [
         "パスする",
         "to pass",
@@ -3053,6 +3348,11 @@
         "ぺん",
         "pen"
     ],
+    "piano": [
+        "ピアノ",
+        "piano",
+        "noun"
+    ],
     "purezento": [
         "プレゼント",
         "present",
@@ -3066,6 +3366,11 @@
     "raifuru": [
         "ライフル",
         "rifle",
+        "noun"
+    ],
+    "rajio": [
+        "ラジオ",
+        "radio",
         "noun"
     ],
     "ranninguu": [
@@ -3085,6 +3390,16 @@
             "レースします",
             "レースしません"
         ]
+    ],
+    "reetook": [
+        "レートーク",
+        "lightning",
+        "noun"
+    ],
+    "reezooka": [
+        "リーズーカー",
+        "refrigerator",
+        "noun"
     ],
     "reizoko": [
         "れいぞうこ",
@@ -3109,6 +3424,11 @@
     "riku": [
         "りく",
         "land",
+        "noun"
+    ],
+    "rimokonta": [
+        "リモコンタ",
+        "remote control",
         "noun"
     ],
     "ringo": [
@@ -3166,19 +3486,6 @@
         "らーめん",
         "ranen",
         "noun"
-    ],
-    "saabu suru": [
-        "サーブする",
-        "to serve (a ball)",
-        "verb",
-        [
-            "saabu shimasu",
-            "saabu shimasen"
-        ],
-        [
-            "サーブします",
-            "サーブしません"
-        ]
     ],
     "sagasu": [
         "さがす",
@@ -3276,6 +3583,11 @@
         "world",
         "noun"
     ],
+    "sekken": [
+        "せっけん",
+        "soap",
+        "noun"
+    ],
     "senchi": [
         "せんち",
         "centimentre",
@@ -3294,6 +3606,11 @@
     "senjō": [
         "せんじょう",
         "battlefield",
+        "noun"
+    ],
+    "senpuuki": [
+        "せんぷうき",
+        "electric fan",
         "noun"
     ],
     "senryaku suru": [
@@ -3380,6 +3697,11 @@
         "during a war",
         "noun"
     ],
+    "sentakuki": [
+        "せんたくき",
+        "washing machine",
+        "noun"
+    ],
     "sentou": [
         "せんとう",
         "battle/fight",
@@ -3397,6 +3719,11 @@
             "せんとうします",
             "せんとうしません"
         ]
+    ],
+    "senzai": [
+        "せんざい",
+        "detergent",
+        "noun"
     ],
     "shaberu": [
         "しゃべる",
@@ -3417,9 +3744,19 @@
         "shirt",
         "noun"
     ],
+    "shawaa": [
+        "シャワー",
+        "shower",
+        "noun"
+    ],
     "shi": [
         "し",
         "four"
+    ],
+    "shibatuta": [
+        "しばった",
+        "tied/bound",
+        "adjective"
     ],
     "shigoto": [
         "しごと",
@@ -3528,6 +3865,21 @@
     "shiryō": [
         "しりょう",
         "historical materials/documents",
+        "noun"
+    ],
+    "shitsu": [
+        "しつ",
+        "room",
+        "noun"
+    ],
+    "shokki": [
+        "しょっき",
+        "dishes/tableware",
+        "noun"
+    ],
+    "shokubutsu": [
+        "しょくぶつ",
+        "plant",
         "noun"
     ],
     "shokudou": [
@@ -3639,10 +3991,20 @@
         "sofa",
         "noun"
     ],
+    "sofaa": [
+        "ソファー",
+        "sofa",
+        "noun"
+    ],
     "sono": [
         "その",
         "that (near you)",
         "pronoun"
+    ],
+    "soojiki": [
+        "そうじき",
+        "vacuum cleaner",
+        "noun"
     ],
     "sora": [
         "そら",
@@ -3693,6 +4055,11 @@
     "sukī": [
         "スキー",
         "ski / skiing",
+        "noun"
+    ],
+    "sumaho": [
+        "スマホ",
+        "smartphone",
         "noun"
     ],
     "sumeshi": [
@@ -3924,6 +4291,11 @@
         "egg",
         "noun"
     ],
+    "tamagochi": [
+        "たまごち",
+        "Tamagotchi",
+        "noun"
+    ],
     "tamanegi": [
         "たまねぎ",
         "onion",
@@ -3998,6 +4370,11 @@
         "to stand",
         "verb"
     ],
+    "tauro": [
+        "タオル",
+        "towel",
+        "noun"
+    ],
     "tazuneru": [
         "たずねる",
         "to visit / ask",
@@ -4006,6 +4383,11 @@
     "te": [
         "て",
         "hand",
+        "noun"
+    ],
+    "teberi": [
+        "テレビ",
+        "television",
         "noun"
     ],
     "teboubou": [
@@ -4019,6 +4401,11 @@
         "noun"
     ],
     "teburu": [
+        "テーブル",
+        "table",
+        "noun"
+    ],
+    "teeburu": [
         "テーブル",
         "table",
         "noun"
@@ -4076,6 +4463,11 @@
         "exhibition",
         "noun"
     ],
+    "tenjoo": [
+        "てんじょう",
+        "ceiling",
+        "noun"
+    ],
     "tenjou": [
         "てんじょう",
         "ceiling",
@@ -4128,6 +4520,16 @@
         "toilet",
         "noun"
     ],
+    "toiretto peepaa": [
+        "トイレットペーパー",
+        "toilet paper",
+        "noun"
+    ],
+    "tokee": [
+        "とけい",
+        "clock/watch",
+        "noun"
+    ],
     "tokei": [
         "とけい",
         "clock"
@@ -4162,6 +4564,11 @@
     "tomodachi": [
         "ともだち",
         "friend",
+        "noun"
+    ],
+    "tora": [
+        "とら",
+        "tiger",
         "noun"
     ],
     "toreeiningu suru": [
@@ -4212,6 +4619,11 @@
     "tsuchi": [
         "つち",
         "soil/earth",
+        "noun"
+    ],
+    "tsugi": [
+        "つぎ",
+        "next",
         "noun"
     ],
     "tsukamu": [
@@ -4327,9 +4739,19 @@
         "house / home",
         "noun"
     ],
+    "ude": [
+        "うで",
+        "arm",
+        "noun"
+    ],
     "udon": [
         "うどん",
         "udon",
+        "noun"
+    ],
+    "udu": [
+        "うど",
+        "udon (thick wheat noodles)",
         "noun"
     ],
     "ue": [
@@ -4404,6 +4826,11 @@
         "cow",
         "noun"
     ],
+    "uta": [
+        "うた",
+        "song/poem",
+        "noun"
+    ],
     "utau": [
         "うたう",
         "to sing",
@@ -4443,6 +4870,11 @@
         "は",
         "topic particle"
     ],
+    "wakai": [
+        "わかい",
+        "young",
+        "adjective"
+    ],
     "wakaru": [
         "わかる",
         "to understand"
@@ -4475,6 +4907,11 @@
     "ya": [
         "や",
         "arrow",
+        "noun"
+    ],
+    "yakan": [
+        "やかん",
+        "kettle",
         "noun"
     ],
     "yakei": [
@@ -4554,22 +4991,6 @@
         "clothes",
         "noun"
     ],
-    "tsukue": [
-        "つくえ",
-        "desk",
-        "noun"
-    ],
-    "en": [
-        "えん",
-        "yen",
-        "noun"
-    ],
-    "nani": [
-        "なに",
-        "what",
-        "pronoun"
-    ],
-
     "yomu": [
         "よむ",
         "to read",
@@ -4612,6 +5033,16 @@
             "よやくしません"
         ]
     ],
+    "yubi": [
+        "ゆび",
+        "finger",
+        "noun"
+    ],
+    "yuka": [
+        "ゆか",
+        "floor",
+        "noun"
+    ],
     "yuki": [
         "ゆき",
         "snow",
@@ -4648,6 +5079,16 @@
     "yūki": [
         "ゆうき",
         "courage",
+        "noun"
+    ],
+    "zabuton": [
+        "ざぶとん",
+        "floor cushion",
+        "noun"
+    ],
+    "zaru": [
+        "ざる",
+        "colander/strainer",
         "noun"
     ],
     "zasshi": [
