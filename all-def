@@ -2011,12 +2011,31 @@
         [
             "kaerimasu",
             "kaerimasen",
-            "kaette"
+            "kaette",
+            "kaerumashita"
         ],
         [
             "かえります",
             "かえりません",
-            "かえって"
+            "かえって",
+            "かえりました"
+        ]
+    ],
+    "tatenoosu": [
+        "たてなおす",
+        "to rebuild\/reconstruct",
+        "verb",
+        [
+            "tatenooshimasu",
+            "tatenooshimasen",
+            "tatenooshite",
+            "tatenoosaremashita"
+        ],
+        [
+            "たてなおします",
+            "たてなおしません",
+            "たてなおして",
+            "たてなおされました"
         ]
     ],
     "kafe": [
