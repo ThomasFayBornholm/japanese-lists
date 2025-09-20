@@ -2956,12 +2956,14 @@
         "verb",
         [
             "manabimasu",
+            "manabemasu",
             "manabimasen",
             "manande",
             "manabanakereba"
         ],
         [
             "まなびます",
+            "まなべます",
             "まなびません",
             "まなんで",
             "まなばなければ"
@@ -6560,6 +6562,11 @@
     "Shinjuwan": [
         "しんじゅわんこうげき",
         "Attack on Pearl Harbor (Dec. 7, 1941)",
+        "?"
+    ],
+    "kankei": [
+        "かんけい",
+        "relation; relationship; connection",
         "?"
     ]
 }
