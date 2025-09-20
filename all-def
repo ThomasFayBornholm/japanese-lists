@@ -338,6 +338,11 @@
         "love",
         "noun"
     ],
+    "taisetsusa": [
+        "たいせつさ",
+        "importance",
+        "noun"
+    ],
     "airon": [
         "アイロン",
         "iron (for clothes)",
@@ -6384,6 +6389,16 @@
     "kono": [
         "きゅう",
         "nine - 玖 is used in legal documents",
+        "?"
+    ],
+    "kudasai": [
+        "ください",
+        "please give me - honorific language",
+        "?"
+    ],
+    "kizukimashita": [
+        "きずく",
+        "to build; to construct; to erect",
         "?"
     ]
 }
