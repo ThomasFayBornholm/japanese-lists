@@ -4826,7 +4826,8 @@
             "shita",
             "shimashita",
             "saremashita",
-            "sareta"
+            "sareta",
+            "shinakereba"
         ],
         [
             "します",
@@ -4835,8 +4836,19 @@
             "した",
             "しました",
             "されました",
-            "された"
+            "された",
+            "しなければ"
         ]
+    ],
+    "sekaijū": [
+        "せかいじゅう",
+        "throughout the world",
+        "noun"
+    ],
+    "intānetto": [
+        "インターネット",
+        "internet",
+        "noun"
     ],
     "Taiwan": [
         "たいわん",
@@ -6475,6 +6487,11 @@
     "kaemashita": [
         "かえる",
         "to change; to alter; to transform; to convert; to turn; to vary",
+        "?"
+    ],
+    "hijō": [
+        "ひじょう",
+        "emergency; extraordinary; unusual",
         "?"
     ],
     "negau": [
