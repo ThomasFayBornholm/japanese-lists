@@ -6425,9 +6425,37 @@
         "holiday; anniversary; memorial day",
         "?"
     ],
+    "otozureru": [
+        "おとずれる",
+        "to visit; to call on; to come; to arrive",
+        "verb",
+        [
+            "otozuremasu",
+            "otozuremasen"
+        ],
+        [
+            "おとずれます",
+            "おとずれません"
+        ]
+    ],
+    "wasurenai": [
+        "わすれない",
+        "not forget; not to forget",
+        "adjective"
+    ],
     "hito": [
         "ひと",
         "man; person",
+        "?"
+    ],
+    "koto": [
+        "こと",
+        "thing; matter",
+        "?"
+    ],
+    "kaemashita": [
+        "かえる",
+        "to change; to alter; to transform; to convert; to turn; to vary",
         "?"
     ]
 }
