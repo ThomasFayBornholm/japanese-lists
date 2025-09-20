@@ -343,6 +343,25 @@
         "importance",
         "noun"
     ],
+    "kizuku": [
+        "きづく",
+        "to notice",
+        "verb",
+        [
+            "kizukimasu",
+            "kizukanai",
+            "kizukimasen",
+            "kizuite",
+            "kizukimashita"
+        ],
+        [
+            "きづきます",
+            "きづかない",
+            "きづきません",
+            "きづいて",
+            "きづきました"
+        ]
+    ],
     "airon": [
         "アイロン",
         "iron (for clothes)",
@@ -6396,9 +6415,19 @@
         "please give me - honorific language",
         "?"
     ],
-    "kizukimashita": [
-        "きずく",
-        "to build; to construct; to erect",
+    "sugu": [
+        "すぐ",
+        "immediately; at once; right away; directly",
+        "?"
+    ],
+    "kinenbi": [
+        "きねんび",
+        "holiday; anniversary; memorial day",
+        "?"
+    ],
+    "hito": [
+        "ひと",
+        "man; person",
         "?"
     ]
 }
