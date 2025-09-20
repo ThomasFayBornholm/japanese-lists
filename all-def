@@ -6559,6 +6559,19 @@
             "ねがわる"
         ]
     ],
+    "oinoro suru": [
+        "おいのろする",
+        "to cheer; to shout encouragement",
+        "verb",
+        [
+            "oinoro shimasu",
+            "oinoro shimasen"
+        ],
+        [
+            "おいのろします",
+            "おいのろしません"
+        ]
+    ],
     "Shinjuwan": [
         "しんじゅわんこうげき",
         "Attack on Pearl Harbor (Dec. 7, 1941)",
@@ -6567,6 +6580,6 @@
     "kankei": [
         "かんけい",
         "relation; relationship; connection",
-        "?"
+        "noun"
     ]
 }
