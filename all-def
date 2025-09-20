@@ -6480,6 +6480,17 @@
     "negau": [
         "ねがう",
         "to desire; to wish; to hope",
-        "?"
+        "verb",
+        [
+            "negai",
+            "negawaru",
+            "negaimasu",
+            "negaimasen",
+            "negaimashita"
+        ],
+        [
+            "ねがい",
+            "ねがわる"
+        ]
     ]
 }
