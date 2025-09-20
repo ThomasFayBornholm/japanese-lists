@@ -345,21 +345,21 @@
     ],
     "kizuku": [
         "きづく",
-        "to notice",
+        "to notice; to realize; to become aware of",
         "verb",
         [
             "kizukimasu",
-            "kizukanai",
+            "kizukemasu",
             "kizukimasen",
             "kizuite",
-            "kizukimashita"
+            "kizukanakereba"
         ],
         [
             "きづきます",
-            "きづかない",
+            "きづけます",
             "きづきません",
             "きづいて",
-            "きづきました"
+            "きづかなければ"
         ]
     ],
     "airon": [
@@ -527,19 +527,21 @@
     ],
     "asobu": [
         "あそぶ",
-        "to play",
+        "to play; to have fun",
         "verb",
         [
             "asobimasu",
-            "asobanai",
+            "asobemasu",
             "asobimasen",
-            "asonde"
+            "asonde",
+            "asobanakereba"
         ],
         [
             "あそびます",
-            "あそばない",
+            "あそべます",
             "あそびません",
-            "あそんで"
+            "あそんで",
+            "あそばなければ"
         ]
     ],
     "atama": [
@@ -691,15 +693,21 @@
     ],
     "bouei suru": [
         "ぼうえいする",
-        "to defend",
+        "to defend; to protect; to guard",
         "verb",
         [
             "bouei shimasu",
-            "bouei shimasen"
+            "bouei shiemasu",
+            "bouei shimasen",
+            "bouei shite",
+            "bouei shinakereba"
         ],
         [
             "ぼうえいします",
-            "ぼうえいしません"
+            "ぼうえいしえます",
+            "ぼうえいしません",
+            "ぼうえいして",
+            "ぼうえいしなければ"
         ]
     ],
     "boueiteki": [
@@ -1303,19 +1311,21 @@
     ],
     "hajimaru": [
         "はじまる",
-        "to begin \/ to start",
+        "to begin; to start; to commence",
         "verb",
         [
             "hajimarimasu",
-            "hajimaranai",
+            "hajimaremasu",
             "hajimarimasen",
-            "hajimatte"
+            "hajimatte",
+            "hajimanakereba"
         ],
         [
             "はじまります",
-            "はじまらない",
+            "はじまれます",
             "はじまりません",
-            "はじまって"
+            "はじまって",
+            "はじまらなければ"
         ]
     ],
     "shimuzu": [
@@ -1660,15 +1670,21 @@
     ],
     "hoshou suru": [
         "ほしょうする",
-        "to guarantee",
+        "to secure; to guarantee; to provide protection",
         "verb",
         [
             "hoshou shimasu",
-            "hoshou shimasen"
+            "hoshou shiemasu",
+            "hoshou shimasen",
+            "hoshou shite",
+            "hoshou shinakereba"
         ],
         [
             "ほしょうします",
-            "ほしょうしません"
+            "ほしょうしえます",
+            "ほしょうしません",
+            "ほしょうして",
+            "ほしょうしなければ"
         ]
     ],
     "hosoi": [
@@ -2415,19 +2431,21 @@
     ],
     "kiku": [
         "きく",
-        "to hear\/to ask",
+        "to listen; to ask; to hear",
         "verb",
         [
             "kikimasu",
-            "kikanai",
+            "kikemasu",
             "kikimasen",
-            "kiite"
+            "kiite",
+            "kikanakereba"
         ],
         [
             "ききます",
-            "きかない",
+            "きけます",
             "ききません",
-            "きいて"
+            "きいて",
+            "きかなければ"
         ]
     ],
     "kimeru": [
@@ -2595,15 +2613,21 @@
     ],
     "kougeki suru": [
         "こうげきする",
-        "to attack",
+        "to attack; to strike; to assault",
         "verb",
         [
             "kougeki shimasu",
-            "kougeki shimasen"
+            "kougeki shiemasu",
+            "kougeki shimasen",
+            "kougeki shite",
+            "kougeki shinakereba"
         ],
         [
             "こうげきします",
-            "こうげきしません"
+            "こうげきしえます",
+            "こうげきしません",
+            "こうげきして",
+            "こうげきしなければ"
         ]
     ],
     "kougekiteki": [
@@ -2618,15 +2642,21 @@
     ],
     "kouho suru": [
         "こうほする",
-        "to nominate",
+        "to advance; to make a strategic move; to move forward",
         "verb",
         [
             "kouho shimasu",
-            "kouho shimasen"
+            "kouho shiemasu",
+            "kouho shimasen",
+            "kouho shite",
+            "kouho shinakereba"
         ],
         [
             "こうほします",
-            "こうほしません"
+            "こうほしえます",
+            "こうほしません",
+            "こうほして",
+            "こうほしなければ"
         ]
     ],
     "koukateki": [
@@ -2941,13 +2971,384 @@
             "mamorimasu",
             "mamoranai",
             "mamorimasen",
-            "mamotte"
+            "mamotte",
+            "mamorimashita"
         ],
         [
             "まもります",
             "まもらない",
             "まもりません",
-            "まもって"
+            "まもって",
+            "まもりました"
+        ]
+    ],
+    "shuuryou suru": [
+        "しゅうりょうする",
+        "to finish; to conclude; to end operations",
+        "verb",
+        [
+            "shuuryou shimasu",
+            "shuuryou shiemasu",
+            "shuuryou shimasen",
+            "shuuryou shite",
+            "shuuryou shinakereba"
+        ],
+        [
+            "しゅうりょうします",
+            "しゅうりょうしえます",
+            "しゅうりょうしません",
+            "しゅうりょうして",
+            "しゅうりょうしなければ"
+        ]
+    ],
+    "kouhou suru": [
+        "こうほうする",
+        "to advance; to promote; to move forward in battle",
+        "verb",
+        [
+            "kouhou shimasu",
+            "kouhou shiemasu",
+            "kouhou shimasen",
+            "kouhou shite",
+            "kouhou shinakereba"
+        ],
+        [
+            "こうほうします",
+            "こうほうしえます",
+            "こうほうしません",
+            "こうほうして",
+            "こうほうしなければ"
+        ]
+    ],
+    "taiji suru": [
+        "たいじする",
+        "to defeat; to destroy; to eliminate",
+        "verb",
+        [
+            "taiji shimasu",
+            "taiji shiemasu",
+            "taiji shimasen",
+            "taiji shite",
+            "taiji shinakereba"
+        ],
+        [
+            "たいじします",
+            "たいじしえます",
+            "たいじしません",
+            "たいじして",
+            "たいじしなければ"
+        ]
+    ],
+    "shutsudou suru": [
+        "しゅつどうする",
+        "to sortie; to go on a mission; to deploy troops",
+        "verb",
+        [
+            "shutsudou shimasu",
+            "shutsudou shiemasu",
+            "shutsudou shimasen",
+            "shutsudou shite",
+            "shutsudou shinakereba"
+        ],
+        [
+            "しゅつどうします",
+            "しゅつどうしえます",
+            "しゅつどうしません",
+            "しゅつどうして",
+            "しゅつどうしなければ"
+        ]
+    ],
+    "sentou suru": [
+        "せんとうする",
+        "to battle\/fight",
+        "verb",
+        [
+            "sentou shimasu",
+            "sentou shimasen"
+        ],
+        [
+            "せんとうします",
+            "せんとうしません"
+        ]
+    ],
+    "senjou suru": [
+        "せんじょうする",
+        "to go to the battlefield; to fight on the front lines",
+        "verb",
+        [
+            "senjou shimasu",
+            "senjou shiemasu",
+            "senjou shimasen",
+            "senjou shite",
+            "senjou shinakereba"
+        ],
+        [
+            "せんじょうします",
+            "せんじょうしえます",
+            "せんじょうしません",
+            "せんじょうして",
+            "せんじょうしなければ"
+        ]
+    ],
+    "kougi suru": [
+        "こうぎする",
+        "to rebel; to resist; to revolt",
+        "verb",
+        [
+            "kougi shimasu",
+            "kougi shiemasu",
+            "kougi shimasen",
+            "kougi shite",
+            "kougi shinakereba"
+        ],
+        [
+            "こうぎします",
+            "こうぎしえます",
+            "こうぎしません",
+            "こうぎして",
+            "こうぎしなければ"
+        ]
+    ],
+    "tanoshimu": [
+        "たのしむ",
+        "to enjoy; to have fun",
+        "verb",
+        [
+            "tanoshimimasu",
+            "tanoshimemasu",
+            "tanoshimasen",
+            "tanoshinde",
+            "tanoshimanakereba"
+        ],
+        [
+            "たのしみます",
+            "たのしめます",
+            "たのしみません",
+            "たのしんで",
+            "たのしまなければ"
+        ]
+    ],
+    "yobu": [
+        "よぶ",
+        "to call \/ to invite",
+        "verb",
+        [
+            "yobimasu",
+            "yobanai",
+            "yobimasen",
+            "yonde"
+        ],
+        [
+            "よびます",
+            "よばない",
+            "よびません",
+            "よんで"
+        ]
+    ],
+    "odoru": [
+        "おどる",
+        "to dance",
+        "verb",
+        [
+            "odorimasu",
+            "odorimasen"
+        ],
+        [
+            "おどります",
+            "おどりません"
+        ]
+    ],
+    "taberu": [
+        "たべる",
+        "to eat",
+        "verb",
+        [
+            "tabemasu",
+            "tabemashita",
+            "tabemasen"
+        ],
+        [
+            "たべます",
+            "たべました",
+            "たべません"
+        ]
+    ],
+    "nomu": [
+        "のむ",
+        "to drink",
+        "verb",
+        [
+            "nomimasu",
+            "nomanai",
+            "nomimasen",
+            "nonde"
+        ],
+        [
+            "のみます",
+            "のまない",
+            "のみません",
+            "のんで"
+        ]
+    ],
+    "kesu": [
+        "けす",
+        "to turn off; to extinguish; to erase",
+        "verb",
+        [
+            "keshimasu",
+            "kesemasu",
+            "keshimasen",
+            "keshite",
+            "kesanakereba"
+        ],
+        [
+            "けします",
+            "けせます",
+            "けしません",
+            "けして",
+            "けさなければ"
+        ]
+    ],
+    "miru": [
+        "みる",
+        "to see \/ watch",
+        "verb",
+        [
+            "mimasu",
+            "minai",
+            "mimasen",
+            "mite"
+        ],
+        [
+            "みます",
+            "みない",
+            "みません",
+            "みて"
+        ]
+    ],
+    "motsu": [
+        "もつ",
+        "to hold; to carry; to have",
+        "verb",
+        [
+            "mochimasu",
+            "motemasu",
+            "mochimasen",
+            "motte",
+            "motanakereba"
+        ],
+        [
+            "もります",
+            "もてます",
+            "もちません",
+            "もって",
+            "もたなければ"
+        ]
+    ],
+    "tsukau": [
+        "つかう",
+        "to use; to employ; to utilize",
+        "verb",
+        [
+            "tsukaimasu",
+            "tsukaemasu",
+            "tsukaimasen",
+            "tsukatte",
+            "tsukawanakereba"
+        ],
+        [
+            "つかいます",
+            "つかえます",
+            "つかいません",
+            "つかって",
+            "つかわなければ"
+        ]
+    ],
+    "isogu": [
+        "いそぐ",
+        "to hurry; to rush; to speed up",
+        "verb",
+        [
+            "isogimasu",
+            "isogemasu",
+            "isogimasen",
+            "isoいで",
+            "isoganakereba"
+        ],
+        [
+            "いそぎます",
+            "いそげます",
+            "いそぎません",
+            "いそいで",
+            "いそがなければ"
+        ]
+    ],
+    "tsutaeru": [
+        "つたえる",
+        "to convey; to tell; to inform",
+        "verb",
+        [
+            "tsutaemasu",
+            "tsutaememasu",
+            "tsutaemasen",
+            "tsutaete",
+            "tsutaenakereba"
+        ],
+        [
+            "つたえます",
+            "つたえれます",
+            "つたえません",
+            "つたえて",
+            "つたえなければ"
+        ]
+    ],
+    "sasou": [
+        "さそう",
+        "to invite; to tempt; to ask someone to join",
+        "verb",
+        [
+            "sasoimasu",
+            "sasoemasu",
+            "sasoimasen",
+            "sasotte",
+            "sasoわなければ"
+        ],
+        [
+            "さそいます",
+            "さそえます",
+            "さそいません",
+            "さそって",
+            "さそわなければ"
+        ]
+    ],
+    "okuru": [
+        "おくる",
+        "to send \/ give",
+        "verb",
+        [
+            "okurimasu",
+            "okuranai",
+            "okurimasen",
+            "okutte"
+        ],
+        [
+            "おくります",
+            "おくらない",
+            "おくりません",
+            "おくって"
+        ]
+    ],
+    "utau": [
+        "うたう",
+        "to sing",
+        "verb",
+        [
+            "utaimasu",
+            "utaimasen"
+        ],
+        [
+            "うたいます",
+            "うたいません"
         ]
     ],
     "manabu": [
@@ -3101,23 +3502,6 @@
         "みます",
         "to watch\/see",
         "verb"
-    ],
-    "miru": [
-        "みる",
-        "to see \/ watch",
-        "verb",
-        [
-            "mimasu",
-            "minai",
-            "mimasen",
-            "mite"
-        ],
-        [
-            "みます",
-            "みない",
-            "みません",
-            "みて"
-        ]
     ],
     "misemasu": [
         "みせます",
@@ -3513,23 +3897,6 @@
         "drink\/beverage",
         "noun"
     ],
-    "nomu": [
-        "のむ",
-        "to drink",
-        "verb",
-        [
-            "nomimasu",
-            "nomanai",
-            "nomimasen",
-            "nonde"
-        ],
-        [
-            "のみます",
-            "のまない",
-            "のみません",
-            "のんで"
-        ]
-    ],
     "nori": [
         "のり",
         "glue\/sticking",
@@ -3615,19 +3982,6 @@
             "おちて"
         ]
     ],
-    "odoru": [
-        "おどる",
-        "to dance",
-        "verb",
-        [
-            "odorimasu",
-            "odorimasen"
-        ],
-        [
-            "おどります",
-            "おどりません"
-        ]
-    ],
     "ofuro": [
         "おふろ",
         "bath",
@@ -3702,23 +4056,6 @@
         "おこす",
         "to wake someone \/ cause",
         "verb"
-    ],
-    "okuru": [
-        "おくる",
-        "to send \/ give",
-        "verb",
-        [
-            "okurimasu",
-            "okuranai",
-            "okurimasen",
-            "okutte"
-        ],
-        [
-            "おくります",
-            "おくらない",
-            "おくりません",
-            "おくって"
-        ]
     ],
     "omoi": [
         "おもい",
@@ -3821,21 +4158,21 @@
     ],
     "owaru": [
         "おわる",
-        "to finish",
+        "to end; to finish; to be over",
         "verb",
         [
             "owarimasu",
-            "owaranai",
+            "owaremasu",
             "owarimasen",
             "owatte",
-            "owarimashita"
+            "owanakereba"
         ],
         [
             "おわります",
-            "おわらない",
+            "おわれます",
             "おわりません",
             "おわって",
-            "おわりました"
+            "おわらなければ"
         ]
     ],
     "owatta": [
@@ -4275,15 +4612,21 @@
     ],
     "sensou suru": [
         "せんそうする",
-        "to wage war",
+        "to wage war; to fight a war",
         "verb",
         [
             "sensou shimasu",
-            "sensou shimasen"
+            "sensou shiemasu",
+            "sensou shimasen",
+            "sensou shite",
+            "sensou shinakereba"
         ],
         [
             "せんそうします",
-            "せんそうしません"
+            "せんそうしえます",
+            "せんそうしません",
+            "せんそうして",
+            "せんそうしなければ"
         ]
     ],
     "sensouteki": [
@@ -4310,19 +4653,6 @@
         "せんとう",
         "battle\/fight",
         "noun"
-    ],
-    "sentou suru": [
-        "せんとうする",
-        "to battle\/fight",
-        "verb",
-        [
-            "sentou shimasu",
-            "sentou shimasen"
-        ],
-        [
-            "せんとうします",
-            "せんとうしません"
-        ]
     ],
     "senzai": [
         "せんざい",
@@ -4457,21 +4787,21 @@
     ],
     "shinu": [
         "しぬ",
-        "to die",
+        "to die; to perish",
         "verb",
         [
             "shinimasu",
-            "shinanai",
+            "shinemasu",
             "shinimasen",
             "shinde",
-            "shinimashita"
+            "shinanakereba"
         ],
         [
             "しにます",
-            "しにない",
+            "しねます",
             "しにません",
             "しんで",
-            "しにました"
+            "しななければ"
         ]
     ],
     "shio": [
@@ -5058,21 +5388,6 @@
         "food",
         "noun"
     ],
-    "taberu": [
-        "たべる",
-        "to eat",
-        "verb",
-        [
-            "tabemasu",
-            "tabemashita",
-            "tabemasen"
-        ],
-        [
-            "たべます",
-            "たべました",
-            "たべません"
-        ]
-    ],
     "tadashii": [
         "ただしい",
         "correct \/ right",
@@ -5553,23 +5868,6 @@
         "to grab \/ seize",
         "verb"
     ],
-    "tsukau": [
-        "つかう",
-        "to use",
-        "verb",
-        [
-            "tsukaimasu",
-            "tsukawanai",
-            "tsukaimasen",
-            "tsukatte"
-        ],
-        [
-            "つかいます",
-            "つかわない",
-            "つかいません",
-            "つかって"
-        ]
-    ],
     "tsuki": [
         "つき",
         "moon",
@@ -5772,19 +6070,6 @@
         "うた",
         "song\/poem",
         "noun"
-    ],
-    "utau": [
-        "うたう",
-        "to sing",
-        "verb",
-        [
-            "utaimasu",
-            "utaimasen"
-        ],
-        [
-            "うたいます",
-            "うたいません"
-        ]
     ],
     "utsu": [
         "うつ",
@@ -6253,23 +6538,6 @@
             "おぼえません"
         ]
     ],
-    "yobu": [
-        "よぶ",
-        "to call \/ to invite",
-        "verb",
-        [
-            "yobimasu",
-            "yobanai",
-            "yobimasen",
-            "yonde"
-        ],
-        [
-            "よびます",
-            "よばない",
-            "よびません",
-            "よんで"
-        ]
-    ],
     "yasai": [
         "やさい",
         "vegetables",
@@ -6645,14 +6913,343 @@
             "こうかしません"
         ]
     ],
+    "ataeru": [
+        "あたえる",
+        "to give; to present; to award; to provide; to impart; to cause; to inflict",
+        "verb",
+        [
+            "ataemasu",
+            "ataemasen",
+            "ataete",
+            "ataemashita"
+        ],
+        [
+            "あたえます",
+            "あたえません",
+            "あたえました",
+            "あたえて"
+        ]
+    ],
+    "ushinau": [
+        "うしなう",
+        "to lose; to be deprived of; to forfeit; to miss",
+        "verb",
+        [
+            "ushinaimasu",
+            "ushinaimasen",
+            "ushinaute",
+            "ushinaimashita"
+        ],
+        [
+            "うしないます",
+            "うしなません",
+            "うしないました",
+            "うしなえて"
+        ]
+    ],
+    "sousa suru": [
+        "そうさする",
+        "to operate; to manage; to control",
+        "verb",
+        [
+            "sousa shimasu",
+            "sousa shiemasu",
+            "sousa shimasen",
+            "sousa shite",
+            "sousa shinakereba"
+        ],
+        [
+            "そうさします",
+            "そうさしえます",
+            "そうさしません",
+            "そうさして",
+            "そうさしなければ"
+        ]
+    ],
     "Shinjuwan": [
         "しんじゅわんこうげき",
         "Attack on Pearl Harbor (Dec. 7, 1941)",
         "?"
     ],
+    "oinori suru": [
+        "おいのりする",
+        "to pray",
+        "verb",
+        [
+            "oinori shimasu",
+            "oinori shiemasu",
+            "oinori shimasen",
+            "oinori shite",
+            "oinori shinakereba"
+        ],
+        [
+            "おいのりします",
+            "おいのりしえます",
+            "おいのりしません",
+            "おいのりして",
+            "おいのりしなければ"
+        ]
+    ],
+    "sonaeru": [
+        "そなえる",
+        "to prepare; to equip; to provide for",
+        "verb",
+        [
+            "sonaemasu",
+            "sonaememasu",
+            "sonaemasen",
+            "sonaete",
+            "sonaenakereba"
+        ],
+        [
+            "そなえます",
+            "そなえれます",
+            "そなえません",
+            "そなえて",
+            "そなえなければ"
+        ]
+    ],
+    "shutsugeki suru": [
+        "しゅつげきする",
+        "to sortie; to deploy; to launch an attack",
+        "verb",
+        [
+            "shutsugeki shimasu",
+            "shutsugeki shiemasu",
+            "shutsugeki shimasen",
+            "shutsugeki shite",
+            "shutsugeki shinakereba"
+        ],
+        [
+            "しゅつげきします",
+            "しゅつげきしえます",
+            "しゅつげきしません",
+            "しゅつげきして",
+            "しゅつげきしなければ"
+        ]
+    ],
+    "kouji suru": [
+        "こうじする",
+        "to engage in combat; to conduct operations; to carry out work",
+        "verb",
+        [
+            "kouji shimasu",
+            "kouji shiemasu",
+            "kouji shimasen",
+            "kouji shite",
+            "kouji shinakereba"
+        ],
+        [
+            "こうじします",
+            "こうじしえます",
+            "こうじしません",
+            "こうじして",
+            "こうじしなければ"
+        ]
+    ],
     "kankei": [
         "かんけい",
         "relation; relationship; connection",
         "noun"
+    ],
+    "otousan": [
+        "おとうさん",
+        "father; dad; papa; pa; pop; daddy; dada - honorific language ➜ 父さん",
+        "noun"
+    ],
+    "haha": [
+        "はは",
+        "mother - かか was used by children - humble language ➜ 父",
+        "noun"
+    ],
+    "ani": [
+        "あに",
+        "elder brother; older brother - humble language",
+        "noun"
+    ],
+    "onīsan": [
+        "か",
+        "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted); a noun read using its on-yomi",
+        "counter"
+    ],
+    "otouto": [
+        "おとうと",
+        "younger brother; little brother; kid brother - humble language",
+        "noun"
+    ],
+    "imouto": [
+        "いもうと",
+        "younger sister - humble language",
+        "noun"
+    ],
+    "ane": [
+        "あね",
+        "older sister; elder sister - humble language",
+        "noun"
+    ],
+    "oneesan": [
+        "おねえさん",
+        "elder sister - usu. お姉さん - honorific language ➜ 姉さん",
+        "noun"
+    ],
+    "sofu": [
+        "そふ",
+        "grandfather",
+        "noun"
+    ],
+    "ojīsan": [
+        "か",
+        "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted); a noun read using its on-yomi",
+        "counter"
+    ],
+    "sobo": [
+        "そぼ",
+        "grandmother ➜ 婆",
+        "noun"
+    ],
+    "obaasan": [
+        "おばあさん",
+        "grandmother - usu. お祖母さん ➜ 祖母さん",
+        "noun"
+    ],
+    "oji": [
+        "そふ",
+        "grandfather",
+        "noun"
+    ],
+    "oba": [
+        "そぼ",
+        "grandmother ➜ 婆",
+        "noun"
+    ],
+    "itoko": [
+        "いとこ",
+        "cousin (male) ➜ 従姉妹",
+        "noun"
+    ],
+    "oi": [
+        "おい",
+        "old age; old person; the old; the aged",
+        "noun"
+    ],
+    "mei": [
+        "めい",
+        "niece ➜ 姪御・姪子",
+        "noun"
+    ],
+    "shinseki": [
+        "しんせき",
+        "relative; relation; kin ➜ 親類【しんるい】",
+        "noun"
+    ],
+    "akachan": [
+        "あかちゃん",
+        "baby; infant",
+        "noun"
+    ],
+    "enjin": [
+        "エンジン",
+        "engine",
+        "noun"
+    ],
+    "toransumisshon": [
+        "オートマチックトランスミッション",
+        "automatic transmission",
+        "noun"
+    ],
+    "sharin": [
+        "しゃりん",
+        "(car) wheel",
+        "noun"
+    ],
+    "taiya": [
+        "タイヤ",
+        "tire; tyre",
+        "noun"
+    ],
+    "bureeki": [
+        "ブレーキ",
+        "brake",
+        "noun"
+    ],
+    "handoru": [
+        "ハンドル",
+        "handle",
+        "noun"
+    ],
+    "dasshubōdo": [
+        "あげる",
+        "to raise; to elevate ➜ 手を挙げる",
+        "ichidan verb"
+    ],
+    "shitto": [
+        "しっと",
+        "jealousy; envy",
+        "noun"
+    ],
+    "shīto": [
+        "いう",
+        "to say; to utter; to declare",
+        "godan ~う verb"
+    ],
+    "heddoraito": [
+        "ヘッドライト",
+        "headlight",
+        "noun"
+    ],
+    "banpaa": [
+        "バンパー",
+        "bumper",
+        "noun"
+    ],
+    "miraa": [
+        "ミラー",
+        "mirror",
+        "noun"
+    ],
+    "furonto garasu": [
+        "フロント",
+        "front (aspect, weather, war-front, etc.)",
+        "noun"
+    ],
+    "waipaa": [
+        "ワイパー",
+        "windshield wipers",
+        "noun"
+    ],
+    "bonnetto": [
+        "ボンネット",
+        "bonnet; (car) hood",
+        "noun"
+    ],
+    "toranku": [
+        "トランク",
+        "suitcase; trunk",
+        "noun"
+    ],
+    "sedan": [
+        "セダン",
+        "sedan",
+        "noun"
+    ],
+    "ban": [
+        "ばん",
+        "evening",
+        "adverbial noun"
+    ],
+    "miniban": [
+        "ミニバン",
+        "minivan; people carrier",
+        "noun"
+    ],
+    "torakku": [
+        "トラック",
+        "truck; lorry",
+        "noun"
+    ],
+    "kūpe": [
+        "パナンペ",
+        "",
+        ""
     ]
 }
