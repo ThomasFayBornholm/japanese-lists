@@ -2957,12 +2957,14 @@
         [
             "manabimasu",
             "manabimasen",
-            "manande"
+            "manande",
+            "manabanakereba"
         ],
         [
             "まなびます",
             "まなびません",
-            "まなんで"
+            "まなんで",
+            "まなばなければ"
         ]
     ],
     "manubu": [
@@ -6186,11 +6188,15 @@
         "verb",
         [
             "kowaremasu",
-            "kowaremasen"
+            "kowaremasen",
+            "kowarete",
+            "kowaremashita"
         ],
         [
             "こわれます",
-            "こわれません"
+            "こわれません",
+            "こわれて",
+            "こわれました"
         ]
     ],
     "kariru": [
@@ -6550,5 +6556,10 @@
             "ねがい",
             "ねがわる"
         ]
+    ],
+    "Shinjuwan": [
+        "しんじゅわんこうげき",
+        "Attack on Pearl Harbor (Dec. 7, 1941)",
+        "?"
     ]
 }
