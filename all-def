@@ -955,7 +955,7 @@
     ],
     "eakon": [
         "エアコン",
-        "air conditioner",
+        "air-conditioner - abbreviation ➜ エアコンディショナー",
         "noun"
     ],
     "ebi": [
@@ -1153,7 +1153,7 @@
     ],
     "gareeji": [
         "ガレージ",
-        "garage",
+        "garage (at house)",
         "noun"
     ],
     "geemu": [
@@ -6053,7 +6053,7 @@
     ],
     "urusai": [
         "うるさい",
-        "noisy \/ annoying",
+        "noisy; loud",
         "adjective"
     ],
     "usagi": [
@@ -6268,7 +6268,7 @@
     ],
     "yami": [
         "やみ",
-        "darkness",
+        "darkness; the dark; dark",
         "noun"
     ],
     "yane": [
@@ -6278,20 +6278,8 @@
     ],
     "yaru": [
         "やる",
-        "to do \/ give (to pets, plants, younger siblings)",
-        "verb",
-        [
-            "yarimasu",
-            "yaranai",
-            "yarimasen",
-            "yatte"
-        ],
-        [
-            "やります",
-            "やらない",
-            "やりません",
-            "やって"
-        ]
+        "to do; to undertake; to perform; to play (a game); to study - colloquialism ➜ 為る【する】",
+        "godan ~る verb"
     ],
     "oshieru": [
         "おしえる",
@@ -7249,6 +7237,611 @@
     ],
     "kūpe": [
         "パナンペ",
+        "",
+        ""
+    ],
+    "kaanabi": [
+        "カーナビ",
+        "car navigation system - abbreviation",
+        "noun"
+    ],
+    "gasorin sutando": [
+        "ガソリン",
+        "gasoline; petrol",
+        "noun"
+    ],
+    "sutando": [
+        "ガソリンスタンド",
+        "gas station; petrol station - From  English &quot;gasoline stand&quot;",
+        "noun"
+    ],
+    "douro": [
+        "どうろ",
+        "road; highway",
+        "noun"
+    ],
+    "haiwei": [
+        "ハイウエー",
+        "highway",
+        "noun"
+    ],
+    "kūkou": [
+        "かう",
+        "",
+        ""
+    ],
+    "hikouki": [
+        "ひこうき",
+        "aeroplane; airplane; aircraft",
+        "noun"
+    ],
+    "pairotto": [
+        "パイロット",
+        "pilot",
+        "noun"
+    ],
+    "ririku": [
+        "りりく",
+        "takeoff",
+        "noun"
+    ],
+    "zaseki": [
+        "ざせき",
+        "seat",
+        "noun"
+    ],
+    "chakuriku": [
+        "ちゃくりく",
+        "landing; alighting; touch down",
+        "noun"
+    ],
+    "kyūmei doui": [
+        "メイロン",
+        "mei long (dinosaur discovered in China)",
+        "noun"
+    ],
+    "tsubasa": [
+        "つばさ",
+        "wing",
+        "noun"
+    ],
+    "biyoku": [
+        "びよく",
+        "tail (of an aircraft); empennage; tail assembly",
+        "noun"
+    ],
+    "kiatsu": [
+        "きあつ",
+        "atmospheric pressure",
+        "noun"
+    ],
+    "koukūken": [
+        "けんすう",
+        "one ken in length or breadth (1.818m)",
+        "noun"
+    ],
+    "koneko": [
+        "こねこ",
+        "kitten",
+        "noun"
+    ],
+    "hige": [
+        "ひげ",
+        "moustache; beard; whiskers - in careful usage 髭 for moustache, 鬚 for beard, 髯 for (cheek) whiskers ➜ 口髭・顎鬚・頬髯",
+        "noun"
+    ],
+    "ke": [
+        "け",
+        "hair",
+        "noun"
+    ],
+    "mimi": [
+        "みみ",
+        "ear",
+        "noun"
+    ],
+    "kuchi": [
+        "くち",
+        "mouth",
+        "noun"
+    ],
+    "ha": [
+        "は",
+        "tooth",
+        "noun"
+    ],
+    "kata": [
+        "かた",
+        "direction; way - also ほう",
+        "noun"
+    ],
+    "mune": [
+        "むね",
+        "chest; breast - むな is usually used in compounds",
+        "noun"
+    ],
+    "senaka": [
+        "せなか",
+        "back (of body)",
+        "noun"
+    ],
+    "hara": [
+        "はら",
+        "abdomen; belly; stomach",
+        "noun"
+    ],
+    "koshi": [
+        "こし",
+        "back; lower back; waist; hips; lumbar region",
+        "noun"
+    ],
+    "ashi": [
+        "あし",
+        "foot - esp. 足",
+        "noun"
+    ],
+    "hiza": [
+        "ひざ",
+        "knee",
+        "noun"
+    ],
+    "kakato": [
+        "かかと",
+        "heel (of foot, shoe, stocking, etc.)",
+        "noun"
+    ],
+    "hiji": [
+        "ひじ",
+        "elbow",
+        "noun"
+    ],
+    "tekubi": [
+        "てくび",
+        "wrist ➜ 腕首",
+        "noun"
+    ],
+    "ago": [
+        "あご",
+        "chin; jaw",
+        "noun"
+    ],
+    "omoide": [
+        "おもいで",
+        "memories; recollections; reminiscence",
+        "noun"
+    ],
+    "wasureru": [
+        "わすれる",
+        "to forget; to leave carelessly; to be forgetful of; to forget about; to forget (an article)",
+        "ichidan verb"
+    ],
+    "kaisou": [
+        "かいそう",
+        "class; level; stratum; layer; hierarchy",
+        "noun"
+    ],
+    "nou": [
+        "のう",
+        "talent; gift; function",
+        "noun"
+    ],
+    "kiokuryoku": [
+        "きおくりょく",
+        "memory; ability to remember",
+        "noun"
+    ],
+    "omoidasu": [
+        "おもいだす",
+        "to recall; to remember; to recollect",
+        "godan ~す verb"
+    ],
+    "chouki kioku": [
+        "ちょうき",
+        "long-term Antonym: 短期【たんき】",
+        "~の noun"
+    ],
+    "tanki kioku": [
+        "たんき",
+        "short-term Antonym: 長期【ちょうき】",
+        "~の noun"
+    ],
+    "konpyūtaa": [
+        "たあ",
+        "",
+        ""
+    ],
+    "kībōdo": [
+        "あげる",
+        "to raise; to elevate ➜ 手を挙げる",
+        "ichidan verb"
+    ],
+    "nōto pasokon": [
+        "いう",
+        "to say; to utter; to declare",
+        "godan ~う verb"
+    ],
+    "mausu": [
+        "マウス",
+        "mouse (esp. laboratory) ➜ 二十日鼠【はつかねずみ】",
+        "noun"
+    ],
+    "monitaa": [
+        "モニター",
+        "(computer) monitor - IT term",
+        "noun"
+    ],
+    "purosessaa": [
+        "プロセッサー",
+        "processor",
+        "noun"
+    ],
+    "memori": [
+        "めもり",
+        "gradations (on a ruler, thermometer, etc.); division; scale",
+        "noun"
+    ],
+    "haado doraibu": [
+        "ハード",
+        "hard; tough Antonym: ソフト",
+        "adjectival noun"
+    ],
+    "sofutowea": [
+        "ソフトウェア",
+        "software",
+        "noun"
+    ],
+    "intaanetto": [
+        "インターネット",
+        "Internet - IT term",
+        "noun"
+    ],
+    "sei": [
+        "せい",
+        "(logical) true; regular",
+        "noun"
+    ],
+    "seishoku": [
+        "せいしょく",
+        "blue",
+        "noun"
+    ],
+    "seishi": [
+        "せいし",
+        "stillness; repose; standing still Antonym: 運動",
+        "noun"
+    ],
+    "ranshi": [
+        "らんし",
+        "ovum; ovule; egg cell",
+        "noun"
+    ],
+    "ninshin": [
+        "にんしん",
+        "conception; pregnancy",
+        "noun"
+    ],
+    "jusei": [
+        "じゅせい",
+        "fertilization; fertilisation; impregnation; pollination",
+        "noun"
+    ],
+    "shussan": [
+        "しゅっさん",
+        "childbirth; (giving) birth; delivery; parturition; confinement",
+        "noun"
+    ],
+    "horumon": [
+        "ホルモン",
+        "hormone - From  German &quot;Hormon&quot;",
+        "noun"
+    ],
+    "seishokuki": [
+        "せいしょくき",
+        "genital organ; genitalia; sexual organ; reproductive organ",
+        "noun"
+    ],
+    "seikoui": [
+        "せいこうい",
+        "sex act; intercourse",
+        "noun"
+    ],
+    "secchi": [
+        "せっち",
+        "establishment; institution",
+        "noun"
+    ],
+    "ecchi": [
+        "エッチ",
+        "H; h",
+        "noun"
+    ],
+    "sekkusu": [
+        "セックス",
+        "sex; sexual intercourse",
+        "noun"
+    ],
+    "shimoneta": [
+        "しもネタ",
+        "dirty joke; blue joke",
+        "noun"
+    ],
+    "ecchi suru": [
+        "エッチ",
+        "H; h",
+        "noun"
+    ],
+    "fera": [
+        "フェラ",
+        "fellatio - abbreviation ➜ フェラチオ",
+        "noun"
+    ],
+    "adaruto": [
+        "アダルト",
+        "adult",
+        "noun"
+    ],
+    "kisu": [
+        "しるす",
+        "to write down; to note; to jot down ➜ 記する",
+        "godan ~す verb"
+    ],
+    "ero": [
+        "エロ",
+        "erotic; eroticism",
+        "adjectival noun"
+    ],
+    "inkei": [
+        "いんけい",
+        "penis",
+        "noun"
+    ],
+    "kuso": [
+        "くそ",
+        "bullshit; shit; damn - colloquialism",
+        "interjection"
+    ],
+    "zenritsusen": [
+        "ぜんりつせん",
+        "prostate gland",
+        "noun"
+    ],
+    "chitsu": [
+        "ちつ",
+        "vagina",
+        "noun"
+    ],
+    "manuke": [
+        "まぬけ",
+        "stupid; foolish; idiotic",
+        "adjectival noun"
+    ],
+    "ransou": [
+        "らんそう",
+        "ovary",
+        "noun"
+    ],
+    "inkaku": [
+        "いんかく",
+        "clitoris",
+        "noun"
+    ],
+    "baka": [
+        "ばか",
+        "fool; idiot",
+        "noun"
+    ],
+    "aho": [
+        "あほ",
+        "fool; idiot; simpleton - Kansai dialect",
+        "noun"
+    ],
+    "doji": [
+        "とち",
+        "plot of land; lot; soil",
+        "noun"
+    ],
+    "bakayarou": [
+        "ばかやろう",
+        "idiot - colloquialism - derogatory term - four character idiom",
+        "noun"
+    ],
+    "nibui": [
+        "にぶい",
+        "dull (e.g. a knife); blunt ［にぶい］",
+        "adjective"
+    ],
+    "shitsukoi": [
+        "しつこい",
+        "insistent; obstinate; persistent; tenacious",
+        "adjective"
+    ],
+    "hetakuso": [
+        "へたくそ",
+        "shitty; clumsy; poor; awkward - derogatory term",
+        "adjectival noun"
+    ],
+    "yaruki nai": [
+        "やるき",
+        "willingness (e.g. to do something); eagerness; motivation; inspiration; determination; high aspirations",
+        "noun"
+    ],
+    "baka jurou": [
+        "ばか",
+        "fool; idiot",
+        "noun"
+    ],
+    "omae baka": [
+        "おまえ",
+        "you - formerly honorific, now oft. derog. term referring to an equal or inferior - familiar language - male language",
+        "pronoun"
+    ],
+    "nibui hito": [
+        "にぶい",
+        "dull (e.g. a knife); blunt ［にぶい］",
+        "adjective"
+    ],
+    "chikusho": [
+        "ちくしょう",
+        "beast (i.e. any animal other than man)",
+        "noun"
+    ],
+    "temee": [
+        "てめえ",
+        "you - used by young males - vulgar - male language ➜ 手前【てまえ】",
+        "pronoun"
+    ],
+    "urusakute shou ga nai": [
+        "うるさい",
+        "noisy; loud",
+        "adjective"
+    ],
+    "orokamono": [
+        "おろかもの",
+        "fool",
+        "noun"
+    ],
+    "kuchiguse warui": [
+        "くちぐせ",
+        "pet saying; favorite phrase (favorite); stock phrase",
+        "noun"
+    ],
+    "keshikasu": [
+        "けしカス",
+        "eraser dust; eraser shavings; eraser crumbs",
+        "noun"
+    ],
+    "shippai-sha": [
+        "シャーミン",
+        "",
+        ""
+    ],
+    "kusa": [
+        "くさ",
+        "grass; weed; herb; thatch",
+        "noun"
+    ],
+    "taiyou": [
+        "たいよう",
+        "sun",
+        "noun"
+    ],
+    "hoshi": [
+        "ほし",
+        "star; any light-emitting (or reflecting) heavenly body (except for the sun and the moon)",
+        "noun"
+    ],
+    "iwa": [
+        "いわ",
+        "rock; boulder",
+        "noun"
+    ],
+    "hikari": [
+        "ひかり",
+        "light",
+        "noun"
+    ],
+    "hi": [
+        "ひ",
+        "fire; flame; blaze",
+        "noun"
+    ],
+    "kōri": [
+        "せんり",
+        "1000 ri; (a) long distance",
+        "adverbial noun"
+    ],
+    "sougen": [
+        "そうげん",
+        "grass-covered plain; grasslands; meadows; savannah; prairie; steppe",
+        "noun"
+    ],
+    "shinrin": [
+        "しんりん",
+        "forest; woods",
+        "noun"
+    ],
+    "kaigan": [
+        "かいがん",
+        "coast; beach",
+        "noun"
+    ],
+    "misaki": [
+        "みさき",
+        "cape (on coast)",
+        "noun"
+    ],
+    "shima": [
+        "しま",
+        "island",
+        "noun"
+    ],
+    "soumoku": [
+        "そうもく",
+        "plants; vegetation",
+        "noun"
+    ],
+    "nohara": [
+        "のはら",
+        "field; plain; prairie; moor",
+        "noun"
+    ],
+    "shicchi": [
+        "しっち",
+        "damp ground; wetland; bog; marsh",
+        "noun"
+    ],
+    "taki": [
+        "たき",
+        "waterfall",
+        "noun"
+    ],
+    "kawagishi": [
+        "かわぎし",
+        "riverbank; riverside",
+        "noun"
+    ],
+    "kohan": [
+        "こはん",
+        "lake shore",
+        "noun"
+    ],
+    "sunahama": [
+        "すなはま",
+        "sandy beach",
+        "noun"
+    ],
+    "sanchou": [
+        "さんちょう",
+        "summit (of a mountain)",
+        "noun"
+    ],
+    "iwayama": [
+        "いわやま",
+        "rocky mountain",
+        "noun"
+    ],
+    "kiri": [
+        "きり",
+        "fog; mist ➜ 靄・霞",
+        "noun"
+    ],
+    "inazuma": [
+        "いなずま",
+        "lightning; flash of lightning; lightning bolt",
+        "noun"
+    ],
+    "tatsumaki": [
+        "たつまき",
+        "tornado; waterspout",
+        "noun"
+    ],
+    "doubutsu": [
+        "どうぶつ",
+        "animal",
+        "noun"
+    ],
+    "shinrin-yoku": [
+        "しおやよく",
         "",
         ""
     ]
