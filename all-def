@@ -4840,6 +4840,47 @@
             "しなければ"
         ]
     ],
+    "atsumaru": [
+        "あつまる",
+        "to gather",
+        "verb",
+        [
+            "atsumarimasu",
+            "atsumaranai",
+            "atsumarimasen",
+            "atsumatte",
+            "atsumarimashita"
+        ],
+        [
+            "あつまります",
+            "あつまらない",
+            "あつまりません",
+            "あつまって",
+            "あつまりました"
+        ]
+    ],
+    "yarareru": [
+        "やられる",
+        "to be done\/to be beaten",
+        "verb",
+        [
+            "yararemasu",
+            "yararemasen",
+            "yararete",
+            "yararemashita"
+        ],
+        [
+            "やられます",
+            "やられません",
+            "やられて",
+            "やられました"
+        ]
+    ],
+    "gakkō": [
+        "がっこう",
+        "school",
+        "noun"
+    ],
     "sekaijū": [
         "せかいじゅう",
         "throughout the world",
