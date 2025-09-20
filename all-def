@@ -139,12 +139,12 @@
         "to join in",
         "?"
     ],
-    "koogeki": [
+    "kōgeki": [
         "こうげき",
         "attack\/strike\/offensive",
         "noun"
     ],
-    "chookokugun": [
+    "chōkokugun": [
         "ちょうこくぐん",
         "corps",
         "noun"
@@ -1292,6 +1292,30 @@
             "はじまらない",
             "はじまりません",
             "はじまって"
+        ]
+    ],
+    "shimuzu": [
+        "しみず",
+        "pure water",
+        "noun"
+    ],
+    "shizumu": [
+        "しずむ",
+        "to sink",
+        "verb",
+        [
+            "shizumimasu",
+            "shizumanai",
+            "shizumimasen",
+            "shizunde",
+            "shizumimashita"
+        ],
+        [
+            "しずみます",
+            "しずまない",
+            "しずみません",
+            "しずんで",
+            "しずみました"
         ]
     ],
     "hajimeru": [
