@@ -32,7 +32,7 @@
         "adjective"
     ],
     "Doitsu": [
-        "ドイツ",
+        "どいつ",
         "Germany"
     ],
     "Doitsu no": [
@@ -113,6 +113,45 @@
         "イタリアの",
         "Italian",
         "adjective"
+    ],
+    "Amerika": [
+        "あめりか",
+        "America",
+        "noun"
+    ],
+    "konnichi": [
+       "こんにち",
+       "",
+       ""
+    ],
+    "oyansuminasai": [
+        "こんにちは",
+        "good night",
+        ""
+    ],
+    "konbanwa": [
+        "こんばんは",
+        "konbanwa",
+        "greeting"
+    ],
+    "sanka": [
+        "さんか",
+        "to join in",
+        "?"
+    ],
+    "koogeki": [
+        "こうげき",
+        "attack/strike/offensive",
+        "noun"
+    ],
+    "chookokugun": [
+        "ちょうこくぐん",
+        "corps",
+        "noun"
+    ],
+    "Italia": [
+        "いたりあ",
+        "Italy"
     ],
     "Juugatsu": [
         "じゅうがつ",
@@ -276,7 +315,7 @@
     ],
     "abunai": [
         "あぶない",
-        "dangerous",
+        "dangerous / risky",
         "adjective"
     ],
     "ageru": [
@@ -318,6 +357,16 @@
         "あかい",
         "red"
     ],
+    "akarui": [
+        "あかるい",
+        "bright / cheerful",
+        "adjective"
+    ],
+    "akaruku": [
+        "あかるく",
+        "brightly / cheerfully",
+        "adverb"
+    ],
     "akeru": [
         "あける",
         "to open",
@@ -328,6 +377,11 @@
         "autumn",
         "noun"
     ],
+    "amai": [
+        "あまい",
+        "sweet",
+        "adjective"
+    ],
     "ame": [
         "あめ",
         "rain",
@@ -336,6 +390,21 @@
     "anata": [
         "あなた",
         "you"
+    ],
+    "ansoku": [
+        "あんそく",
+        "restraint / suppression",
+        "noun"
+    ],
+    "antei": [
+        "あんてい",
+        "stable / steady",
+        "adjective"
+    ],
+    "anzen": [
+        "あんぜん",
+        "safe",
+        "adjective"
     ],
     "ao": [
         "あおい",
@@ -449,6 +518,10 @@
         "あたたかい",
         "warn",
         "adjective"
+    ],
+    "atatakai-kimochi": [
+        "あたたかいきもち",
+        "warm feeling"
     ],
     "ato": [
         "あと",
@@ -573,6 +646,11 @@
             "べんきょうしません"
         ]
     ],
+    "benri": [
+        "べんり",
+        "convenient",
+        "adjective"
+    ],
     "bijin": [
         "びじん",
         "beautiful",
@@ -651,6 +729,11 @@
         "basement/underground",
         "noun"
     ],
+    "chikai": [
+        "ちかい",
+        "near / close",
+        "adjective"
+    ],
     "chikara": [
         "ちから",
         "power/strength",
@@ -687,6 +770,11 @@
             "ちゅうだんします",
             "ちゅうだんしません"
         ]
+    ],
+    "chuumoku": [
+        "ちゅうもく",
+        "noteworthy / remarkable",
+        "adjective"
     ],
     "chuuritsu": [
         "ちゅうりつ",
@@ -791,6 +879,11 @@
         "door",
         "noun"
     ],
+    "dokutoku": [
+        "どくとく",
+        "unique / distinctive",
+        "adjective"
+    ],
     "doriburu suru": [
         "ドリブルする",
         "to dribble (a ball)",
@@ -876,6 +969,11 @@
         "fort/chimney",
         "noun"
     ],
+    "erai": [
+        "えらい",
+        "great / admirable",
+        "adjective"
+    ],
     "fen": [
         "ふぇん",
         "fence",
@@ -886,9 +984,19 @@
         "fork",
         "noun"
     ],
+    "fuan": [
+        "ふあん",
+        "anxious / uneasy",
+        "adjective"
+    ],
     "fuantei": [
         "ふあんてい",
         "unstable",
+        "adjective"
+    ],
+    "fuben": [
+        "ふべん",
+        "inconvenient",
         "adjective"
     ],
     "fujisan": [
@@ -896,10 +1004,20 @@
         "Mount Fuji",
         "noun"
     ],
+    "fujiyuu": [
+        "ふじゆう",
+        "not free / restricted",
+        "adjective"
+    ],
     "fuku": [
         "ふく",
         "clothes",
         "noun"
+    ],
+    "fukuzatsu": [
+        "ふくざつ",
+        "complicated",
+        "adjective"
     ],
     "fukyou": [
         "ふきょう",
@@ -920,6 +1038,11 @@
         "ふるい",
         "old"
     ],
+    "fushigi": [
+        "ふしぎ",
+        "mysterious / strange",
+        "adjective"
+    ],
     "fusoku suru": [
         "ふそくする",
         "to lack/be short of",
@@ -932,6 +1055,11 @@
             "ふそくします",
             "ふそくしません"
         ]
+    ],
+    "futoi": [
+        "ふとい",
+        "thick / fat",
+        "adjective"
     ],
     "futon": [
         "ふとん",
@@ -1007,10 +1135,20 @@
         "entranceway",
         "noun"
     ],
+    "genki": [
+        "げんき",
+        "healthy/energetic",
+        "adjective"
+    ],
     "genshi": [
         "げんし",
         "atom",
         "noun"
+    ],
+    "gensoku": [
+        "げんそく",
+        "modest / humble",
+        "adjective"
     ],
     "go": [
         "ご",
@@ -1045,6 +1183,11 @@
         "ゴルフ",
         "golf",
         "noun"
+    ],
+    "gouka": [
+        "ごうか",
+        "gorgeous / luxurious",
+        "adjective"
     ],
     "gozen": [
         "ごぜん",
@@ -1099,6 +1242,11 @@
         "はちがつ",
         "August",
         "noun"
+    ],
+    "hade": [
+        "はで",
+        "flashy / gaudy",
+        "adjective"
     ],
     "hageshii": [
         "はげしい",
@@ -1188,6 +1336,11 @@
             "はなします"
         ]
     ],
+    "handan": [
+        "はんだん",
+        "judgment / decision",
+        "noun"
+    ],
     "hangeki suru": [
         "はんげきする",
         "to counterattack",
@@ -1231,14 +1384,48 @@
         "to run",
         "verb"
     ],
+    "taisen": [
+        "たいせん",
+        "battle",
+        "noun"
+    ],
+    "shinshutsu": [
+        "しんしゅつ",
+        "advance/attack",
+        "noun"
+    ],
     "hataraku": [
         "はたらく",
         "to work",
-        "verb"
+        "verb",
+        [
+            "hatarakimasu",
+            "hatarakanai",
+            "hatarakimasen",
+            "hataraitte",
+            "hatarakimashita"
+        ],
+        [
+            "はたらきます",
+            "はたらかない",
+            "はたらきません",
+            "はたらいて",
+            "はたらきました"
+        ]
     ],
     "hayai": [
         "はやい",
         "fast",
+        "adjective"
+    ],
+    "hazukashigariya": [
+        "はずかしがりや",
+        "shy person",
+        "noun"
+    ],
+    "hazukashii": [
+        "はずかしい",
+        "embarrassed / shy",
         "adjective"
     ],
     "heijitsu": [
@@ -1278,7 +1465,12 @@
     ],
     "heta": [
         "へた",
-        "unskillful",
+        "unskilled/bad at",
+        "adjective"
+    ],
+    "hetauma": [
+        "へたうま",
+        "skillful but unrefined (art style)",
         "adjective"
     ],
     "heya": [
@@ -1311,6 +1503,11 @@
         "low / short",
         "adjective"
     ],
+    "hima": [
+        "ひま",
+        "not busy/free (time)",
+        "adjective"
+    ],
     "himo": [
         "ひも",
         "string/cord",
@@ -1321,10 +1518,30 @@
         "critical",
         "adjective"
     ],
+    "hinjaku": [
+        "ひんじゃく",
+        "weak / frail",
+        "adjective"
+    ],
+    "hinshitsu": [
+        "ひんしつ",
+        "quality",
+        "noun"
+    ],
     "hiragana": [
         "ひらがな",
         "hiragana",
         "noun"
+    ],
+    "hirogaru": [
+        "ひろがる",
+        "to spread / extend",
+        "verb"
+    ],
+    "hiroi": [
+        "ひろい",
+        "wide / spacious",
+        "adjective"
     ],
     "hirugohan": [
         "ひるごはん",
@@ -1335,6 +1552,11 @@
         "ひるやすみ",
         "lunch break",
         "noun"
+    ],
+    "hisashiburi": [
+        "ひさしぶり",
+        "long time no see",
+        "expression"
     ],
     "hitobito": [
         "ひとびと",
@@ -1394,10 +1616,20 @@
             "ほしょうしません"
         ]
     ],
+    "hosoi": [
+        "ほそい",
+        "thin / slender",
+        "adjective"
+    ],
     "hotaru": [
         "ほたる",
         "firefly",
         "noun"
+    ],
+    "houfu": [
+        "ほうふ",
+        "abundant / plentiful",
+        "adjective"
     ],
     "houhou": [
         "ほうほう",
@@ -1438,10 +1670,20 @@
         "house / home",
         "noun"
     ],
+    "ii": [
+        "いい",
+        "good / nice",
+        "adjective"
+    ],
     "iie": [
         "いいえ",
         "no",
         ""
+    ],
+    "ijiwaru": [
+        "いじわる",
+        "mean / spiteful",
+        "adjective"
     ],
     "ijō": [
         "いじょう",
@@ -1519,10 +1761,20 @@
         "seashore",
         "noun"
     ],
+    "isohashii": [
+        "いそがしい",
+        "busy (people/days)",
+        "adjective"
+    ],
     "isu": [
         "いす",
         "chair",
         "noun"
+    ],
+    "itai": [
+        "いたい",
+        "painful / sore",
+        "adjective"
     ],
     "jagaimo": [
         "じゃがいも",
@@ -1552,6 +1804,11 @@
         "automobile/car",
         "noun"
     ],
+    "jijitsu": [
+        "じじつ",
+        "fact / truth",
+        "noun"
+    ],
     "jikan": [
         "じかん",
         "time",
@@ -1560,6 +1817,11 @@
     "jikanai": [
         "じかない",
         "not self",
+        "adjective"
+    ],
+    "jimi": [
+        "じみ",
+        "plain / simple",
         "adjective"
     ],
     "jisho": [
@@ -1571,6 +1833,21 @@
         "じてんしゃ",
         "bicycle",
         "noun"
+    ],
+    "jiyuu": [
+        "じゆう",
+        "free / unrestricted",
+        "adjective"
+    ],
+    "joubu": [
+        "じょうぶ",
+        "strong/sturdy",
+        "adjective"
+    ],
+    "jouhin": [
+        "じょうひん",
+        "elegant / refined",
+        "adjective"
     ],
     "jouryaku suru": [
         "じょうりゃくする",
@@ -1587,7 +1864,7 @@
     ],
     "jouzu": [
         "じょうず",
-        "skillful/good at",
+        "skilled/good at",
         "adjective"
     ],
     "junbi": [
@@ -1607,6 +1884,11 @@
             "じゅんびします",
             "じゅんびしません"
         ]
+    ],
+    "junsui": [
+        "じゅんすい",
+        "pure / genuine",
+        "adjective"
     ],
     "jusho": [
         "じゅうしょ",
@@ -1741,6 +2023,11 @@
         "to hang / make a call",
         "verb"
     ],
+    "kakkou": [
+        "かっこう",
+        "appearance / looks",
+        "noun"
+    ],
     "kaku": [
         "書く",
         "to write",
@@ -1780,7 +2067,7 @@
     ],
     "kanashii": [
         "かなしい",
-        "sad/sorrowful",
+        "sad",
         "adjective"
     ],
     "kangaeru": [
@@ -1813,6 +2100,16 @@
         "guard/sentry",
         "noun"
     ],
+    "kantan": [
+        "かんたん",
+        "easy/simple",
+        "adjective"
+    ],
+    "kantoku": [
+        "かんとく",
+        "director / manager",
+        "noun"
+    ],
     "kao": [
         "かお",
         "face",
@@ -1832,6 +2129,11 @@
         "からだ",
         "body",
         "noun"
+    ],
+    "karai": [
+        "からい",
+        "spicy / hot",
+        "adjective"
     ],
     "karasu": [
         "からす",
@@ -1867,6 +2169,11 @@
         "かすみ",
         "mist/fog",
         "noun"
+    ],
+    "katai": [
+        "かたい",
+        "hard / solid",
+        "adjective"
     ],
     "katakana": [
         "カタカナ",
@@ -1921,6 +2228,11 @@
         "かわのさく",
         "river bank",
         "noun"
+    ],
+    "kawaii": [
+        "かわいい",
+        "cute",
+        "adjective"
     ],
     "kawaru": [
         "かわる",
@@ -2017,9 +2329,14 @@
         "hope",
         "noun"
     ],
+    "kieri": [
+        "きれい",
+        "pretty/clean",
+        "adjective"
+    ],
     "kiken": [
         "きけん",
-        "risky/dangerous",
+        "dangerous",
         "adjective"
     ],
     "kiku": [
@@ -2183,6 +2500,11 @@
         "こうえん",
         "park"
     ],
+    "koufuku": [
+        "こうふく",
+        "happiness / blessedness",
+        "noun"
+    ],
     "koufun suru": [
         "こうふんする",
         "to be excited",
@@ -2242,10 +2564,24 @@
         "effective",
         "adjective"
     ],
+    "kouteki": [
+        "こうてき",
+        "positive / constructive",
+        "adjective"
+    ],
+    "kowagarigariya": [
+        "こわがりや",
+        "coward / fearful person",
+        "noun"
+    ],
     "kowai": [
         "こわい",
-        "scary/frightening/fearful",
+        "scary / frightening",
         "adjective"
+    ],
+    "kowaresou": [
+        "こわれそう",
+        "fragile"
     ],
     "kubi": [
         "くび",
@@ -2281,6 +2617,11 @@
         "くに",
         "country",
         "noun"
+    ],
+    "kurai": [
+        "くらい",
+        "dark/gloomy",
+        "adjective"
     ],
     "kureru": [
         "くれる",
@@ -2327,10 +2668,25 @@
         "car",
         "noun"
     ],
+    "kurushige": [
+        "くるしげ",
+        "looking distressed",
+        "adjective"
+    ],
+    "kurushii": [
+        "くるしい",
+        "painful / distressing",
+        "adjective"
+    ],
     "kusaban": [
         "くさばな",
         "grass/plant",
         "noun"
+    ],
+    "kusai": [
+        "くさい",
+        "smelly / stinky",
+        "adjective"
     ],
     "kusuri": [
         "くすり",
@@ -2379,6 +2735,11 @@
         "きゅう",
         "nine"
     ],
+    "kyuuni": [
+        "きゅうに",
+        "suddenly / abruptly",
+        "adverb"
+    ],
     "kyōdai": [
         "きょうだい",
         "siblings",
@@ -2421,10 +2782,20 @@
         "coffee",
         "noun"
     ],
+    "mabushi": [
+        "まぶしい",
+        "dazzling / glaring",
+        "adjective"
+    ],
     "machi": [
         "まち",
         "town/city",
         "noun"
+    ],
+    "machigai-nai": [
+        "まちがいない",
+        "no mistake / for sure",
+        "adjective"
     ],
     "machinami": [
         "まちなみ",
@@ -2459,6 +2830,16 @@
         "まいしゅう",
         "every week",
         "noun"
+    ],
+    "majim": [
+        "まじめ",
+        "serious/diligent",
+        "adjective"
+    ],
+    "majime": [
+        "まじめ",
+        "serious / diligent",
+        "adjective"
     ],
     "makeru": [
         "まける",
@@ -2548,6 +2929,16 @@
             "まおって"
         ]
     ],
+    "maroyaka": [
+        "まろやか",
+        "mellow / mild",
+        "adjective"
+    ],
+    "marui": [
+        "まるい",
+        "round / circular",
+        "adjective"
+    ],
     "mashinegan": [
         "マシンガン",
         "machine gun",
@@ -2573,9 +2964,19 @@
         "festival",
         "noun"
     ],
+    "mayoi-nai": [
+        "まよい",
+        "hesitation / doubt",
+        "noun"
+    ],
     "mazui": [
         "まずい",
         "unpleasant (food)",
+        "adjective"
+    ],
+    "mazushii": [
+        "まずい",
+        "bad tasting / unappetizing",
         "adjective"
     ],
     "me": [
@@ -2592,6 +2993,21 @@
         "めん",
         "noodles",
         "noun"
+    ],
+    "mendoukusai": [
+        "めんどくさい",
+        "bothersome / tiresome",
+        "adjective"
+    ],
+    "mezamashii": [
+        "めざましい",
+        "remarkable / splendid",
+        "adjective"
+    ],
+    "mezurashii": [
+        "めずらしい",
+        "rare / unusual",
+        "adjective"
     ],
     "midori": [
         "みどり",
@@ -2735,6 +3151,11 @@
         "to burn",
         "verb"
     ],
+    "mukiryoku": [
+        "むきりょく",
+        "lack of energy / lethargy",
+        "noun"
+    ],
     "mushi": [
         "むし",
         "insect/bug",
@@ -2785,6 +3206,11 @@
         "なかま",
         "companion / colleague / friend",
         "noun"
+    ],
+    "nakanaka-ii": [
+        "なかなかいい",
+        "pretty good",
+        "expression"
     ],
     "naku": [
         "なく",
@@ -2878,6 +3304,11 @@
         "summer (season)",
         "noun"
     ],
+    "natsukashii": [
+        "なつかしい",
+        "nostalgic",
+        "adjective"
+    ],
     "nattō": [
         "なっとう",
         "fermented soybeans",
@@ -2887,6 +3318,11 @@
         "ねこ",
         "cat",
         "noun"
+    ],
+    "nemui": [
+        "ねむい",
+        "sleepy",
+        "adjective"
     ],
     "nen": [
         "ねん",
@@ -2908,9 +3344,19 @@
             "ねて"
         ]
     ],
+    "nesshin": [
+        "ねっしん",
+        "enthusiastic / zealous",
+        "adjective"
+    ],
     "ni": [
         "に",
         "two"
+    ],
+    "nigai": [
+        "にがい",
+        "bitter",
+        "adjective"
     ],
     "nigate": [
         "にがて",
@@ -2933,6 +3379,16 @@
             "にげません",
             "にげて"
         ]
+    ],
+    "nigiyaka": [
+        "にぎやか",
+        "lively/bustling",
+        "adjective"
+    ],
+    "nigiyaka-de-nai": [
+        "にぎやかでない",
+        "not lively / not bustling",
+        "adjective"
     ],
     "nihongo": [
         "にほんご",
@@ -3027,10 +3483,19 @@
         "notepad",
         "noun"
     ],
+    "nukumori ha aru": [
+        "ぬくもりはある",
+        "there is warmth"
+    ],
     "nuno": [
         "ぬの",
         "cloth",
         "noun"
+    ],
+    "nurui": [
+        "ぬるい",
+        "lukewarm / tepid",
+        "adjective"
     ],
     "nusumu": [
         "ぬすむ",
@@ -3124,6 +3589,11 @@
         "sweets/snack",
         "noun"
     ],
+    "okashii": [
+        "おかしい",
+        "funny / strange",
+        "adjective"
+    ],
     "okayu": [
         "おかゆ",
         "rice porridge",
@@ -3206,6 +3676,11 @@
         "oven",
         "noun"
     ],
+    "ooi": [
+        "おおい",
+        "many / much",
+        "adjective"
+    ],
     "ookii": [
         "おおきい",
         "big/large",
@@ -3243,7 +3718,7 @@
     ],
     "osoroshii": [
         "おそろしい",
-        "terrible/frightening",
+        "terrible / dreadful",
         "adjective"
     ],
     "otoko": [
@@ -3373,6 +3848,11 @@
         "radio",
         "noun"
     ],
+    "raku": [
+        "らく",
+        "comfortable / easy",
+        "adjective"
+    ],
     "ranninguu": [
         "ランニング",
         "running",
@@ -3401,6 +3881,16 @@
         "refrigerator",
         "noun"
     ],
+    "reigi-tadashii": [
+        "れいぎただしい",
+        "courteous / well-mannered",
+        "adjective"
+    ],
+    "reisei": [
+        "れいせい",
+        "calm / composed",
+        "adjective"
+    ],
     "reizoko": [
         "れいぞうこ",
         "refrigerator",
@@ -3421,6 +3911,11 @@
         "sumo wrestler",
         "noun"
     ],
+    "rikou": [
+        "りこう",
+        "clever / intelligent",
+        "adjective"
+    ],
     "riku": [
         "りく",
         "land",
@@ -3435,6 +3930,11 @@
         "りんご",
         "apple",
         "noun"
+    ],
+    "rippa": [
+        "りっぱ",
+        "splendid / fine",
+        "adjective"
     ],
     "roku": [
         "ろく",
@@ -3477,6 +3977,11 @@
         "parents",
         "noun"
     ],
+    "ryoukou": [
+        "りょうこう",
+        "travel / trip",
+        "noun"
+    ],
     "ryū": [
         "りゅう",
         "dragon",
@@ -3486,6 +3991,16 @@
         "らーめん",
         "ranen",
         "noun"
+    ],
+    "sabbishigariya": [
+        "さびしがりや",
+        "lonely person",
+        "noun"
+    ],
+    "sabishii": [
+        "さびしい",
+        "lonely",
+        "adjective"
     ],
     "sagasu": [
         "さがす",
@@ -3573,9 +4088,24 @@
         "government",
         "noun"
     ],
+    "seijitsu": [
+        "せいじつ",
+        "sincere / honest",
+        "adjective"
+    ],
+    "seijou": [
+        "せいじょう",
+        "normal / regular",
+        "adjective"
+    ],
     "seikaku": [
         "せいかく",
-        "personality/character",
+        "accurate / precise",
+        "adjective"
+    ],
+    "seikou": [
+        "せいこう",
+        "success",
         "noun"
     ],
     "sekai": [
@@ -3587,6 +4117,11 @@
         "せっけん",
         "soap",
         "noun"
+    ],
+    "semai": [
+        "せまい",
+        "narrow / small (space)",
+        "adjective"
     ],
     "senchi": [
         "せんち",
@@ -3758,6 +4293,11 @@
         "tied/bound",
         "adjective"
     ],
+    "shibui": [
+        "しぶい",
+        "astringent / subdued",
+        "adjective"
+    ],
     "shigoto": [
         "しごと",
         "work/job",
@@ -3786,6 +4326,11 @@
         "deer",
         "noun"
     ],
+    "shikakui": [
+        "しかくい",
+        "square / rectangular",
+        "adjective"
+    ],
     "shiken": [
         "しけん",
         "exam/test",
@@ -3811,9 +4356,34 @@
         "serious",
         "adjective"
     ],
+    "shinpai": [
+        "しんぱい",
+        "worried / anxious",
+        "adjective"
+    ],
+    "shinpai-fu": [
+        "しんぱいふ",
+        "carefree / unconcerned",
+        "adjective"
+    ],
+    "shinpuku": [
+        "しんぷく",
+        "deep / profound",
+        "adjective"
+    ],
+    "shinrai": [
+        "しんらい",
+        "trust / reliance",
+        "noun"
+    ],
     "shinryokuteki": [
         "しんりょくてき",
         "invasive",
+        "adjective"
+    ],
+    "shinsetsu": [
+        "しんせつ",
+        "kind",
         "adjective"
     ],
     "shinu": [
@@ -3867,10 +4437,35 @@
         "historical materials/documents",
         "noun"
     ],
+    "shiteki": [
+        "してき",
+        "pointed / pointedly",
+        "adjective"
+    ],
     "shitsu": [
         "しつ",
         "room",
         "noun"
+    ],
+    "shitsurei": [
+        "しつれい",
+        "rude / impolite",
+        "adjective"
+    ],
+    "shitsuyou": [
+        "しつよう",
+        "demanding / exacting",
+        "adjective"
+    ],
+    "shizen": [
+        "しぜん",
+        "natural / spontaneous",
+        "adjective"
+    ],
+    "shizuka": [
+        "しずか",
+        "quiet",
+        "adjective"
     ],
     "shokki": [
         "しょっき",
@@ -3897,6 +4492,11 @@
         "sushi chef/artisan",
         "noun"
     ],
+    "shoppai": [
+        "しょっぱい",
+        "salty",
+        "adjective"
+    ],
     "shoppingu": [
         "ショッピング",
         "shopping",
@@ -3906,6 +4506,16 @@
         "しょうごん",
         "general/commander in chief/ shogun",
         "noun"
+    ],
+    "shoujiki": [
+        "しょうじき",
+        "honest / straightforward",
+        "adjective"
+    ],
+    "shoushin": [
+        "しょうしん",
+        "timid",
+        "adjective"
     ],
     "shujin": [
         "しゅじん",
@@ -3981,6 +4591,11 @@
             "しゅういんしません"
         ]
     ],
+    "sinpai": [
+        "しんぱい",
+        "worried / anxious",
+        "adjective"
+    ],
     "soba": [
         "そば",
         "soba",
@@ -4015,6 +4630,11 @@
         "そと",
         "outside"
     ],
+    "subarashii": [
+        "すばらしい",
+        "wonderful / splendid",
+        "adjective"
+    ],
     "sugosu": [
         "すごす",
         "to spend (time)",
@@ -4044,8 +4664,13 @@
     ],
     "suki": [
         "すき",
-        "like/fondness",
-        "noun"
+        "liked",
+        "adjective"
+    ],
+    "sukunai": [
+        "すくない",
+        "few / little",
+        "adjective"
     ],
     "sukēto": [
         "スケート",
@@ -4115,6 +4740,11 @@
         "スポーツ",
         "sports"
     ],
+    "suppai": [
+        "すっぱい",
+        "sour",
+        "adjective"
+    ],
     "supōtsu": [
         "スポーツ",
         "sports",
@@ -4130,7 +4760,8 @@
             "shinai",
             "shita",
             "shimashita",
-            "saremashita"
+            "saremashita",
+            "sareta"
         ],
         [
             "します",
@@ -4138,8 +4769,109 @@
             "しない",
             "した",
             "しました",
-            "されました"
+            "されました",
+            "された"
         ]
+    ],
+    "Taiwan": [
+        "たいわん",
+        "Taiwan",
+        "noun"
+    ],
+    "shokuminchi": [
+        "しょくみんち",
+        "colony",
+        "noun"
+    ],
+    "skoku": [
+        "しょこく",
+        "country/nation",
+        "noun"
+    ],
+    "min": [
+        "みん",
+        "people/nation",
+        "noun"
+    ],
+    "chi": [
+        "ち",
+        "earth/ground",
+        "noun"
+    ],
+    "roomaji": [
+        "ローマ字",
+        "romanization of Japanese",
+        "noun"
+    ],
+    "bun": [
+        "ぶん",
+        "sentence/part/segment",
+        "noun"
+    ],
+    "seifukatsu": [
+        "せいふかつ",
+        "life/living",
+        "noun"
+    ],
+    "kikan": [
+        "きかん",
+        "period/term",
+        "noun"
+    ],
+    "aida": [
+        "あいだ",
+        "between/among/during",
+        "noun"
+    ],
+    "ookiku": [
+        "おおきく",
+        "largely/big",
+        "adverb"
+    ],
+    "eikyou": [
+        "えいきょう",
+        "influence",
+        "noun"
+    ],
+    "koutsuu": [
+        "こうつう",
+        "traffic/transportation",
+        "noun"
+    ],
+    "jidai": [
+        "じだい",
+        "era/age",
+        "noun"
+    ],
+    "daibu": [
+        "だいぶ",
+        "considerably/quite a lot",
+        "adverb"
+    ],
+    "kawatta": [
+        "かわった",
+        "changed",
+        "adjective"
+    ],
+    "uketa": [
+        "うけた",
+        "received/took (a test)",
+        "adjective"
+    ],
+    "bunka": [
+        "ぶんか",
+        "culture",
+        "noun"
+    ],
+    "made": [
+        "まで",
+        "until / up to",
+        "noun"
+    ],
+    "yotte": [
+        "よって",
+        "therefore / because of that",
+        "conjunction"
     ],
     "sushi": [
         "すし",
@@ -4168,6 +4900,11 @@
         "すわる",
         "to sit",
         "verb"
+    ],
+    "suzushige": [
+        "すずしげ",
+        "cool looking",
+        "adjective"
     ],
     "suzushii": [
         "すずしい",
@@ -4214,6 +4951,11 @@
             "たべません"
         ]
     ],
+    "tadashii": [
+        "ただしい",
+        "correct / right",
+        "adjective"
+    ],
     "taeru": [
         "たえる",
         "to endure",
@@ -4241,6 +4983,11 @@
         "Pacific Ocean",
         "noun"
     ],
+    "taihen": [
+        "たいへん",
+        "tough / hard (situation)",
+        "adjective"
+    ],
     "taihou": [
         "たいほう",
         "cannon",
@@ -4253,7 +5000,7 @@
     ],
     "taisetsu": [
         "たいせつ",
-        "important",
+        "important / precious",
         "adjective"
     ],
     "taisou": [
@@ -4316,6 +5063,11 @@
         "valley",
         "noun"
     ],
+    "tanjun": [
+        "たんじゅん",
+        "simple / plain",
+        "adjective"
+    ],
     "tanoshii": [
         "たのしい",
         "fun/enjoyable/pleasant",
@@ -4374,6 +5126,11 @@
         "タオル",
         "towel",
         "noun"
+    ],
+    "tayou": [
+        "たよう",
+        "diverse / varied",
+        "adjective"
     ],
     "tazuneru": [
         "たずねる",
@@ -4435,10 +5192,25 @@
         "supply",
         "noun"
     ],
+    "teinei": [
+        "ていねい",
+        "polite / courteous",
+        "adjective"
+    ],
     "teki": [
         "てき",
         "enemy",
         "noun"
+    ],
+    "tekikou": [
+        "てきこう",
+        "resistance / opposition",
+        "noun"
+    ],
+    "tekitou": [
+        "てきとう",
+        "suitable / appropriate",
+        "adjective"
     ],
     "tenisu": [
         "テニス",
@@ -4534,6 +5306,16 @@
         "とけい",
         "clock"
     ],
+    "tokubestu": [
+        "とくべつ",
+        "special",
+        "adjective"
+    ],
+    "tokubetsu": [
+        "とくべつ",
+        "special",
+        "adjective"
+    ],
     "tokui": [
         "とくい",
         "good at / strong at",
@@ -4565,6 +5347,11 @@
         "ともだち",
         "friend",
         "noun"
+    ],
+    "tooi": [
+        "とおい",
+        "far",
+        "adjective"
     ],
     "tora": [
         "とら",
@@ -4610,6 +5397,11 @@
             "とりません",
             "とって"
         ]
+    ],
+    "touzen": [
+        "とうぜん",
+        "natural / as a matter of course",
+        "adjective"
     ],
     "tsu": [
         "つ",
@@ -4694,6 +5486,11 @@
         "つなみ",
         "tsunami",
         "noun"
+    ],
+    "tsurai": [
+        "つらい",
+        "painful / tough (situation)",
+        "adjective"
     ],
     "tsuri": [
         "つり",
@@ -4784,6 +5581,11 @@
         "horse",
         "noun"
     ],
+    "umai": [
+        "うまい",
+        "delicious / tasty",
+        "adjective"
+    ],
     "umi": [
         "うみ",
         "sea/ocean",
@@ -4793,6 +5595,11 @@
         "うみのながれ",
         "ocean current",
         "noun"
+    ],
+    "urayamai": [
+        "うらやましい",
+        "envious / jealous",
+        "adjective"
     ],
     "ureshii": [
         "うれしい",
@@ -4815,6 +5622,11 @@
             "うりません",
             "うって"
         ]
+    ],
+    "urusai": [
+        "うるさい",
+        "noisy / annoying",
+        "adjective"
     ],
     "usagi": [
         "うさぎ",
@@ -4884,6 +5696,11 @@
         "to laugh",
         "verb"
     ],
+    "warui": [
+        "わるい",
+        "bad / poor quality",
+        "adjective"
+    ],
     "wasabi": [
         "わさび",
         "wasabi",
@@ -4899,14 +5716,109 @@
         "I / me",
         "pronoun"
     ],
+    "wazuramashii": [
+        "わずらわしい",
+        "troublesome / annoying",
+        "adjective"
+    ],
     "wo": [
         "を",
         "object marker",
         "noun"
     ],
+    "jinkou": [
+        "じんこう",
+        "population",
+        "noun"
+    ],
     "ya": [
         "や",
-        "arrow",
+        "and",
+        "noun"
+    ],
+    "kouzou": [
+        "こうぞう",
+        "structure",
+        "noun"
+    ],
+    "kaizen": [
+        "かいぜん",
+        "improvement",
+        "noun"
+    ],
+    "gyousei": [
+        "ぎょうせい",
+        "administration/government",
+        "noun"
+    ],
+    "seido": [
+        "せいど",
+        "system",
+        "noun"
+    ],
+    "keizai": [
+        "けいざい",
+        "economy/economics",
+        "noun"
+    ],
+    "seifuku": [
+        "せいふく",
+        "uniform",
+        "noun"
+    ],
+    "moto": [
+        "もと",
+        "origin/source/basis",
+        "noun"
+    ],
+    "seikatsu": [
+        "せいかつ",
+        "life/living",
+        "noun"
+    ],
+    "shikata": [
+        "しかた",
+        "way/method",
+        "noun"
+    ],
+    "shimin-tachi": [
+        "しみんたち",
+        "citizens",
+        "noun"
+    ],
+    "kaerareta": [
+        "かえられた",
+        "could return",
+        "adjective"
+    ],
+    "ookina": [
+        "おおきな",
+        "big/large",
+        "adjective"
+    ],
+    "ataeta": [
+        "あたえた",
+        "gave/awarded",
+        "adjective"
+    ],
+    "seiritsu": [
+        "せいりつ",
+        "establishment",
+        "noun"
+    ],
+    "hettari": [
+        "へったり",
+        "decreased",
+        "adjective"
+    ],
+    "fuetari": [
+        "ふえたり",
+        "increased",
+        "adjective"
+    ],
+    "kyouiku": [
+        "きょういく",
+        "education",
         "noun"
     ],
     "yakan": [
@@ -4966,6 +5878,346 @@
             "やって"
         ]
     ],
+    "oshieru": [
+        "おしえる",
+        "to teach / to tell",
+        "verb",
+        [
+            "oshiemasu",
+            "oshiemasen"
+        ],
+        [
+            "おしえます",
+            "おしえません"
+        ]
+    ],
+    "ireru": [
+        "いれる",
+        "to put in / to insert",
+        "verb",
+        [
+            "iremasu",
+            "iremasen"
+        ],
+        [
+            "いれます",
+            "いれません"
+        ]
+    ],
+    "dasu": [
+        "だす",
+        "to take out / to hand in",
+        "verb",
+        [
+            "dashimasu",
+            "dashimasen",
+            "dashite"
+        ],
+        [
+            "だします",
+            "だしません",
+            "だして"
+        ]
+    ],
+    "unten suru": [
+        "うんてんする",
+        "to drive",
+        "verb",
+        [
+            "unten shimasu",
+            "unten shimasen"
+        ],
+        [
+            "うんてんします",
+            "うんてんしません"
+        ]
+    ],
+    "renshuu suru": [
+        "れんしゅうする",
+        "to practice",
+        "verb",
+        [
+            "renshuu shimasu",
+            "renshuu shimasen"
+        ],
+        [
+            "れんしゅうします",
+            "れんしゅうしません"
+        ]
+    ],
+    "denwa suru": [
+        "でんわする",
+        "to call (by phone)",
+        "verb",
+        [
+            "denwa shimasu",
+            "denwa shimasen"
+        ],
+        [
+            "でんわします",
+            "でんわしません"
+        ]
+    ],
+    "sanpo suru": [
+        "さんぽする",
+        "to take a walk",
+        "verb",
+        [
+            "sanpo shimasu",
+            "sanpo shimasen"
+        ],
+        [
+            "さんぽします",
+            "さんぽしません"
+        ]
+    ],
+    "ryokou suru": [
+        "りょこうする",
+        "to travel",
+        "verb",
+        [
+            "ryokou shimasu",
+            "ryokou shimasen"
+        ],
+        [
+            "りょこうします",
+            "りょこうしません"
+        ]
+    ],
+    "souji suru": [
+        "そうじする",
+        "to clean",
+        "verb",
+        [
+            "souji shimasu",
+            "souji shimasen"
+        ],
+        [
+            "そうじします",
+            "そうじしません"
+        ]
+    ],
+    "hakobu": [
+        "はこぶ",
+        "to carry / to transport",
+        "verb",
+        [
+            "hakobimasu",
+            "hakobanai",
+            "hakobimasen",
+            "hakonde"
+        ],
+        [
+            "はこびます",
+            "はこばない",
+            "はこびません",
+            "はこんで"
+        ]
+    ],
+    "tasukeru": [
+        "たすける",
+        "to help / to save / to assist",
+        "verb",
+        [
+            "tasukemasu",
+            "tasukemasen"
+        ],
+        [
+            "たすけます",
+            "たすけません"
+        ]
+    ],
+    "naosu": [
+        "なおす",
+        "to fix / to correct",
+        "verb",
+        [
+            "naoshimasu",
+            "naoshimasen",
+            "naoshite"
+        ],
+        [
+            "なおします",
+            "なおしません",
+            "なおして"
+        ]
+    ],
+    "erabu": [
+        "えらぶ",
+        "to choose / to select",
+        "verb",
+        [
+            "erabimasu",
+            "erabanai",
+            "erabimasen",
+            "erande"
+        ],
+        [
+            "えらびます",
+            "えらばない",
+            "えらびません",
+            "えらんで"
+        ]
+    ],
+    "kimeru": [
+        "きめる",
+        "to decide",
+        "verb",
+        [
+            "kimemasu",
+            "kimemasen"
+        ],
+        [
+            "きめます",
+            "きめません"
+        ]
+    ],
+    "hajimaru": [
+        "はじまる",
+        "to begin / to start",
+        "verb",
+        [
+            "hajimarimasu",
+            "hajimaranai",
+            "hajimarimasen",
+            "hajimatte"
+        ],
+        [
+            "はじまります",
+            "はじまらない",
+            "はじまりません",
+            "はじまって"
+        ]
+    ],
+    "atsumeru": [
+        "あつめる",
+        "to collect / to gather",
+        "verb",
+        [
+            "atsumemasu",
+            "atsumemasen"
+        ],
+        [
+            "あつめます",
+            "あつめません"
+        ]
+    ],
+    "atsuamaru": [
+        "あつまる",
+        "to gather / to assemble",
+        "verb",
+        [
+            "atsumarimasu",
+            "atsumaranai",
+            "atsumarimasen",
+            "atsumatte"
+        ],
+        [
+            "あつまります",
+            "あつまらない",
+            "あつまりません",
+            "あつまって"
+        ]
+    ],
+    "kowasu": [
+        "こわす",
+        "to break / to destroy",
+        "verb",
+        [
+            "kowashimasu",
+            "kowasanai",
+            "kowashimasen",
+            "kowashite"
+        ],
+        [
+            "こわします",
+            "こわさない",
+            "こわしません",
+            "こわして"
+        ]
+    ],
+    "kowareru": [
+        "こわれる",
+        "to be broken",
+        "verb",
+        [
+            "kowaremasu",
+            "kowaremasen"
+        ],
+        [
+            "こわれます",
+            "こわれません"
+        ]
+    ],
+    "kariru": [
+        "かりる",
+        "to borrow / to rent",
+        "verb",
+        [
+            "karimasu",
+            "karimasen"
+        ],
+        [
+            "かります",
+            "かりません"
+        ]
+    ],
+    "kasu": [
+        "かす",
+        "to lend / to rent",
+        "verb",
+        [
+            "kashimasu",
+            "kashimasen"
+        ],
+        [
+            "かします",
+            "かしません"
+        ]
+    ],
+    "shinjiru": [
+        "しんじる",
+        "to believe / to trust",
+        "verb",
+        [
+            "shinjimasu",
+            "shinjimasen"
+        ],
+        [
+            "しんじます",
+            "しんじません"
+        ]
+    ],
+    "oboeru": [
+        "おぼえる",
+        "to memorize / to remember",
+        "verb",
+        [
+            "oboemasu",
+            "oboemasen"
+        ],
+        [
+            "おぼえます",
+            "おぼえません"
+        ]
+    ],
+    "yobu": [
+        "よぶ",
+        "to call / to invite",
+        "verb",
+        [
+            "yobimasu",
+            "yobanai",
+            "yobimasen",
+            "yonde"
+        ],
+        [
+            "よびます",
+            "よばない",
+            "よびません",
+            "よんで"
+        ]
+    ],
     "yasai": [
         "やさい",
         "vegetables",
@@ -4985,6 +6237,16 @@
         "やたい",
         "food stall",
         "noun"
+    ],
+    "yawarakai": [
+        "やわらかい",
+        "soft",
+        "adjective"
+    ],
+    "yawarakakute-atai": [
+        "やわらかくてあたい",
+        "soft and warm",
+        "adjective"
     ],
     "yofuku": [
         "ようふく",
@@ -5020,6 +6282,11 @@
         "weak",
         "adjective"
     ],
+    "yowayowashii": [
+        "よわよわしい",
+        "feeble / weak",
+        "adjective"
+    ],
     "yoyaku suru": [
         "よやくする",
         "to reserve / book",
@@ -5048,10 +6315,45 @@
         "snow",
         "noun"
     ],
+    "yumei": [
+        "ゆうめい",
+        "famous",
+        "adjective"
+    ],
     "yumi": [
         "ゆみ",
         "bow",
         "noun"
+    ],
+    "yummei": [
+        "ゆうめい",
+        "famous",
+        "adjective"
+    ],
+    "yutaka": [
+        "ゆたか",
+        "abundant / rich",
+        "adjective"
+    ],
+    "yutakana": [
+        "ゆたかな",
+        "abundant / rich",
+        "adjective"
+    ],
+    "yuuga": [
+        "ゆうが",
+        "elegant / graceful",
+        "adjective"
+    ],
+    "yuujuufudan": [
+        "ゆうじゅうふだん",
+        "indecisive / irresolute",
+        "adjective"
+    ],
+    "yuukan": [
+        "ゆうかん",
+        "brave / courageous",
+        "adjective"
     ],
     "yuusha": [
         "ゆうしゃ",
@@ -5085,6 +6387,16 @@
         "ざぶとん",
         "floor cushion",
         "noun"
+    ],
+    "zankoku": [
+        "ざんこく",
+        "cruel / harsh",
+        "adjective"
+    ],
+    "zannen": [
+        "ざんねん",
+        "regrettable / disappointing",
+        "adjective"
     ],
     "zaru": [
         "ざる",
