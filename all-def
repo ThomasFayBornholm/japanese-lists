@@ -6572,6 +6572,79 @@
             "おいのろしません"
         ]
     ],
+    "yō": [
+        "ようしゃ",
+        "hero",
+        "noun"
+    ],
+    "yōsha": [
+        "ようしゃ",
+        "hero",
+        "noun"
+    ],
+    "yōsha nai": [
+        "ようしゃない",
+        "cannot afford; cannot bear; cannot stand; cannot help",
+        "adjective"
+    ],
+    "sōsa suru": [
+        "そうさする",
+        "to operate; to manipulate; to conduct; to manage",
+        "verb",
+        [
+            "sōsa shimasu",
+            "sōsa shimasen"
+        ],
+        [
+            "そうさします",
+            "そうさしません"
+        ]
+    ],
+    "ateuru": [
+        "あてる",
+        "to hit; to apply; to expose to; to put to; to assign; to allot; to guess",
+        "verb",
+        [
+            "atemasu",
+            "atemashita",
+            "atemasen",
+            "atete"
+        ],
+        [
+            "あてます",
+            "あてました",
+            "あてません",
+            "あてて"
+        ]
+    ],
+    "eikyō": [
+        "えいきょう",
+        "influence; effect; impact; bearing; consequence",
+        "noun"
+    ],
+    "kōka": [
+        "こうか",
+        "effect; effectiveness; efficacy; impact; result",
+        "noun"
+    ],
+    "kōka na": [
+        "こうかな",
+        "expensive; costly; high-priced",
+        "adjective"
+    ],
+    "kōka suru": [
+        "こうかする",
+        "to be effective; to take effect; to work; to produce results",
+        "verb",
+        [
+            "kōka shimasu",
+            "kōka shimasen"
+        ],
+        [
+            "こうかします",
+            "こうかしません"
+        ]
+    ],
     "Shinjuwan": [
         "しんじゅわんこうげき",
         "Attack on Pearl Harbor (Dec. 7, 1941)",
