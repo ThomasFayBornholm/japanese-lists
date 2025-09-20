@@ -459,7 +459,20 @@
     ],
     "aru": [
         "ある",
-        "to exist (inanimate)"
+        "to exist (inanimate)",
+        "verb",
+        [
+            "arimasu",
+            "aranai",
+            "arimasen",
+            "atte"
+        ],
+        [
+            "あります",
+            "あらない",
+            "ありません",
+            "あって"
+        ]
     ],
     "aruku": [
         "あるく",
@@ -6338,10 +6351,5 @@
         "おおく",
         "many \/ much",
         "adverb"
-    ],
-    "arimasu": [
-        "ありんす",
-        "variation of \"arimasu\" used by the prostitutes of the Yoshiwara red light district in the Edo period",
-        "?"
-    ]
+    ]    
 }
